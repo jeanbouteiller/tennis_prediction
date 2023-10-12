@@ -30,11 +30,11 @@ jobs:
           python test.py
 
       - name: Commit and Push Changes
-      env:
-        GITHUB_TOKEN: "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"
-      run: |
-        git config --global user.email "jeanbouteiller.ds@gmail.com"
-        git config --global user.name "jeanbouteiller-ds"
-        git add test_data.txt
-        git commit -m "Update text file"
-        git push
+        env:
+          GITHUB_TOKEN: "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"
+        run: |
+          git config --global user.email "jeanbouteiller.ds@gmail.com"
+          git config --global user.name "jeanbouteiller-ds"
+          git add test_data.txt
+          git commit -m "Update text file"
+          git push
