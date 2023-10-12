@@ -34,7 +34,6 @@ jobs:
       - name: Execute Notebook
         run: |
           jupyter nbconvert --to notebook --execute test.ipynb
-          python test.py
 
       - name: Commit and Push Changes
         env:
