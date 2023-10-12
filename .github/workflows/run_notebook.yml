@@ -11,7 +11,9 @@ jobs:
 
     steps:
       - name: Debug
-        run: pwd
+        run: |
+          pwd
+          print(${{ secrets.GH_TOKEN }})
         
       - name: Checkout code
         uses: actions/checkout@v3
