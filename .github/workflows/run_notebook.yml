@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Debug
-        run: pwd
+      - name: Debug Permissions
+        run: |
+          echo "GitHub Actions Token: $${{ secrets.GH_TOKEN }}"
+          git config --get-all --show-origin --list
 
       - name: Checkout code
         uses: actions/checkout@v3
