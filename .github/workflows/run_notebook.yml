@@ -12,11 +12,11 @@ jobs:
     steps:
       - name: Debug Permissions
         run: |
-          echo $${{ secrets.GH_TOKEN }}
+          echo $${{ secrets.GH_TOKEN_1 }}
 
       - name: List Git Configuration
         env:
-            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
         run: |
           git config --list --show-origin
 
@@ -38,10 +38,15 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
         run: |
           git config --global user.email "jeanbouteiller.ds@gmail.com"
+          echo "1"
           git config --global user.name "jeanbouteiller-ds"
+          echo "2"
           git add test_data.txt
+          echo "3"
           git commit -m "Update text file"
+          echo "4"
           git push
+          echo "5"
