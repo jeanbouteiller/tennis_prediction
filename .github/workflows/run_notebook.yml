@@ -1,6 +1,7 @@
 name: Minutely Notebook Execution
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "* * * * *"
 
