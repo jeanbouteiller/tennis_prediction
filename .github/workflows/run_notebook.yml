@@ -14,9 +14,6 @@ jobs:
         run: |
           pwd
 
-      - env:
-        GH_TOKEN: "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"
-          
       - name: Checkout code
         uses: actions/checkout@v3
 
@@ -29,6 +26,8 @@ jobs:
         run: pip install jupyter
 
       - name: Execute Notebook
+        env:
+          GH_TOKEN: "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"
         run: |
           jupyter nbconvert --to notebook --execute test.ipynb
           python test.py
