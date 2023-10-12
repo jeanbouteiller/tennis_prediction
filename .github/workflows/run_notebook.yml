@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Debug Permissions
         run: |
-          echo "GitHub Actions Token: $${{ secrets.GH_TOKEN }}"
+          echo $${{ secrets.GH_TOKEN }}
 
       - name: List Git Configuration
         env:
