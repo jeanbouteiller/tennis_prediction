@@ -30,6 +30,8 @@ jobs:
           python test.py
 
       - name: Commit and Push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.email "jeanbouteiller.ds@gmail.com"
           git config --global user.name "jeanbouteiller-ds"
