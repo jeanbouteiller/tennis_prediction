@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Debug
+        run: echo $GITHUB_WORKSPACE/test_data.pkl
+        
       - name: Checkout code
         uses: actions/checkout@v3
 
