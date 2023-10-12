@@ -25,4 +25,10 @@ jobs:
         run: pip install jupyter
 
       - name: Execute Notebook
-        run: jupyter nbconvert --to notebook --execute test.ipynb
+        run: jupyter nbconvert --execute test.ipynb
+
+      - name: Commit and Push
+        run: |
+          git add test_data.txt
+          git commit -m "Update test_data.txt"
+          git push
