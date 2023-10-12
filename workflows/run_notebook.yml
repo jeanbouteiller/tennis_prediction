@@ -21,4 +21,4 @@ jobs:
         run: pip install jupyter
 
       - name: Execute Notebook
-        run: jupyter nbconvert --execute your_notebook.ipynb
+        run: jupyter nbconvert --execute test.ipynb
