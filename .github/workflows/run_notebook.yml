@@ -16,7 +16,7 @@ jobs:
 
       - name: List Git Configuration
         run: |
-          git config --get-all --show-origin
+          git config --get-all --list --show-origin
 
       - name: Checkout code
         uses: actions/checkout@v3
