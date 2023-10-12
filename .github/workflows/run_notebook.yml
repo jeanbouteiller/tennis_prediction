@@ -21,5 +21,8 @@ jobs:
       - name: Install Jupyter
         run: pip install jupyter
 
+      - name: Install google
+        run: pip install google
+
       - name: Execute Notebook
         run: jupyter nbconvert --to notebook --execute test.ipynb
