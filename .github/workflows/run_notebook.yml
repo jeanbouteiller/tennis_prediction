@@ -25,7 +25,9 @@ jobs:
         run: pip install jupyter
 
       - name: Execute Notebook
-        run: jupyter nbconvert --execute test.ipynb
+        run: |
+          jupyter nbconvert --to notebook --execute test.ipynb
+          python test.py
 
       - name: Commit and Push
         run: |
