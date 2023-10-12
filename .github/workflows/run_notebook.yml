@@ -31,6 +31,8 @@ jobs:
 
       - name: Commit and Push
         run: |
+          git config --global user.email "jeanbouteiller.ds@gmail.com"
+          git config --global user.name "jeanbouteiller-ds"
           git add test_data.txt
           git commit -m "Update test_data.txt"
           git push
