@@ -21,24 +21,21 @@ jobs:
           git config --list --show-origin
 
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2 # Use a specific version
 
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v2 # Use a specific version
         with:
           python-version: 3.8
 
       - name: Install Jupyter
-        run: pip install jupyter
+        run: |
+          pip install jupyter
 
       - name: Execute Notebook
         run: |
           jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb
 
-      - name: Set Merge Strategy
-        run: git config pull.rebase true  # Set merge strategy to rebase
-      - name: Pull Remote Changes
-        run: git pull origin main
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
@@ -49,6 +46,11 @@ jobs:
           git add "list_all_players_names.txt"
           git add "df_player_fixed.csv"
           git add "Update_weekly_ranking.nbconvert.ipynb"
-          git commit -m "Update files"
-          git push
 
+          # Check if there are changes to commit
+          if git diff --staged --name-only | grep -qE 'list_all_urls.txt|list_all_players_names.txt|df_player_fixed.csv|Update_weekly_ranking.nbconvert.ipynb'; then
+            git commit -m "Update files"
+            git push
+          else
+            echo "No changes to commit."
+          fi
