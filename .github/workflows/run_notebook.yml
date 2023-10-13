@@ -33,19 +33,13 @@ jobs:
 
       - name: Execute Notebook
         run: |
-          jupyter nbconvert --to notebook --execute test.ipynb
+          jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb.ipynb
 
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
         run: |
           git config --global user.email "jeanbouteiller.ds@gmail.com"
-          echo "1"
           git config --global user.name "jeanbouteiller-ds"
-          echo "2"
-          git add test_data.txt
-          echo "3"
-          git commit -m "Update text file"
-          echo "4"
+          git commit -m "Update files"
           git push
-          echo "5"
