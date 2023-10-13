@@ -33,7 +33,7 @@ jobs:
 
       - name: Execute Notebook
         run: |
-          jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb.ipynb
+          jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb
 
       - name: Commit and Push Changes
         env:
