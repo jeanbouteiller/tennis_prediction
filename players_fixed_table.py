@@ -7,10 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1eKWlpyRPemghzmN8X1cYFW6MOJTJpUDm
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-# %%capture
-# !pip install requests
-# !pip install PyGithub  # Install the PyGitHub library
+pip install requests
+pip install PyGithub  # Install the PyGitHub library
 
 import requests
 import random
