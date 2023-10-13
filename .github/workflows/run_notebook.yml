@@ -41,5 +41,8 @@ jobs:
         run: |
           git config --global user.email "jeanbouteiller.ds@gmail.com"
           git config --global user.name "jeanbouteiller-ds"
+          git add "list_all_urls.txt"
+          git add "list_all_players_names.txt"
+          git add "df_player_fixed.csv"
           git commit -m "Update files"
           git push
