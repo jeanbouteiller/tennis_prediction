@@ -1,5 +1,3 @@
-name: Minutely Notebook Execution
-
 on:
   workflow_dispatch:
   schedule:
@@ -13,29 +11,25 @@ jobs:
       - name: Debug Permissions
         run: |
           echo $${{ secrets.GH_TOKEN_1 }}
-
       - name: List Git Configuration
         env:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
         run: |
           git config --list --show-origin
-
       - name: Checkout code
-        uses: actions/checkout@v2 # Use a specific version
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2 # Use a specific version
+        uses: actions/setup-python@v3
         with:
           python-version: 3.8
 
       - name: Install Jupyter
-        run: |
-          pip install jupyter
+        run: pip install jupyter
 
       - name: Execute Notebook
         run: |
           jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb
-
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
@@ -46,11 +40,5 @@ jobs:
           git add "list_all_players_names.txt"
           git add "df_player_fixed.csv"
           git add "Update_weekly_ranking.nbconvert.ipynb"
-
-          # Check if there are changes to commit
-          if git diff --staged --name-only | grep -qE 'list_all_urls.txt|list_all_players_names.txt|df_player_fixed.csv|Update_weekly_ranking.nbconvert.ipynb'; then
-            git commit -m "Update files"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          git commit -m "Update files"
+          git push
