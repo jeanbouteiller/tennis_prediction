@@ -46,4 +46,5 @@ jobs:
           git add "df_player_fixed.csv"
           git add "Update_weekly_ranking.nbconvert.ipynb"
           git commit -m "Update files"
+          git pull
           git push
