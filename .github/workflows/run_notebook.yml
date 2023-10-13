@@ -44,6 +44,6 @@ jobs:
           git add "list_all_urls.txt"
           git add "list_all_players_names.txt"
           git add "df_player_fixed.csv"
-          git add "Update_weekly_ranking.ipynb"
+          git add "Update_weekly_ranking.nbconvert.ipynb"
           git commit -m "Update files"
           git push
