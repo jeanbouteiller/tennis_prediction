@@ -31,10 +31,10 @@ jobs:
 
       - name: Execute Notebook
         run: |
-          jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb
+          jupyter nbconvert --to notebook --execute update_fixed_table.ipynb
 
       - name: Discard Local Changes
-        run: git checkout "Update_weekly_ranking.nbconvert.ipynb"
+        run: git checkout "update_fixed_table.nbconvert.ipynb"
 
       - name: Pull Remote Changes
         run: git pull origin main # Add this step to pull remote changes before committing
@@ -49,7 +49,7 @@ jobs:
             git add "list_all_urls.txt"
             git add "list_all_players_names.txt"
             git add "df_player_fixed.csv"
-            git add "Update_weekly_ranking.nbconvert.ipynb"
+            git add "update_fixed_table.nbconvert.ipynb"
             git commit -m "Update files"
             git push
           else
