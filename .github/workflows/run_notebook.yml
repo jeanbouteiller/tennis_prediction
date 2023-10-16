@@ -30,6 +30,10 @@ jobs:
       - name: Execute Notebook
         run: |
           jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb
+
+      - name: Pull Remote Changes
+        run: git pull origin main # Add this step to pull remote changes before committing
+
       - name: Commit and Push Changes
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
