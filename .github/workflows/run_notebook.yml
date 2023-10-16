@@ -41,11 +41,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
         run: |
-          git config --global user.email "jeanbouteiller.ds@gmail.com"
-          git config --global user.name "jeanbouteiller-ds"
-          git add "list_all_urls.txt"
-          git add "list_all_players_names.txt"
-          git add "df_player_fixed.csv"
-          git add "Update_weekly_ranking.nbconvert.ipynb"
-          git commit -m "Update files"
-          git push
+          if [[ -n $(git status --porcelain) ]]; then
+            git config --global user.email "jeanbouteiller.ds@gmail.com"
+            git config --global user.name "jeanbouteiller-ds"
+            git add "list_all_urls.txt"
+            git add "list_all_players_names.txt"
+            git add "df_player_fixed.csv"
+            git add "Update_weekly_ranking.nbconvert.ipynb"
+            git commit -m "Update files"
+            git push
+          else
+            echo "No changes to commit."
+          fi
