@@ -31,6 +31,9 @@ jobs:
         run: |
           jupyter nbconvert --to notebook --execute Update_weekly_ranking.ipynb
 
+      - name: Discard Local Changes
+        run: git checkout "Update_weekly_ranking.nbconvert.ipynb"
+
       - name: Pull Remote Changes
         run: git pull origin main # Add this step to pull remote changes before committing
 
