@@ -35,6 +35,8 @@ jobs:
 
       - name: Discard Local Changes
         run: git checkout "update_fixed_table.nbconvert.ipynb"
+          
+
 
       - name: Pull Remote Changes
         run: git pull origin main # Add this step to pull remote changes before committing
