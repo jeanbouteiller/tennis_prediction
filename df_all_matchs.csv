@@ -1,1661 +1,502 @@
 tournament_name,tournament_date,round,winner_name,loser_name,score
 Adelaide,1990.01.01,Finals,Thomas Muster,Jimmy Arias,36-62-75
-Adelaide,1990.01.01,Semi-Finals,Thomas Muster,Sergi Bruguera,36-62-75
-Adelaide,1990.01.01,Semi-Finals,Jimmy Arias,Jean-Philippe Fleurian,26-62-76
-Adelaide,1990.01.01,Quarter-Finals,Sergi Bruguera,Michael Stich,36-62-75
-Adelaide,1990.01.01,Quarter-Finals,Thomas Muster,Mark Kratzmann,26-62-76
-Adelaide,1990.01.01,Quarter-Finals,Jimmy Arias,Mark Koevermans,62-63
-Adelaide,1990.01.01,Quarter-Finals,Jean-Philippe Fleurian,Jerome Potier,67-60-64
-Adelaide,1990.01.01,Round of 16,Sergi Bruguera,Broderick Dyke,36-62-75
-Adelaide,1990.01.01,Round of 16,Thomas Muster,John Fitzgerald,26-62-76
-Adelaide,1990.01.01,Round of 16,Jimmy Arias,Alexander Volkov,62-63
-Adelaide,1990.01.01,Round of 16,Mark Kratzmann,Paul Annacone,67-60-64
-Adelaide,1990.01.01,Round of 16,Mark Koevermans,Patrik Kuhnen,75-64
-Adelaide,1990.01.01,Round of 16,Michael Stich,Michiel Schapers,63-64
-Adelaide,1990.01.01,Round of 16,Jerome Potier,Marc Rosset,63-36-61
-Adelaide,1990.01.01,Round of 16,Jean-Philippe Fleurian,Udo Riglewski,67-62-63
-Adelaide,1990.01.01,Round of 32,Sergi Bruguera,Per Henricsson,36-62-75
-Adelaide,1990.01.01,Round of 32,Udo Riglewski,Goran Ivanisevic,26-62-76
-Adelaide,1990.01.01,Round of 32,Thomas Muster,Claudio Pistolesi,62-63
-Adelaide,1990.01.01,Round of 32,Alexander Volkov,Todd Woodbridge,67-60-64
-Adelaide,1990.01.01,Round of 32,Paul Annacone,Bruno Oresar,75-64
-Adelaide,1990.01.01,Round of 32,Mark Koevermans,Alexander Mronz,63-64
-Adelaide,1990.01.01,Round of 32,Michiel Schapers,Petr Korda,63-36-61
-Adelaide,1990.01.01,Round of 32,Marc Rosset,Andrei Cherkasov,67-62-63
-Adelaide,1990.01.01,Round of 32,Jimmy Arias,Mark Woodforde,62-76
-Adelaide,1990.01.01,Round of 32,Broderick Dyke,Gary Muller,64-76
-Adelaide,1990.01.01,Round of 32,John Fitzgerald,Xavier Daufresne,64-64
-Adelaide,1990.01.01,Round of 32,Jean-Philippe Fleurian,Tom Nijssen,63-36-61
-Adelaide,1990.01.01,Round of 32,Mark Kratzmann,Jason Stoltenberg,64-63
-Adelaide,1990.01.01,Round of 32,Patrik Kuhnen,Paul Haarhuis,64-64
+Adelaide,1990.01.01,Semi-Finals,Thomas Muster,Sergi Bruguera,26-62-76
+Adelaide,1990.01.01,Semi-Finals,Jimmy Arias,Jean-Philippe Fleurian,62-63
+Adelaide,1990.01.01,Quarter-Finals,Sergi Bruguera,Michael Stich,67-60-64
+Adelaide,1990.01.01,Quarter-Finals,Thomas Muster,Mark Kratzmann,75-64
+Adelaide,1990.01.01,Quarter-Finals,Jimmy Arias,Mark Koevermans,63-64
+Adelaide,1990.01.01,Quarter-Finals,Jean-Philippe Fleurian,Jerome Potier,63-36-61
+Adelaide,1990.01.01,Round of 16,Sergi Bruguera,Broderick Dyke,67-62-63
+Adelaide,1990.01.01,Round of 16,Thomas Muster,John Fitzgerald,62-76
+Adelaide,1990.01.01,Round of 16,Jimmy Arias,Alexander Volkov,64-76
+Adelaide,1990.01.01,Round of 16,Mark Kratzmann,Paul Annacone,64-64
+Adelaide,1990.01.01,Round of 16,Mark Koevermans,Patrik Kuhnen,63-36-61
+Adelaide,1990.01.01,Round of 16,Michael Stich,Michiel Schapers,64-63
+Adelaide,1990.01.01,Round of 16,Jerome Potier,Marc Rosset,64-64
+Adelaide,1990.01.01,Round of 16,Jean-Philippe Fleurian,Udo Riglewski,63-64
+Adelaide,1990.01.01,Round of 32,Sergi Bruguera,Per Henricsson,76-62
+Adelaide,1990.01.01,Round of 32,Udo Riglewski,Goran Ivanisevic,16-63-61
+Adelaide,1990.01.01,Round of 32,Thomas Muster,Claudio Pistolesi,64-46-63
+Adelaide,1990.01.01,Round of 32,Alexander Volkov,Todd Woodbridge,64-16-64
+Adelaide,1990.01.01,Round of 32,Paul Annacone,Bruno Oresar,61-64
+Adelaide,1990.01.01,Round of 32,Mark Koevermans,Alexander Mronz,61-64
+Adelaide,1990.01.01,Round of 32,Michiel Schapers,Petr Korda,63-64
+Adelaide,1990.01.01,Round of 32,Marc Rosset,Andrei Cherkasov,62-64
+Adelaide,1990.01.01,Round of 32,Jimmy Arias,Mark Woodforde,76-63
+Adelaide,1990.01.01,Round of 32,Broderick Dyke,Gary Muller,64-64
+Adelaide,1990.01.01,Round of 32,John Fitzgerald,Xavier Daufresne,36-75-62
+Adelaide,1990.01.01,Round of 32,Jean-Philippe Fleurian,Tom Nijssen,63-60
+Adelaide,1990.01.01,Round of 32,Mark Kratzmann,Jason Stoltenberg,57-43-(RET)
+Adelaide,1990.01.01,Round of 32,Patrik Kuhnen,Paul Haarhuis,63-26-76
 Adelaide,1990.01.01,Round of 32,Jerome Potier,Slobodan Zivojinovic,63-64
-Adelaide,1990.01.01,Round of 32,Michael Stich,Niclas Kroon,76-62
+Adelaide,1990.01.01,Round of 32,Michael Stich,Niclas Kroon,64-63
 Wellington,1990.01.01,Finals,Emilio Sanchez,Richey Reneberg,67-64-46-64-61
-Wellington,1990.01.01,Semi-Finals,Emilio Sanchez,Paolo Cane,67-64-46-64-61
-Wellington,1990.01.01,Semi-Finals,Richey Reneberg,Karel Novacek,75-62
-Wellington,1990.01.01,Quarter-Finals,Emilio Sanchez,Richard Fromberg,67-64-46-64-61
-Wellington,1990.01.01,Quarter-Finals,Richey Reneberg,Andrei Chesnokov,75-62
-Wellington,1990.01.01,Quarter-Finals,Paolo Cane,Gilad Bloom,67-64-60
-Wellington,1990.01.01,Quarter-Finals,Karel Novacek,Lars-Anders Wahlgren,64-63
-Wellington,1990.01.01,Round of 16,Emilio Sanchez,Lars Jonsson,67-64-46-64-61
-Wellington,1990.01.01,Round of 16,Andrei Chesnokov,Thomas Hogstedt,75-62
-Wellington,1990.01.01,Round of 16,Paolo Cane,Bruce Derlin,67-64-60
-Wellington,1990.01.01,Round of 16,Richard Fromberg,Paul Chamberlin,64-63
-Wellington,1990.01.01,Round of 16,Richey Reneberg,Christian Bergstrom,26-60-60
-Wellington,1990.01.01,Round of 16,Gilad Bloom,Veli Paloheimo,76-26-63
-Wellington,1990.01.01,Round of 16,Karel Novacek,Johan Anderson,63-61
-Wellington,1990.01.01,Round of 16,Lars-Anders Wahlgren,Jeremy Bates,46-63-75
-Wellington,1990.01.01,Round of 32,Emilio Sanchez,Steve Guy,67-64-46-64-61
-Wellington,1990.01.01,Round of 32,Andrei Chesnokov,Martin Wostenholme,75-62
-Wellington,1990.01.01,Round of 32,Gilad Bloom,Magnus Gustafsson,67-64-60
-Wellington,1990.01.01,Round of 32,Lars-Anders Wahlgren,Kelly Evernden,64-63
-Wellington,1990.01.01,Round of 32,Paolo Cane,Ramesh Krishnan,26-60-60
-Wellington,1990.01.01,Round of 32,Johan Anderson,Javier Sanchez,76-26-63
-Wellington,1990.01.01,Round of 32,Paul Chamberlin,Jens Woehrmann,63-61
-Wellington,1990.01.01,Round of 32,Richey Reneberg,Sergio Casal,46-63-75
-Wellington,1990.01.01,Round of 32,Jeremy Bates,Grant Connell,76-76
-Wellington,1990.01.01,Round of 32,Christian Bergstrom,Dan Goldie,76-64
-Wellington,1990.01.01,Round of 32,Bruce Derlin,Aki Rahunen,63-64
-Wellington,1990.01.01,Round of 32,Richard Fromberg,Olivier Delaitre,64-63
-Wellington,1990.01.01,Round of 32,Thomas Hogstedt,Shuzo Matsuoka,64-46-64
-Wellington,1990.01.01,Round of 32,Lars Jonsson,Brett Steven,63-46-63
-Wellington,1990.01.01,Round of 32,Karel Novacek,Francisco Clavet,64-67-63
-Wellington,1990.01.01,Round of 32,Veli Paloheimo,Markus Zoecke,46-61-64
+Wellington,1990.01.01,Semi-Finals,Emilio Sanchez,Paolo Cane,75-62
+Wellington,1990.01.01,Semi-Finals,Richey Reneberg,Karel Novacek,67-64-60
+Wellington,1990.01.01,Quarter-Finals,Emilio Sanchez,Richard Fromberg,64-63
+Wellington,1990.01.01,Quarter-Finals,Richey Reneberg,Andrei Chesnokov,26-60-60
+Wellington,1990.01.01,Quarter-Finals,Paolo Cane,Gilad Bloom,76-26-63
+Wellington,1990.01.01,Quarter-Finals,Karel Novacek,Lars-Anders Wahlgren,63-61
+Wellington,1990.01.01,Round of 16,Emilio Sanchez,Lars Jonsson,46-63-75
+Wellington,1990.01.01,Round of 16,Andrei Chesnokov,Thomas Hogstedt,76-76
+Wellington,1990.01.01,Round of 16,Paolo Cane,Bruce Derlin,76-64
+Wellington,1990.01.01,Round of 16,Richard Fromberg,Paul Chamberlin,63-64
+Wellington,1990.01.01,Round of 16,Richey Reneberg,Christian Bergstrom,64-63
+Wellington,1990.01.01,Round of 16,Gilad Bloom,Veli Paloheimo,64-46-64
+Wellington,1990.01.01,Round of 16,Karel Novacek,Johan Anderson,63-46-63
+Wellington,1990.01.01,Round of 16,Lars-Anders Wahlgren,Jeremy Bates,64-67-63
+Wellington,1990.01.01,Round of 32,Emilio Sanchez,Steve Guy,46-61-64
+Wellington,1990.01.01,Round of 32,Andrei Chesnokov,Martin Wostenholme,75-26-61
+Wellington,1990.01.01,Round of 32,Gilad Bloom,Magnus Gustafsson,61-75
+Wellington,1990.01.01,Round of 32,Lars-Anders Wahlgren,Kelly Evernden,36-76-76
+Wellington,1990.01.01,Round of 32,Paolo Cane,Ramesh Krishnan,64-57-63
+Wellington,1990.01.01,Round of 32,Johan Anderson,Javier Sanchez,63-64
+Wellington,1990.01.01,Round of 32,Paul Chamberlin,Jens Woehrmann,63-67-60
+Wellington,1990.01.01,Round of 32,Richey Reneberg,Sergio Casal,64-46-75
+Wellington,1990.01.01,Round of 32,Jeremy Bates,Grant Connell,75-62
+Wellington,1990.01.01,Round of 32,Christian Bergstrom,Dan Goldie,63-62
+Wellington,1990.01.01,Round of 32,Bruce Derlin,Aki Rahunen,63-57-63
+Wellington,1990.01.01,Round of 32,Richard Fromberg,Olivier Delaitre,76-61
+Wellington,1990.01.01,Round of 32,Thomas Hogstedt,Shuzo Matsuoka,57-76-62
+Wellington,1990.01.01,Round of 32,Lars Jonsson,Brett Steven,75-64
+Wellington,1990.01.01,Round of 32,Karel Novacek,Francisco Clavet,62-63
+Wellington,1990.01.01,Round of 32,Veli Paloheimo,Markus Zoecke,63-62
 Sydney,1990.01.08,Finals,Yannick Noah,Carl-Uwe Steeb,57-63-64
-Sydney,1990.01.08,Semi-Finals,Yannick Noah,Aaron Krickstein,57-63-64
-Sydney,1990.01.08,Semi-Finals,Carl-Uwe Steeb,Mats Wilander,64-75
-Sydney,1990.01.08,Quarter-Finals,Yannick Noah,Ivan Lendl,57-63-64
-Sydney,1990.01.08,Quarter-Finals,Carl-Uwe Steeb,Boris Becker,64-75
-Sydney,1990.01.08,Quarter-Finals,Aaron Krickstein,David Wheaton,63-62
-Sydney,1990.01.08,Quarter-Finals,Mats Wilander,Pete Sampras,61-64
-Sydney,1990.01.08,Round of 16,Ivan Lendl,Goran Ivanisevic,57-63-64
-Sydney,1990.01.08,Round of 16,Boris Becker,Wally Masur,64-75
-Sydney,1990.01.08,Round of 16,Aaron Krickstein,Paul Annacone,63-62
-Sydney,1990.01.08,Round of 16,Mats Wilander,Niclas Kroon,61-64
-Sydney,1990.01.08,Round of 16,Carl-Uwe Steeb,Jean-Philippe Fleurian,76-63
-Sydney,1990.01.08,Round of 16,Yannick Noah,Andrei Cherkasov,61-76
-Sydney,1990.01.08,Round of 16,Pete Sampras,Omar Camporese,67-75-60
-Sydney,1990.01.08,Round of 16,David Wheaton,Guy Forget,64-62
-Sydney,1990.01.08,Round of 32,Ivan Lendl,Andrew Sznajder,57-63-64
-Sydney,1990.01.08,Round of 32,Boris Becker,Alexander Volkov,64-75
-Sydney,1990.01.08,Round of 32,Aaron Krickstein,Jan Gunnarsson,63-62
-Sydney,1990.01.08,Round of 32,Pete Sampras,Tim Mayotte,61-64
-Sydney,1990.01.08,Round of 32,Mats Wilander,Marc Rosset,76-63
-Sydney,1990.01.08,Round of 32,David Wheaton,Andres Gomez,61-76
-Sydney,1990.01.08,Round of 32,Carl-Uwe Steeb,Leonardo Lavalle,67-75-60
-Sydney,1990.01.08,Round of 32,Yannick Noah,Ronald Agenor,64-62
-Sydney,1990.01.08,Round of 32,Paul Annacone,Mark Kratzmann,63-63
-Sydney,1990.01.08,Round of 32,Omar Camporese,Jordi Arrese,63-76
-Sydney,1990.01.08,Round of 32,Andrei Cherkasov,Petr Korda,61-62
-Sydney,1990.01.08,Round of 32,Jean-Philippe Fleurian,Goran Prpic,64-46-62
-Sydney,1990.01.08,Round of 32,Guy Forget,Mark Koevermans,61-64
-Sydney,1990.01.08,Round of 32,Goran Ivanisevic,Sergi Bruguera,76-75
-Sydney,1990.01.08,Round of 32,Niclas Kroon,Christo Van Rensburg,76-61
-Sydney,1990.01.08,Round of 32,Wally Masur,Javier Sanchez,61-63
+Sydney,1990.01.08,Semi-Finals,Yannick Noah,Aaron Krickstein,64-75
+Sydney,1990.01.08,Semi-Finals,Carl-Uwe Steeb,Mats Wilander,63-62
+Sydney,1990.01.08,Quarter-Finals,Yannick Noah,Ivan Lendl,61-64
+Sydney,1990.01.08,Quarter-Finals,Carl-Uwe Steeb,Boris Becker,76-63
+Sydney,1990.01.08,Quarter-Finals,Aaron Krickstein,David Wheaton,61-76
+Sydney,1990.01.08,Quarter-Finals,Mats Wilander,Pete Sampras,67-75-60
+Sydney,1990.01.08,Round of 16,Ivan Lendl,Goran Ivanisevic,64-62
+Sydney,1990.01.08,Round of 16,Boris Becker,Wally Masur,63-63
+Sydney,1990.01.08,Round of 16,Aaron Krickstein,Paul Annacone,63-76
+Sydney,1990.01.08,Round of 16,Mats Wilander,Niclas Kroon,61-62
+Sydney,1990.01.08,Round of 16,Carl-Uwe Steeb,Jean-Philippe Fleurian,64-46-62
+Sydney,1990.01.08,Round of 16,Yannick Noah,Andrei Cherkasov,61-64
+Sydney,1990.01.08,Round of 16,Pete Sampras,Omar Camporese,76-75
+Sydney,1990.01.08,Round of 16,David Wheaton,Guy Forget,76-61
+Sydney,1990.01.08,Round of 32,Ivan Lendl,Andrew Sznajder,61-63
+Sydney,1990.01.08,Round of 32,Boris Becker,Alexander Volkov,63-62
+Sydney,1990.01.08,Round of 32,Aaron Krickstein,Jan Gunnarsson,76-62
+Sydney,1990.01.08,Round of 32,Pete Sampras,Tim Mayotte,76-62
+Sydney,1990.01.08,Round of 32,Mats Wilander,Marc Rosset,64-62
+Sydney,1990.01.08,Round of 32,David Wheaton,Andres Gomez,75-64
+Sydney,1990.01.08,Round of 32,Carl-Uwe Steeb,Leonardo Lavalle,61-64
+Sydney,1990.01.08,Round of 32,Yannick Noah,Ronald Agenor,64-63
+Sydney,1990.01.08,Round of 32,Paul Annacone,Mark Kratzmann,61-64
+Sydney,1990.01.08,Round of 32,Omar Camporese,Jordi Arrese,46-64-64
+Sydney,1990.01.08,Round of 32,Andrei Cherkasov,Petr Korda,61-46-62
+Sydney,1990.01.08,Round of 32,Jean-Philippe Fleurian,Goran Prpic,62-62
+Sydney,1990.01.08,Round of 32,Guy Forget,Mark Koevermans,75-63
+Sydney,1990.01.08,Round of 32,Goran Ivanisevic,Sergi Bruguera,75-62
+Sydney,1990.01.08,Round of 32,Niclas Kroon,Christo Van Rensburg,76-62
+Sydney,1990.01.08,Round of 32,Wally Masur,Javier Sanchez,26-62-76
 Auckland,1990.01.08,Finals,Scott Davis,Andrei Chesnokov,46-63-63
-Auckland,1990.01.08,Semi-Finals,Andrei Chesnokov,Amos Mansdorf,46-63-63
-Auckland,1990.01.08,Semi-Finals,Scott Davis,Ramesh Krishnan,76-62
-Auckland,1990.01.08,Quarter-Finals,Andrei Chesnokov,Grant Connell,46-63-63
+Auckland,1990.01.08,Semi-Finals,Andrei Chesnokov,Amos Mansdorf,76-62
+Auckland,1990.01.08,Semi-Finals,Scott Davis,Ramesh Krishnan,57-63-64
+Auckland,1990.01.08,Quarter-Finals,Andrei Chesnokov,Grant Connell,26-64-63
 Auckland,1990.01.08,Quarter-Finals,Ramesh Krishnan,Magnus Gustafsson,76-62
-Auckland,1990.01.08,Quarter-Finals,Amos Mansdorf,Jimmy Arias,57-63-64
-Auckland,1990.01.08,Quarter-Finals,Scott Davis,Steve Guy,26-64-63
-Auckland,1990.01.08,Round of 16,Andrei Chesnokov,Richey Reneberg,46-63-63
-Auckland,1990.01.08,Round of 16,Magnus Gustafsson,Jeremy Bates,76-62
-Auckland,1990.01.08,Round of 16,Amos Mansdorf,Olivier Delaitre,57-63-64
-Auckland,1990.01.08,Round of 16,Scott Davis,Dan Goldie,26-64-63
-Auckland,1990.01.08,Round of 16,Jimmy Arias,Glenn Layendecker,76-62
-Auckland,1990.01.08,Round of 16,Grant Connell,Michael Stich,63-76
-Auckland,1990.01.08,Round of 16,Steve Guy,Brett Steven,62-76
-Auckland,1990.01.08,Round of 16,Ramesh Krishnan,Bruce Derlin,64-64
-Auckland,1990.01.08,Round of 32,Andrei Chesnokov,Markus Zoecke,46-63-63
-Auckland,1990.01.08,Round of 32,Steve Guy,Miloslav Mecir Sr.,76-62
-Auckland,1990.01.08,Round of 32,Magnus Gustafsson,Johan Anderson,57-63-64
-Auckland,1990.01.08,Round of 32,Glenn Layendecker,Kelly Evernden,26-64-63
-Auckland,1990.01.08,Round of 32,Amos Mansdorf,Karel Novacek,76-62
-Auckland,1990.01.08,Round of 32,Ramesh Krishnan,Paolo Cane,63-76
-Auckland,1990.01.08,Round of 32,Grant Connell,Paul Chamberlin,62-76
-Auckland,1990.01.08,Round of 32,Scott Davis,Christian Bergstrom,64-64
-Auckland,1990.01.08,Round of 32,Jimmy Arias,Claudio Pistolesi,62-60
-Auckland,1990.01.08,Round of 32,Jeremy Bates,Jens Woehrmann,62-75
-Auckland,1990.01.08,Round of 32,Olivier Delaitre,Paul Haarhuis,61-67-62
-Auckland,1990.01.08,Round of 32,Bruce Derlin,Martin Laurendeau,26-62-62
-Auckland,1990.01.08,Round of 32,Dan Goldie,Lars-Anders Wahlgren,64-67-62
-Auckland,1990.01.08,Round of 32,Richey Reneberg,Gilad Bloom,63-67-64
-Auckland,1990.01.08,Round of 32,Brett Steven,Veli Paloheimo,76-75
-Auckland,1990.01.08,Round of 32,Michael Stich,Kelly Jones,76-67-75
+Auckland,1990.01.08,Quarter-Finals,Amos Mansdorf,Jimmy Arias,63-76
+Auckland,1990.01.08,Quarter-Finals,Scott Davis,Steve Guy,62-76
+Auckland,1990.01.08,Round of 16,Andrei Chesnokov,Richey Reneberg,64-64
+Auckland,1990.01.08,Round of 16,Magnus Gustafsson,Jeremy Bates,62-60
+Auckland,1990.01.08,Round of 16,Amos Mansdorf,Olivier Delaitre,62-75
+Auckland,1990.01.08,Round of 16,Scott Davis,Dan Goldie,61-67-62
+Auckland,1990.01.08,Round of 16,Jimmy Arias,Glenn Layendecker,26-62-62
+Auckland,1990.01.08,Round of 16,Grant Connell,Michael Stich,64-67-62
+Auckland,1990.01.08,Round of 16,Steve Guy,Brett Steven,63-67-64
+Auckland,1990.01.08,Round of 16,Ramesh Krishnan,Bruce Derlin,76-75
+Auckland,1990.01.08,Round of 32,Andrei Chesnokov,Markus Zoecke,76-67-75
+Auckland,1990.01.08,Round of 32,Steve Guy,Miloslav Mecir Sr.,63-63
+Auckland,1990.01.08,Round of 32,Magnus Gustafsson,Johan Anderson,61-62
+Auckland,1990.01.08,Round of 32,Glenn Layendecker,Kelly Evernden,62-64
+Auckland,1990.01.08,Round of 32,Amos Mansdorf,Karel Novacek,64-61
+Auckland,1990.01.08,Round of 32,Ramesh Krishnan,Paolo Cane,61-61
+Auckland,1990.01.08,Round of 32,Grant Connell,Paul Chamberlin,75-63
+Auckland,1990.01.08,Round of 32,Scott Davis,Christian Bergstrom,16-64-62
+Auckland,1990.01.08,Round of 32,Jimmy Arias,Claudio Pistolesi,63-63
+Auckland,1990.01.08,Round of 32,Jeremy Bates,Jens Woehrmann,26-61-61
+Auckland,1990.01.08,Round of 32,Olivier Delaitre,Paul Haarhuis,62-63
+Auckland,1990.01.08,Round of 32,Bruce Derlin,Martin Laurendeau,75-62
+Auckland,1990.01.08,Round of 32,Dan Goldie,Lars-Anders Wahlgren,76-60
+Auckland,1990.01.08,Round of 32,Richey Reneberg,Gilad Bloom,63-62
+Auckland,1990.01.08,Round of 32,Brett Steven,Veli Paloheimo,63-60
+Auckland,1990.01.08,Round of 32,Michael Stich,Kelly Jones,75-63
 Melbourne,1990.01.15,Finals,Ivan Lendl,Stefan Edberg,46-76-52-(RET)
-Melbourne,1990.01.15,Semi-Finals,Ivan Lendl,Yannick Noah,46-76-52-(RET)
-Melbourne,1990.01.15,Semi-Finals,Stefan Edberg,Mats Wilander,64-61-62
-Melbourne,1990.01.15,Quarter-Finals,Ivan Lendl,Andrei Cherkasov,46-76-52-(RET)
-Melbourne,1990.01.15,Quarter-Finals,Mats Wilander,Boris Becker,64-61-62
-Melbourne,1990.01.15,Quarter-Finals,Stefan Edberg,David Wheaton,61-61-62
-Melbourne,1990.01.15,Quarter-Finals,Yannick Noah,Mikael Pernfors,63-62-63
-Melbourne,1990.01.15,Round of 16,Ivan Lendl,Simon Youl,46-76-52-(RET)
-Melbourne,1990.01.15,Round of 16,Boris Becker,Miloslav Mecir Sr.,64-61-62
-Melbourne,1990.01.15,Round of 16,Stefan Edberg,Jonas Svensson,61-61-62
-Melbourne,1990.01.15,Round of 16,Mikael Pernfors,John McEnroe,63-62-63
-Melbourne,1990.01.15,Round of 16,David Wheaton,Aaron Krickstein,64-64-62
-Melbourne,1990.01.15,Round of 16,Mats Wilander,Veli Paloheimo,75-76-36-62
-Melbourne,1990.01.15,Round of 16,Andrei Cherkasov,Andres Gomez,63-75-62
-Melbourne,1990.01.15,Round of 16,Yannick Noah,Pete Sampras,61-63-61
-Melbourne,1990.01.15,Round of 32,Ivan Lendl,Karel Novacek,46-76-52-(RET)
-Melbourne,1990.01.15,Round of 32,Boris Becker,Olivier Delaitre,64-61-62
-Melbourne,1990.01.15,Round of 32,Stefan Edberg,Paul Chamberlin,61-61-62
-Melbourne,1990.01.15,Round of 32,John McEnroe,Dan Goldie,63-62-63
-Melbourne,1990.01.15,Round of 32,Aaron Krickstein,Lars-Anders Wahlgren,64-64-62
-Melbourne,1990.01.15,Round of 32,Mats Wilander,Wally Masur,75-76-36-62
-Melbourne,1990.01.15,Round of 32,Andres Gomez,Michael Stich,63-75-62
-Melbourne,1990.01.15,Round of 32,Yannick Noah,Gilad Bloom,61-63-61
-Melbourne,1990.01.15,Round of 32,Simon Youl,Thomas Muster,46-67-64-61-61
-Melbourne,1990.01.15,Round of 32,Miloslav Mecir Sr.,Udo Riglewski,62-62-64
-Melbourne,1990.01.15,Round of 32,Andrei Cherkasov,Jean-Philippe Fleurian,16-64-57-42-(DEF)
-Melbourne,1990.01.15,Round of 32,Veli Paloheimo,Javier Sanchez,76-64-63
-Melbourne,1990.01.15,Round of 32,Mikael Pernfors,Henri Leconte,75-64-60
-Melbourne,1990.01.15,Round of 32,Pete Sampras,Todd Woodbridge,26-63-76-76
-Melbourne,1990.01.15,Round of 32,Jonas Svensson,Lars Jonsson,63-64-36-62
-Melbourne,1990.01.15,Round of 32,David Wheaton,Mark Woodforde,64-36-64-61
-Melbourne,1990.01.15,Round of 64,Ivan Lendl,Tomas Carbonell,46-76-52-(RET)
-Melbourne,1990.01.15,Round of 64,Boris Becker,Scott Davis,64-61-62
-Melbourne,1990.01.15,Round of 64,Stefan Edberg,Patrik Kuhnen,61-61-62
-Melbourne,1990.01.15,Round of 64,John McEnroe,Alex Antonitsch,63-62-63
-Melbourne,1990.01.15,Round of 64,Aaron Krickstein,Ramesh Krishnan,64-64-62
-Melbourne,1990.01.15,Round of 64,Mats Wilander,Martin Wostenholme,75-76-36-62
-Melbourne,1990.01.15,Round of 64,Andres Gomez,Bruno Oresar,63-75-62
-Melbourne,1990.01.15,Round of 64,Mark Woodforde,Andrei Chesnokov,61-63-61
-Melbourne,1990.01.15,Round of 64,Yannick Noah,Ronald Agenor,46-67-64-61-61
-Melbourne,1990.01.15,Round of 64,Mikael Pernfors,Sergi Bruguera,62-62-64
-Melbourne,1990.01.15,Round of 64,Jonas Svensson,Jim Courier,16-64-57-42-(DEF)
-Melbourne,1990.01.15,Round of 64,Thomas Muster,Christo Van Rensburg,76-64-63
-Melbourne,1990.01.15,Round of 64,Miloslav Mecir Sr.,Andrew Sznajder,75-64-60
-Melbourne,1990.01.15,Round of 64,Gilad Bloom,Christian Bergstrom,26-63-76-76
-Melbourne,1990.01.15,Round of 64,Paul Chamberlin,Stefano Pescosolido,63-64-36-62
-Melbourne,1990.01.15,Round of 64,Andrei Cherkasov,Glenn Layendecker,64-36-64-61
-Melbourne,1990.01.15,Round of 64,Olivier Delaitre,Kelly Jones,63-61-64
-Melbourne,1990.01.15,Round of 64,Jean-Philippe Fleurian,Alexander Volkov,63-64-61
-Melbourne,1990.01.15,Round of 64,Dan Goldie,Nicolas Pereira,63-62-62
-Melbourne,1990.01.15,Round of 64,Lars Jonsson,Magnus Gustafsson,67-62-63-62
-Melbourne,1990.01.15,Round of 64,Henri Leconte,Petr Korda,64-57-64-16-63
-Melbourne,1990.01.15,Round of 64,Wally Masur,Nduka Odizor,64-63-36-76
-Melbourne,1990.01.15,Round of 64,Karel Novacek,Eric Winogradsky,63-63-63
-Melbourne,1990.01.15,Round of 64,Veli Paloheimo,Guy Forget,36-64-63-62
-Melbourne,1990.01.15,Round of 64,Udo Riglewski,Neil Borwick,64-62-60
-Melbourne,1990.01.15,Round of 64,Pete Sampras,Jordi Arrese,64-64-75
-Melbourne,1990.01.15,Round of 64,Javier Sanchez,Paul Annacone,75-64-36-61
-Melbourne,1990.01.15,Round of 64,Michael Stich,Leonardo Lavalle,64-61-63
-Melbourne,1990.01.15,Round of 64,Lars-Anders Wahlgren,Jens Woehrmann,75-64-62
-Melbourne,1990.01.15,Round of 64,David Wheaton,Magnus Larsson,64-75-36-46-62
-Melbourne,1990.01.15,Round of 64,Todd Woodbridge,Claudio Pistolesi,63-45-(RET)
-Melbourne,1990.01.15,Round of 64,Simon Youl,Brad Drewett,64-62-63
-Melbourne,1990.01.15,Round of 128,Ivan Lendl,Jim Pugh,46-76-52-(RET)
-Melbourne,1990.01.15,Round of 128,Boris Becker,Paul Haarhuis,64-61-62
-Melbourne,1990.01.15,Round of 128,Stefan Edberg,Johan Anderson,61-61-62
-Melbourne,1990.01.15,Round of 128,John McEnroe,Thierry Tulasne,63-62-63
-Melbourne,1990.01.15,Round of 128,Aaron Krickstein,Gianluca Pozzi,64-64-62
-Melbourne,1990.01.15,Round of 128,Pete Sampras,Tim Mayotte,75-76-36-62
-Melbourne,1990.01.15,Round of 128,Jean-Philippe Fleurian,Emilio Sanchez,63-75-62
-Melbourne,1990.01.15,Round of 128,Mats Wilander,Richard Fromberg,61-63-61
-Melbourne,1990.01.15,Round of 128,Andres Gomez,Darren Cahill,46-67-64-61-61
-Melbourne,1990.01.15,Round of 128,Veli Paloheimo,Carl-Uwe Steeb,62-62-64
-Melbourne,1990.01.15,Round of 128,Andrei Chesnokov,Mark Kratzmann,16-64-57-42-(DEF)
-Melbourne,1990.01.15,Round of 128,Yannick Noah,Goran Prpic,76-64-63
-Melbourne,1990.01.15,Round of 128,Sergi Bruguera,Leif Shiras,75-64-60
-Melbourne,1990.01.15,Round of 128,Jim Courier,Jimmy Arias,26-63-76-76
-Melbourne,1990.01.15,Round of 128,Thomas Muster,Paul Vojtischek,63-64-36-62
-Melbourne,1990.01.15,Round of 128,Miloslav Mecir Sr.,Mark Koevermans,64-36-64-61
-Melbourne,1990.01.15,Round of 128,Ronald Agenor,Richey Reneberg,63-61-64
-Melbourne,1990.01.15,Round of 128,Paul Annacone,Gary Muller,63-64-61
-Melbourne,1990.01.15,Round of 128,Alex Antonitsch,Amos Mansdorf,63-62-62
-Melbourne,1990.01.15,Round of 128,Jordi Arrese,Nick Brown,67-62-63-62
-Melbourne,1990.01.15,Round of 128,Christian Bergstrom,Pieter Aldrich,64-57-64-16-63
-Melbourne,1990.01.15,Round of 128,Gilad Bloom,John Fitzgerald,64-63-36-76
-Melbourne,1990.01.15,Round of 128,Neil Borwick,Kelly Evernden,63-63-63
-Melbourne,1990.01.15,Round of 128,Tomas Carbonell,Cyril Suk,36-64-63-62
-Melbourne,1990.01.15,Round of 128,Paul Chamberlin,Shane Barr,64-62-60
-Melbourne,1990.01.15,Round of 128,Andrei Cherkasov,Shuzo Matsuoka,64-64-75
-Melbourne,1990.01.15,Round of 128,Scott Davis,Jamie Morgan,75-64-36-61
-Melbourne,1990.01.15,Round of 128,Olivier Delaitre,Omar Camporese,64-61-63
-Melbourne,1990.01.15,Round of 128,Brad Drewett,Cedric Pioline,75-64-62
-Melbourne,1990.01.15,Round of 128,Guy Forget,Grant Connell,64-75-36-46-62
-Melbourne,1990.01.15,Round of 128,Dan Goldie,Darren Patten,63-45-(RET)
-Melbourne,1990.01.15,Round of 128,Magnus Gustafsson,Nicklas Kulti,64-62-63
-Melbourne,1990.01.15,Round of 128,Kelly Jones,Michael Tauson,63-76-46-62
-Melbourne,1990.01.15,Round of 128,Lars Jonsson,Tom Nijssen,62-62-64
-Melbourne,1990.01.15,Round of 128,Petr Korda,Jakob Hlasek,61-62-61
-Melbourne,1990.01.15,Round of 128,Ramesh Krishnan,Markus Zoecke,61-46-63-61
-Melbourne,1990.01.15,Round of 128,Patrik Kuhnen,Niclas Kroon,62-75-63
-Melbourne,1990.01.15,Round of 128,Magnus Larsson,Marc Rosset,64-36-63-62
-Melbourne,1990.01.15,Round of 128,Leonardo Lavalle,Jeremy Bates,63-62-75
-Melbourne,1990.01.15,Round of 128,Glenn Layendecker,Tarik Benhabiles,76-63-63
-Melbourne,1990.01.15,Round of 128,Henri Leconte,Francisco Roig,64-63-16-64
-Melbourne,1990.01.15,Round of 128,Wally Masur,Eric Jelen,26-62-63-62
-Melbourne,1990.01.15,Round of 128,Karel Novacek,Michael Brown,16-75-75-26-86
-Melbourne,1990.01.15,Round of 128,Nduka Odizor,Ian Peter-Budge,26-61-60-62
-Melbourne,1990.01.15,Round of 128,Bruno Oresar,Todd Witsken,26-57-62-64-62
-Melbourne,1990.01.15,Round of 128,Nicolas Pereira,Chris Pridham,67-75-63-64
-Melbourne,1990.01.15,Round of 128,Mikael Pernfors,Slobodan Zivojinovic,64-57-75-60
-Melbourne,1990.01.15,Round of 128,Stefano Pescosolido,Jan Gunnarsson,63-46-63-64
-Melbourne,1990.01.15,Round of 128,Claudio Pistolesi,Neil Broad,64-16-75-26-62
-Melbourne,1990.01.15,Round of 128,Udo Riglewski,Paolo Cane,62-64-63
-Melbourne,1990.01.15,Round of 128,Javier Sanchez,Aki Rahunen,61-62-62
-Melbourne,1990.01.15,Round of 128,Michael Stich,Peter Doohan,62-46-63-64
-Melbourne,1990.01.15,Round of 128,Jonas Svensson,Thomas Hogstedt,76-67-63-61
-Melbourne,1990.01.15,Round of 128,Andrew Sznajder,Libor Nemecek,64-61-46-63
-Melbourne,1990.01.15,Round of 128,Christo Van Rensburg,Jerome Potier,64-36-63-63
-Melbourne,1990.01.15,Round of 128,Alexander Volkov,Jimmy Brown,62-64-62
-Melbourne,1990.01.15,Round of 128,Lars-Anders Wahlgren,Horacio de la Pena,06-62-36-61-63
-Melbourne,1990.01.15,Round of 128,David Wheaton,Goran Ivanisevic,61-76-63
-Melbourne,1990.01.15,Round of 128,Eric Winogradsky,Tim Wilkison,64-64-20-(RET)
-Melbourne,1990.01.15,Round of 128,Jens Woehrmann,Andres Vysand,46-75-75-63
-Melbourne,1990.01.15,Round of 128,Todd Woodbridge,Michiel Schapers,63-62-36-61
-Melbourne,1990.01.15,Round of 128,Mark Woodforde,Jose Francisco Altur,63-62-62
-Melbourne,1990.01.15,Round of 128,Martin Wostenholme,David Macpherson,64-76-60
-Melbourne,1990.01.15,Round of 128,Simon Youl,Martin Laurendeau,63-62-64
+Melbourne,1990.01.15,Semi-Finals,Ivan Lendl,Yannick Noah,64-61-62
+Melbourne,1990.01.15,Semi-Finals,Stefan Edberg,Mats Wilander,61-61-62
+Melbourne,1990.01.15,Quarter-Finals,Ivan Lendl,Andrei Cherkasov,63-62-63
+Melbourne,1990.01.15,Quarter-Finals,Mats Wilander,Boris Becker,64-64-62
+Melbourne,1990.01.15,Quarter-Finals,Stefan Edberg,David Wheaton,75-76-36-62
+Melbourne,1990.01.15,Quarter-Finals,Yannick Noah,Mikael Pernfors,63-75-62
+Melbourne,1990.01.15,Round of 16,Ivan Lendl,Simon Youl,61-63-61
+Melbourne,1990.01.15,Round of 16,Boris Becker,Miloslav Mecir Sr.,46-67-64-61-61
+Melbourne,1990.01.15,Round of 16,Stefan Edberg,Jonas Svensson,62-62-64
+Melbourne,1990.01.15,Round of 16,Mikael Pernfors,John McEnroe,16-64-57-42-(DEF)
+Melbourne,1990.01.15,Round of 16,David Wheaton,Aaron Krickstein,76-64-63
+Melbourne,1990.01.15,Round of 16,Mats Wilander,Veli Paloheimo,75-64-60
+Melbourne,1990.01.15,Round of 16,Andrei Cherkasov,Andres Gomez,26-63-76-76
+Melbourne,1990.01.15,Round of 16,Yannick Noah,Pete Sampras,63-64-36-62
+Melbourne,1990.01.15,Round of 32,Ivan Lendl,Karel Novacek,64-36-64-61
+Melbourne,1990.01.15,Round of 32,Boris Becker,Olivier Delaitre,63-61-64
+Melbourne,1990.01.15,Round of 32,Stefan Edberg,Paul Chamberlin,63-64-61
+Melbourne,1990.01.15,Round of 32,John McEnroe,Dan Goldie,63-62-62
+Melbourne,1990.01.15,Round of 32,Aaron Krickstein,Lars-Anders Wahlgren,67-62-63-62
+Melbourne,1990.01.15,Round of 32,Mats Wilander,Wally Masur,64-57-64-16-63
+Melbourne,1990.01.15,Round of 32,Andres Gomez,Michael Stich,64-63-36-76
+Melbourne,1990.01.15,Round of 32,Yannick Noah,Gilad Bloom,63-63-63
+Melbourne,1990.01.15,Round of 32,Simon Youl,Thomas Muster,36-64-63-62
+Melbourne,1990.01.15,Round of 32,Miloslav Mecir Sr.,Udo Riglewski,64-62-60
+Melbourne,1990.01.15,Round of 32,Andrei Cherkasov,Jean-Philippe Fleurian,64-64-75
+Melbourne,1990.01.15,Round of 32,Veli Paloheimo,Javier Sanchez,75-64-36-61
+Melbourne,1990.01.15,Round of 32,Mikael Pernfors,Henri Leconte,64-61-63
+Melbourne,1990.01.15,Round of 32,Pete Sampras,Todd Woodbridge,75-64-62
+Melbourne,1990.01.15,Round of 32,Jonas Svensson,Lars Jonsson,64-75-36-46-62
+Melbourne,1990.01.15,Round of 32,David Wheaton,Mark Woodforde,63-45-(RET)
+Melbourne,1990.01.15,Round of 64,Ivan Lendl,Tomas Carbonell,64-62-63
+Melbourne,1990.01.15,Round of 64,Boris Becker,Scott Davis,63-76-46-62
+Melbourne,1990.01.15,Round of 64,Stefan Edberg,Patrik Kuhnen,62-62-64
+Melbourne,1990.01.15,Round of 64,John McEnroe,Alex Antonitsch,61-62-61
+Melbourne,1990.01.15,Round of 64,Aaron Krickstein,Ramesh Krishnan,61-46-63-61
+Melbourne,1990.01.15,Round of 64,Mats Wilander,Martin Wostenholme,62-75-63
+Melbourne,1990.01.15,Round of 64,Andres Gomez,Bruno Oresar,64-36-63-62
+Melbourne,1990.01.15,Round of 64,Mark Woodforde,Andrei Chesnokov,63-62-75
+Melbourne,1990.01.15,Round of 64,Yannick Noah,Ronald Agenor,76-63-63
+Melbourne,1990.01.15,Round of 64,Mikael Pernfors,Sergi Bruguera,64-63-16-64
+Melbourne,1990.01.15,Round of 64,Jonas Svensson,Jim Courier,26-62-63-62
+Melbourne,1990.01.15,Round of 64,Thomas Muster,Christo Van Rensburg,16-75-75-26-86
+Melbourne,1990.01.15,Round of 64,Miloslav Mecir Sr.,Andrew Sznajder,26-61-60-62
+Melbourne,1990.01.15,Round of 64,Gilad Bloom,Christian Bergstrom,26-57-62-64-62
+Melbourne,1990.01.15,Round of 64,Paul Chamberlin,Stefano Pescosolido,67-75-63-64
+Melbourne,1990.01.15,Round of 64,Andrei Cherkasov,Glenn Layendecker,64-57-75-60
+Melbourne,1990.01.15,Round of 64,Olivier Delaitre,Kelly Jones,63-46-63-64
+Melbourne,1990.01.15,Round of 64,Jean-Philippe Fleurian,Alexander Volkov,64-16-75-26-62
+Melbourne,1990.01.15,Round of 64,Dan Goldie,Nicolas Pereira,62-64-63
+Melbourne,1990.01.15,Round of 64,Lars Jonsson,Magnus Gustafsson,61-62-62
+Melbourne,1990.01.15,Round of 64,Henri Leconte,Petr Korda,62-46-63-64
+Melbourne,1990.01.15,Round of 64,Wally Masur,Nduka Odizor,76-67-63-61
+Melbourne,1990.01.15,Round of 64,Karel Novacek,Eric Winogradsky,64-61-46-63
+Melbourne,1990.01.15,Round of 64,Veli Paloheimo,Guy Forget,64-36-63-63
+Melbourne,1990.01.15,Round of 64,Udo Riglewski,Neil Borwick,62-64-62
+Melbourne,1990.01.15,Round of 64,Pete Sampras,Jordi Arrese,06-62-36-61-63
+Melbourne,1990.01.15,Round of 64,Javier Sanchez,Paul Annacone,61-76-63
+Melbourne,1990.01.15,Round of 64,Michael Stich,Leonardo Lavalle,64-64-20-(RET)
+Melbourne,1990.01.15,Round of 64,Lars-Anders Wahlgren,Jens Woehrmann,46-75-75-63
+Melbourne,1990.01.15,Round of 64,David Wheaton,Magnus Larsson,63-62-36-61
+Melbourne,1990.01.15,Round of 64,Todd Woodbridge,Claudio Pistolesi,63-62-62
+Melbourne,1990.01.15,Round of 64,Simon Youl,Brad Drewett,64-76-60
+Melbourne,1990.01.15,Round of 128,Ivan Lendl,Jim Pugh,63-62-64
+Melbourne,1990.01.15,Round of 128,Boris Becker,Paul Haarhuis,61-62-61
+Melbourne,1990.01.15,Round of 128,Stefan Edberg,Johan Anderson,76-63-64
+Melbourne,1990.01.15,Round of 128,John McEnroe,Thierry Tulasne,62-61-61
+Melbourne,1990.01.15,Round of 128,Aaron Krickstein,Gianluca Pozzi,64-67-64-75
+Melbourne,1990.01.15,Round of 128,Pete Sampras,Tim Mayotte,76-67-46-75-1210
+Melbourne,1990.01.15,Round of 128,Jean-Philippe Fleurian,Emilio Sanchez,62-64-64
+Melbourne,1990.01.15,Round of 128,Mats Wilander,Richard Fromberg,76-75-75
+Melbourne,1990.01.15,Round of 128,Andres Gomez,Darren Cahill,46-63-16-62-63
+Melbourne,1990.01.15,Round of 128,Veli Paloheimo,Carl-Uwe Steeb,57-63-06-62-62
+Melbourne,1990.01.15,Round of 128,Andrei Chesnokov,Mark Kratzmann,36-67-76-63-62
+Melbourne,1990.01.15,Round of 128,Yannick Noah,Goran Prpic,46-76-62-46-75
+Melbourne,1990.01.15,Round of 128,Sergi Bruguera,Leif Shiras,61-64-63
+Melbourne,1990.01.15,Round of 128,Jim Courier,Jimmy Arias,63-63-61
+Melbourne,1990.01.15,Round of 128,Thomas Muster,Paul Vojtischek,63-62-64
+Melbourne,1990.01.15,Round of 128,Miloslav Mecir Sr.,Mark Koevermans,62-64-76
+Melbourne,1990.01.15,Round of 128,Ronald Agenor,Richey Reneberg,62-64-36-61
+Melbourne,1990.01.15,Round of 128,Paul Annacone,Gary Muller,63-64-67-26-63
+Melbourne,1990.01.15,Round of 128,Alex Antonitsch,Amos Mansdorf,46-64-64-67-63
+Melbourne,1990.01.15,Round of 128,Jordi Arrese,Nick Brown,46-64-61-63
+Melbourne,1990.01.15,Round of 128,Christian Bergstrom,Pieter Aldrich,62-64-62
+Melbourne,1990.01.15,Round of 128,Gilad Bloom,John Fitzgerald,76-76-36-62
+Melbourne,1990.01.15,Round of 128,Neil Borwick,Kelly Evernden,63-61-61
+Melbourne,1990.01.15,Round of 128,Tomas Carbonell,Cyril Suk,64-75-63
+Melbourne,1990.01.15,Round of 128,Paul Chamberlin,Shane Barr,60-67-63-64
+Melbourne,1990.01.15,Round of 128,Andrei Cherkasov,Shuzo Matsuoka,62-46-46-60-62
+Melbourne,1990.01.15,Round of 128,Scott Davis,Jamie Morgan,62-62-62
+Melbourne,1990.01.15,Round of 128,Olivier Delaitre,Omar Camporese,26-63-36-64-63
+Melbourne,1990.01.15,Round of 128,Brad Drewett,Cedric Pioline,67-63-64-57-63
+Melbourne,1990.01.15,Round of 128,Guy Forget,Grant Connell,26-64-64-62
+Melbourne,1990.01.15,Round of 128,Dan Goldie,Darren Patten,63-64-64
+Melbourne,1990.01.15,Round of 128,Magnus Gustafsson,Nicklas Kulti,22-(RET)
+Melbourne,1990.01.15,Round of 128,Kelly Jones,Michael Tauson,63-57-26-62-63
+Melbourne,1990.01.15,Round of 128,Lars Jonsson,Tom Nijssen,63-62-76
+Melbourne,1990.01.15,Round of 128,Petr Korda,Jakob Hlasek,76-60-63
+Melbourne,1990.01.15,Round of 128,Ramesh Krishnan,Markus Zoecke,46-75-64-57-61
+Melbourne,1990.01.15,Round of 128,Patrik Kuhnen,Niclas Kroon,63-67-26-76-62
+Melbourne,1990.01.15,Round of 128,Magnus Larsson,Marc Rosset,64-61-61
+Melbourne,1990.01.15,Round of 128,Leonardo Lavalle,Jeremy Bates,67-61-64-62
+Melbourne,1990.01.15,Round of 128,Glenn Layendecker,Tarik Benhabiles,62-76-63
+Melbourne,1990.01.15,Round of 128,Henri Leconte,Francisco Roig,61-46-75-64
+Melbourne,1990.01.15,Round of 128,Wally Masur,Eric Jelen,62-61-62
+Melbourne,1990.01.15,Round of 128,Karel Novacek,Michael Brown,63-61-26-62
+Melbourne,1990.01.15,Round of 128,Nduka Odizor,Ian Peter-Budge,62-75-62
+Melbourne,1990.01.15,Round of 128,Bruno Oresar,Todd Witsken,64-61-64
+Melbourne,1990.01.15,Round of 128,Nicolas Pereira,Chris Pridham,64-76-46-63
+Melbourne,1990.01.15,Round of 128,Mikael Pernfors,Slobodan Zivojinovic,62-61-62
+Melbourne,1990.01.15,Round of 128,Stefano Pescosolido,Jan Gunnarsson,62-67-60-62
+Melbourne,1990.01.15,Round of 128,Claudio Pistolesi,Neil Broad,57-64-64-61
+Melbourne,1990.01.15,Round of 128,Udo Riglewski,Paolo Cane,62-63-26-62
+Melbourne,1990.01.15,Round of 128,Javier Sanchez,Aki Rahunen,60-63-61
+Melbourne,1990.01.15,Round of 128,Michael Stich,Peter Doohan,63-62-62
+Melbourne,1990.01.15,Round of 128,Jonas Svensson,Thomas Hogstedt,62-75-75
+Melbourne,1990.01.15,Round of 128,Andrew Sznajder,Libor Nemecek,76-67-63-76
+Melbourne,1990.01.15,Round of 128,Christo Van Rensburg,Jerome Potier,62-57-75-63
+Melbourne,1990.01.15,Round of 128,Alexander Volkov,Jimmy Brown,63-63-61
+Melbourne,1990.01.15,Round of 128,Lars-Anders Wahlgren,Horacio de la Pena,63-61-63
+Melbourne,1990.01.15,Round of 128,David Wheaton,Goran Ivanisevic,75-75-60
+Melbourne,1990.01.15,Round of 128,Eric Winogradsky,Tim Wilkison,62-76-63
+Melbourne,1990.01.15,Round of 128,Jens Woehrmann,Andres Vysand,63-26-63-61
+Melbourne,1990.01.15,Round of 128,Todd Woodbridge,Michiel Schapers,46-60-63-61
+Melbourne,1990.01.15,Round of 128,Mark Woodforde,Jose Francisco Altur,26-61-64-64
+Melbourne,1990.01.15,Round of 128,Martin Wostenholme,David Macpherson,63-57-76-61
+Melbourne,1990.01.15,Round of 128,Simon Youl,Martin Laurendeau,46-76-62-62
 Milan,1990.02.05,Finals,Ivan Lendl,Tim Mayotte,63-62
-Milan,1990.02.05,Semi-Finals,Ivan Lendl,Pete Sampras,63-62
-Milan,1990.02.05,Semi-Finals,Tim Mayotte,John McEnroe,36-60-63
-Milan,1990.02.05,Quarter-Finals,Ivan Lendl,Jim Courier,63-62
-Milan,1990.02.05,Quarter-Finals,John McEnroe,Eric Jelen,36-60-63
-Milan,1990.02.05,Quarter-Finals,Tim Mayotte,Jakob Hlasek,64-64
-Milan,1990.02.05,Quarter-Finals,Pete Sampras,Milan Srejber,62-64
-Milan,1990.02.05,Round of 16,Ivan Lendl,Alexander Volkov,63-62
-Milan,1990.02.05,Round of 16,John McEnroe,Paolo Cane,36-60-63
-Milan,1990.02.05,Round of 16,Milan Srejber,Aaron Krickstein,64-64
-Milan,1990.02.05,Round of 16,Tim Mayotte,Thierry Champion,62-64
-Milan,1990.02.05,Round of 16,Jim Courier,Karel Novacek,63-63
-Milan,1990.02.05,Round of 16,Jakob Hlasek,Jeremy Bates,75-67-75
-Milan,1990.02.05,Round of 16,Eric Jelen,Horst Skoff,67-64-64
-Milan,1990.02.05,Round of 16,Pete Sampras,Markus Zoecke,62-26-61
-Milan,1990.02.05,Round of 32,Ivan Lendl,Diego Nargiso,63-62
-Milan,1990.02.05,Round of 32,John McEnroe,Andrei Cherkasov,36-60-63
-Milan,1990.02.05,Round of 32,Aaron Krickstein,Omar Camporese,64-64
-Milan,1990.02.05,Round of 32,Jeremy Bates,Yannick Noah,62-64
-Milan,1990.02.05,Round of 32,Tim Mayotte,Martin Strelba,63-63
-Milan,1990.02.05,Round of 32,Markus Zoecke,Jimmy Connors,75-67-75
-Milan,1990.02.05,Round of 32,Jim Courier,Mark Koevermans,67-64-64
-Milan,1990.02.05,Round of 32,Paolo Cane,Bruno Oresar,62-26-61
-Milan,1990.02.05,Round of 32,Thierry Champion,Petr Korda,64-61
-Milan,1990.02.05,Round of 32,Jakob Hlasek,Peter Lundgren,62-63
-Milan,1990.02.05,Round of 32,Eric Jelen,Paul Haarhuis,62-61
+Milan,1990.02.05,Semi-Finals,Ivan Lendl,Pete Sampras,36-60-63
+Milan,1990.02.05,Semi-Finals,Tim Mayotte,John McEnroe,64-64
+Milan,1990.02.05,Quarter-Finals,Ivan Lendl,Jim Courier,62-64
+Milan,1990.02.05,Quarter-Finals,John McEnroe,Eric Jelen,63-63
+Milan,1990.02.05,Quarter-Finals,Tim Mayotte,Jakob Hlasek,75-67-75
+Milan,1990.02.05,Quarter-Finals,Pete Sampras,Milan Srejber,67-64-64
+Milan,1990.02.05,Round of 16,Ivan Lendl,Alexander Volkov,62-26-61
+Milan,1990.02.05,Round of 16,John McEnroe,Paolo Cane,64-61
+Milan,1990.02.05,Round of 16,Milan Srejber,Aaron Krickstein,62-63
+Milan,1990.02.05,Round of 16,Tim Mayotte,Thierry Champion,62-61
+Milan,1990.02.05,Round of 16,Jim Courier,Karel Novacek,64-64
+Milan,1990.02.05,Round of 16,Jakob Hlasek,Jeremy Bates,63-36-63
+Milan,1990.02.05,Round of 16,Eric Jelen,Horst Skoff,76-45-(RET)
+Milan,1990.02.05,Round of 16,Pete Sampras,Markus Zoecke,61-76
+Milan,1990.02.05,Round of 32,Ivan Lendl,Diego Nargiso,63-63
+Milan,1990.02.05,Round of 32,John McEnroe,Andrei Cherkasov,61-46-64
+Milan,1990.02.05,Round of 32,Aaron Krickstein,Omar Camporese,64-63
+Milan,1990.02.05,Round of 32,Jeremy Bates,Yannick Noah,75-64
+Milan,1990.02.05,Round of 32,Tim Mayotte,Martin Strelba,61-61
+Milan,1990.02.05,Round of 32,Markus Zoecke,Jimmy Connors,63-46-76
+Milan,1990.02.05,Round of 32,Jim Courier,Mark Koevermans,62-61
+Milan,1990.02.05,Round of 32,Paolo Cane,Bruno Oresar,76-64
+Milan,1990.02.05,Round of 32,Thierry Champion,Petr Korda,64-76
+Milan,1990.02.05,Round of 32,Jakob Hlasek,Peter Lundgren,76-75
+Milan,1990.02.05,Round of 32,Eric Jelen,Paul Haarhuis,64-62
 Milan,1990.02.05,Round of 32,Karel Novacek,Jerome Potier,64-64
-Milan,1990.02.05,Round of 32,Pete Sampras,Anders Jarryd,63-36-63
-Milan,1990.02.05,Round of 32,Horst Skoff,Paolo Pambianco,76-45-(RET)
-Milan,1990.02.05,Round of 32,Milan Srejber,Stefano Pescosolido,61-76
-Milan,1990.02.05,Round of 32,Alexander Volkov,Simone Colombo,63-63
+Milan,1990.02.05,Round of 32,Pete Sampras,Anders Jarryd,61-63
+Milan,1990.02.05,Round of 32,Horst Skoff,Paolo Pambianco,62-62
+Milan,1990.02.05,Round of 32,Milan Srejber,Stefano Pescosolido,75-62
+Milan,1990.02.05,Round of 32,Alexander Volkov,Simone Colombo,61-64
 San Francisco,1990.02.05,Finals,Andre Agassi,Todd Witsken,61-63
-San Francisco,1990.02.05,Semi-Finals,Andre Agassi,Jim Grabb,61-63
-San Francisco,1990.02.05,Semi-Finals,Todd Witsken,Joey Rive,62-62
-San Francisco,1990.02.05,Quarter-Finals,Andre Agassi,Paul Annacone,61-63
-San Francisco,1990.02.05,Quarter-Finals,Jim Grabb,Christo Van Rensburg,62-62
-San Francisco,1990.02.05,Quarter-Finals,Joey Rive,Jimmy Arias,64-76
-San Francisco,1990.02.05,Quarter-Finals,Todd Witsken,Richey Reneberg,64-62
-San Francisco,1990.02.05,Round of 16,Andre Agassi,Dan Goldie,61-63
-San Francisco,1990.02.05,Round of 16,Christo Van Rensburg,Kelly Jones,62-62
-San Francisco,1990.02.05,Round of 16,Jim Grabb,Derrick Rostagno,64-76
-San Francisco,1990.02.05,Round of 16,Jimmy Arias,Scott Davis,64-62
-San Francisco,1990.02.05,Round of 16,Paul Annacone,Tim Wilkison,46-62-76
-San Francisco,1990.02.05,Round of 16,Richey Reneberg,Chris Garner,26-64-62
-San Francisco,1990.02.05,Round of 16,Joey Rive,Lawson Duncan,76-64
-San Francisco,1990.02.05,Round of 16,Todd Witsken,Gary Muller,26-60-61
-San Francisco,1990.02.05,Round of 32,Gary Muller,Brad Gilbert,61-63
-San Francisco,1990.02.05,Round of 32,Andre Agassi,Ramesh Krishnan,62-62
-San Francisco,1990.02.05,Round of 32,Joey Rive,Kevin Curren,64-76
-San Francisco,1990.02.05,Round of 32,Christo Van Rensburg,Marty Davis,64-62
-San Francisco,1990.02.05,Round of 32,Jim Grabb,Jimmy Brown,46-62-76
-San Francisco,1990.02.05,Round of 32,Scott Davis,Glenn Layendecker,26-64-62
-San Francisco,1990.02.05,Round of 32,Paul Annacone,Dan Cassidy,76-64
-San Francisco,1990.02.05,Round of 32,Jimmy Arias,Marian Vajda,26-60-61
-San Francisco,1990.02.05,Round of 32,Lawson Duncan,Kelly Evernden,62-36-75
-San Francisco,1990.02.05,Round of 32,Chris Garner,Alexis Hombrecher,62-67-64
-San Francisco,1990.02.05,Round of 32,Dan Goldie,Jonathan Stark,63-76
-San Francisco,1990.02.05,Round of 32,Kelly Jones,David Macpherson,62-62
-San Francisco,1990.02.05,Round of 32,Richey Reneberg,Leif Shiras,61-63
-San Francisco,1990.02.05,Round of 32,Derrick Rostagno,Paul Chamberlin,46-63-63
-San Francisco,1990.02.05,Round of 32,Tim Wilkison,Patrick McEnroe,64-63
-San Francisco,1990.02.05,Round of 32,Todd Witsken,Robert Seguso,64-76
+San Francisco,1990.02.05,Semi-Finals,Andre Agassi,Jim Grabb,62-62
+San Francisco,1990.02.05,Semi-Finals,Todd Witsken,Joey Rive,64-76
+San Francisco,1990.02.05,Quarter-Finals,Andre Agassi,Paul Annacone,64-62
+San Francisco,1990.02.05,Quarter-Finals,Jim Grabb,Christo Van Rensburg,46-62-76
+San Francisco,1990.02.05,Quarter-Finals,Joey Rive,Jimmy Arias,26-64-62
+San Francisco,1990.02.05,Quarter-Finals,Todd Witsken,Richey Reneberg,76-64
+San Francisco,1990.02.05,Round of 16,Andre Agassi,Dan Goldie,26-60-61
+San Francisco,1990.02.05,Round of 16,Christo Van Rensburg,Kelly Jones,62-36-75
+San Francisco,1990.02.05,Round of 16,Jim Grabb,Derrick Rostagno,62-67-64
+San Francisco,1990.02.05,Round of 16,Jimmy Arias,Scott Davis,63-76
+San Francisco,1990.02.05,Round of 16,Paul Annacone,Tim Wilkison,62-62
+San Francisco,1990.02.05,Round of 16,Richey Reneberg,Chris Garner,61-63
+San Francisco,1990.02.05,Round of 16,Joey Rive,Lawson Duncan,46-63-63
+San Francisco,1990.02.05,Round of 16,Todd Witsken,Gary Muller,64-63
+San Francisco,1990.02.05,Round of 32,Gary Muller,Brad Gilbert,64-76
+San Francisco,1990.02.05,Round of 32,Andre Agassi,Ramesh Krishnan,62-67-60
+San Francisco,1990.02.05,Round of 32,Joey Rive,Kevin Curren,62-75
+San Francisco,1990.02.05,Round of 32,Christo Van Rensburg,Marty Davis,64-67-63
+San Francisco,1990.02.05,Round of 32,Jim Grabb,Jimmy Brown,63-76
+San Francisco,1990.02.05,Round of 32,Scott Davis,Glenn Layendecker,62-36-63
+San Francisco,1990.02.05,Round of 32,Paul Annacone,Dan Cassidy,76-76
+San Francisco,1990.02.05,Round of 32,Jimmy Arias,Marian Vajda,64-63
+San Francisco,1990.02.05,Round of 32,Lawson Duncan,Kelly Evernden,75-57-75
+San Francisco,1990.02.05,Round of 32,Chris Garner,Alexis Hombrecher,76-36-63
+San Francisco,1990.02.05,Round of 32,Dan Goldie,Jonathan Stark,64-57-62
+San Francisco,1990.02.05,Round of 32,Kelly Jones,David Macpherson,62-64
+San Francisco,1990.02.05,Round of 32,Richey Reneberg,Leif Shiras,76-63
+San Francisco,1990.02.05,Round of 32,Derrick Rostagno,Paul Chamberlin,75-30-(RET)
+San Francisco,1990.02.05,Round of 32,Tim Wilkison,Patrick McEnroe,67-61-76
+San Francisco,1990.02.05,Round of 32,Todd Witsken,Robert Seguso,62-64
 Guaruja,1990.02.05,Finals,Martin Jaite,Luiz Mattar,36-64-63
-Guaruja,1990.02.05,Semi-Finals,Martin Jaite,Alexandre Hocevar,36-64-63
-Guaruja,1990.02.05,Semi-Finals,Luiz Mattar,Eduardo Bengoechea,62-36-63
-Guaruja,1990.02.05,Quarter-Finals,Eduardo Bengoechea,Jay Berger,36-64-63
-Guaruja,1990.02.05,Quarter-Finals,Martin Jaite,Paul Vojtischek,62-36-63
-Guaruja,1990.02.05,Quarter-Finals,Luiz Mattar,Ivan Kley,64-62
-Guaruja,1990.02.05,Quarter-Finals,Alexandre Hocevar,Cassio Motta,75-60
-Guaruja,1990.02.05,Round of 16,Jay Berger,Gabriel Markus,36-64-63
-Guaruja,1990.02.05,Round of 16,Martin Jaite,John Sobel,62-36-63
-Guaruja,1990.02.05,Round of 16,Luiz Mattar,Harald Rittersbacher,64-62
-Guaruja,1990.02.05,Round of 16,Cassio Motta,Miguel Nido,75-60
-Guaruja,1990.02.05,Round of 16,Eduardo Bengoechea,Peter Ballauff,75-62
-Guaruja,1990.02.05,Round of 16,Alexandre Hocevar,Mario Tabares,63-62
-Guaruja,1990.02.05,Round of 16,Ivan Kley,Alejandro Aramburu,64-61
-Guaruja,1990.02.05,Round of 16,Paul Vojtischek,Horacio de la Pena,63-60
-Guaruja,1990.02.05,Round of 32,Jay Berger,Nelson Aerts,36-64-63
-Guaruja,1990.02.05,Round of 32,Martin Jaite,Javier Frana,62-36-63
-Guaruja,1990.02.05,Round of 32,Mario Tabares,Jaime Yzaga,64-62
-Guaruja,1990.02.05,Round of 32,Luiz Mattar,Fernando Roese,75-60
-Guaruja,1990.02.05,Round of 32,Cassio Motta,Christian Saceanu,75-62
-Guaruja,1990.02.05,Round of 32,Eduardo Bengoechea,Jaime Oncins,63-62
-Guaruja,1990.02.05,Round of 32,Alejandro Aramburu,Martin Wostenholme,64-61
-Guaruja,1990.02.05,Round of 32,Peter Ballauff,Francisco Yunis,63-60
-Guaruja,1990.02.05,Round of 32,Horacio de la Pena,Guillermo Rivas,61-62
-Guaruja,1990.02.05,Round of 32,Alexandre Hocevar,Otavio Della,46-76-64
-Guaruja,1990.02.05,Round of 32,Ivan Kley,Joao Zwetsch,64-61
-Guaruja,1990.02.05,Round of 32,Gabriel Markus,Mauro Menezes,64-75
-Guaruja,1990.02.05,Round of 32,Miguel Nido,Danilo Marcelino,57-60-64
-Guaruja,1990.02.05,Round of 32,Harald Rittersbacher,Pedro Rebolledo,63-64
-Guaruja,1990.02.05,Round of 32,John Sobel,Roberto Arguello,76-31-(RET)
-Guaruja,1990.02.05,Round of 32,Paul Vojtischek,Jeff Tarango,64-61
+Guaruja,1990.02.05,Semi-Finals,Martin Jaite,Alexandre Hocevar,62-36-63
+Guaruja,1990.02.05,Semi-Finals,Luiz Mattar,Eduardo Bengoechea,64-62
+Guaruja,1990.02.05,Quarter-Finals,Eduardo Bengoechea,Jay Berger,75-60
+Guaruja,1990.02.05,Quarter-Finals,Martin Jaite,Paul Vojtischek,75-62
+Guaruja,1990.02.05,Quarter-Finals,Luiz Mattar,Ivan Kley,63-62
+Guaruja,1990.02.05,Quarter-Finals,Alexandre Hocevar,Cassio Motta,64-61
+Guaruja,1990.02.05,Round of 16,Jay Berger,Gabriel Markus,63-60
+Guaruja,1990.02.05,Round of 16,Martin Jaite,John Sobel,61-62
+Guaruja,1990.02.05,Round of 16,Luiz Mattar,Harald Rittersbacher,46-76-64
+Guaruja,1990.02.05,Round of 16,Cassio Motta,Miguel Nido,64-61
+Guaruja,1990.02.05,Round of 16,Eduardo Bengoechea,Peter Ballauff,64-75
+Guaruja,1990.02.05,Round of 16,Alexandre Hocevar,Mario Tabares,57-60-64
+Guaruja,1990.02.05,Round of 16,Ivan Kley,Alejandro Aramburu,63-64
+Guaruja,1990.02.05,Round of 16,Paul Vojtischek,Horacio de la Pena,76-31-(RET)
+Guaruja,1990.02.05,Round of 32,Jay Berger,Nelson Aerts,64-61
+Guaruja,1990.02.05,Round of 32,Martin Jaite,Javier Frana,76-63
+Guaruja,1990.02.05,Round of 32,Mario Tabares,Jaime Yzaga,76-76
+Guaruja,1990.02.05,Round of 32,Luiz Mattar,Fernando Roese,75-63
+Guaruja,1990.02.05,Round of 32,Cassio Motta,Christian Saceanu,36-62-61
+Guaruja,1990.02.05,Round of 32,Eduardo Bengoechea,Jaime Oncins,62-64
+Guaruja,1990.02.05,Round of 32,Alejandro Aramburu,Martin Wostenholme,26-64-61
+Guaruja,1990.02.05,Round of 32,Peter Ballauff,Francisco Yunis,26-64-61
+Guaruja,1990.02.05,Round of 32,Horacio de la Pena,Guillermo Rivas,62-63
+Guaruja,1990.02.05,Round of 32,Alexandre Hocevar,Otavio Della,60-64
+Guaruja,1990.02.05,Round of 32,Ivan Kley,Joao Zwetsch,36-64-64
+Guaruja,1990.02.05,Round of 32,Gabriel Markus,Mauro Menezes,67-61-75
+Guaruja,1990.02.05,Round of 32,Miguel Nido,Danilo Marcelino,64-60
+Guaruja,1990.02.05,Round of 32,Harald Rittersbacher,Pedro Rebolledo,64-60
+Guaruja,1990.02.05,Round of 32,John Sobel,Roberto Arguello,57-64-64
+Guaruja,1990.02.05,Round of 32,Paul Vojtischek,Jeff Tarango,64-63
 Toronto,1990.02.12,Finals,Ivan Lendl,Tim Mayotte,63-60
-Toronto,1990.02.12,Semi-Finals,Ivan Lendl,John McEnroe,63-60
-Toronto,1990.02.12,Semi-Finals,Tim Mayotte,Brad Gilbert,63-62
-Toronto,1990.02.12,Quarter-Finals,Ivan Lendl,Kevin Curren,63-60
-Toronto,1990.02.12,Quarter-Finals,Brad Gilbert,Petr Korda,63-62
-Toronto,1990.02.12,Quarter-Finals,John McEnroe,Jay Berger,63-76
-Toronto,1990.02.12,Quarter-Finals,Tim Mayotte,Aaron Krickstein,67-76-63
-Toronto,1990.02.12,Round of 16,Ivan Lendl,Paul Haarhuis,63-60
-Toronto,1990.02.12,Round of 16,Brad Gilbert,Milan Srejber,63-62
-Toronto,1990.02.12,Round of 16,John McEnroe,Leif Shiras,63-76
-Toronto,1990.02.12,Round of 16,Aaron Krickstein,John Fitzgerald,67-76-63
-Toronto,1990.02.12,Round of 16,Jay Berger,Richey Reneberg,36-76-62
-Toronto,1990.02.12,Round of 16,Tim Mayotte,Jorge Lozano,64-60
-Toronto,1990.02.12,Round of 16,Kevin Curren,Grant Connell,46-64-76
-Toronto,1990.02.12,Round of 16,Petr Korda,Jaime Yzaga,75-62
-Toronto,1990.02.12,Round of 32,Ivan Lendl,Jimmy Brown,63-60
-Toronto,1990.02.12,Round of 32,Brad Gilbert,Alex Antonitsch,63-62
-Toronto,1990.02.12,Round of 32,John McEnroe,Paul Chamberlin,63-76
-Toronto,1990.02.12,Round of 32,Aaron Krickstein,Tom Nijssen,67-76-63
-Toronto,1990.02.12,Round of 32,Jay Berger,Ramesh Krishnan,36-76-62
-Toronto,1990.02.12,Round of 32,Tim Mayotte,Jim Pugh,64-60
-Toronto,1990.02.12,Round of 32,Petr Korda,Andres Gomez,46-64-76
-Toronto,1990.02.12,Round of 32,Kevin Curren,Andrew Sznajder,75-62
-Toronto,1990.02.12,Round of 32,Grant Connell,Jim Courier,62-62
-Toronto,1990.02.12,Round of 32,Jaime Yzaga,Steve DeVries,64-63
-Toronto,1990.02.12,Round of 32,John Fitzgerald,Martin Wostenholme,62-62
-Toronto,1990.02.12,Round of 32,Paul Haarhuis,Kelly Evernden,64-76
-Toronto,1990.02.12,Round of 32,Jorge Lozano,Marian Vajda,62-46-62
-Toronto,1990.02.12,Round of 32,Richey Reneberg,Peter Lundgren,76-26-61
-Toronto,1990.02.12,Round of 32,Leif Shiras,Richard Matuszewski,76-64
-Toronto,1990.02.12,Round of 32,Milan Srejber,Bruno Oresar,75-61
-Toronto,1990.02.12,Round of 64,Ivan Lendl,Bye,63-60
-Toronto,1990.02.12,Round of 64,Brad Gilbert,Bye,63-62
-Toronto,1990.02.12,Round of 64,John McEnroe,Bye,63-76
-Toronto,1990.02.12,Round of 64,Aaron Krickstein,Bye,67-76-63
-Toronto,1990.02.12,Round of 64,Jay Berger,Bye,36-76-62
-Toronto,1990.02.12,Round of 64,Tim Mayotte,Bye,64-60
-Toronto,1990.02.12,Round of 64,Andres Gomez,Bye,46-64-76
-Toronto,1990.02.12,Round of 64,Kevin Curren,Bye,75-62
-Toronto,1990.02.12,Round of 64,Jim Courier,Darren Cahill,62-62
-Toronto,1990.02.12,Round of 64,Jaime Yzaga,Niclas Kroon,64-63
-Toronto,1990.02.12,Round of 64,Peter Lundgren,David Wheaton,62-62
-Toronto,1990.02.12,Round of 64,Marian Vajda,Jim Grabb,64-76
-Toronto,1990.02.12,Round of 64,John Fitzgerald,Wally Masur,62-46-62
-Toronto,1990.02.12,Round of 64,Leif Shiras,Scott Davis,76-26-61
-Toronto,1990.02.12,Round of 64,Kelly Evernden,Pete Sampras,76-64
-Toronto,1990.02.12,Round of 64,Milan Srejber,Jean-Philippe Fleurian,75-61
-Toronto,1990.02.12,Round of 64,Alex Antonitsch,Jimmy Arias,63-63
-Toronto,1990.02.12,Round of 64,Jimmy Brown,MaliVai Washington,63-63
-Toronto,1990.02.12,Round of 64,Paul Chamberlin,Derrick Rostagno,62-62
-Toronto,1990.02.12,Round of 64,Grant Connell,Dan Goldie,76-63
-Toronto,1990.02.12,Round of 64,Steve DeVries,Jerome Potier,75-57-63
-Toronto,1990.02.12,Round of 64,Paul Haarhuis,Patrick McEnroe,63-16-64
-Toronto,1990.02.12,Round of 64,Petr Korda,Martin Laurendeau,60-75
-Toronto,1990.02.12,Round of 64,Ramesh Krishnan,Glenn Layendecker,63-75
-Toronto,1990.02.12,Round of 64,Jorge Lozano,Robert Seguso,64-62
-Toronto,1990.02.12,Round of 64,Richard Matuszewski,Chris Pridham,61-61
-Toronto,1990.02.12,Round of 64,Tom Nijssen,Lawson Duncan,64-67-61
-Toronto,1990.02.12,Round of 64,Bruno Oresar,Greg Van Emburgh,75-46-75
-Toronto,1990.02.12,Round of 64,Jim Pugh,Jeremy Bates,75-61
-Toronto,1990.02.12,Round of 64,Richey Reneberg,Tim Wilkison,76-42-(RET)
-Toronto,1990.02.12,Round of 64,Andrew Sznajder,Ola Jonsson,46-64-62
-Toronto,1990.02.12,Round of 64,Martin Wostenholme,Todd Witsken,
+Toronto,1990.02.12,Semi-Finals,Ivan Lendl,John McEnroe,63-62
+Toronto,1990.02.12,Semi-Finals,Tim Mayotte,Brad Gilbert,63-76
+Toronto,1990.02.12,Quarter-Finals,Ivan Lendl,Kevin Curren,67-76-63
+Toronto,1990.02.12,Quarter-Finals,Brad Gilbert,Petr Korda,36-76-62
+Toronto,1990.02.12,Quarter-Finals,John McEnroe,Jay Berger,64-60
+Toronto,1990.02.12,Quarter-Finals,Tim Mayotte,Aaron Krickstein,46-64-76
+Toronto,1990.02.12,Round of 16,Ivan Lendl,Paul Haarhuis,75-62
+Toronto,1990.02.12,Round of 16,Brad Gilbert,Milan Srejber,62-62
+Toronto,1990.02.12,Round of 16,John McEnroe,Leif Shiras,64-63
+Toronto,1990.02.12,Round of 16,Aaron Krickstein,John Fitzgerald,62-62
+Toronto,1990.02.12,Round of 16,Jay Berger,Richey Reneberg,64-76
+Toronto,1990.02.12,Round of 16,Tim Mayotte,Jorge Lozano,62-46-62
+Toronto,1990.02.12,Round of 16,Kevin Curren,Grant Connell,76-26-61
+Toronto,1990.02.12,Round of 16,Petr Korda,Jaime Yzaga,76-64
+Toronto,1990.02.12,Round of 32,Ivan Lendl,Jimmy Brown,75-61
+Toronto,1990.02.12,Round of 32,Brad Gilbert,Alex Antonitsch,63-63
+Toronto,1990.02.12,Round of 32,John McEnroe,Paul Chamberlin,63-63
+Toronto,1990.02.12,Round of 32,Aaron Krickstein,Tom Nijssen,62-62
+Toronto,1990.02.12,Round of 32,Jay Berger,Ramesh Krishnan,76-63
+Toronto,1990.02.12,Round of 32,Tim Mayotte,Jim Pugh,75-57-63
+Toronto,1990.02.12,Round of 32,Petr Korda,Andres Gomez,63-16-64
+Toronto,1990.02.12,Round of 32,Kevin Curren,Andrew Sznajder,60-75
+Toronto,1990.02.12,Round of 32,Grant Connell,Jim Courier,63-75
+Toronto,1990.02.12,Round of 32,Jaime Yzaga,Steve DeVries,64-62
+Toronto,1990.02.12,Round of 32,John Fitzgerald,Martin Wostenholme,61-61
+Toronto,1990.02.12,Round of 32,Paul Haarhuis,Kelly Evernden,64-67-61
+Toronto,1990.02.12,Round of 32,Jorge Lozano,Marian Vajda,75-46-75
+Toronto,1990.02.12,Round of 32,Richey Reneberg,Peter Lundgren,75-61
+Toronto,1990.02.12,Round of 32,Leif Shiras,Richard Matuszewski,76-42-(RET)
+Toronto,1990.02.12,Round of 32,Milan Srejber,Bruno Oresar,46-64-62
+Toronto,1990.02.12,Round of 64,Ivan Lendl,Bye,
+Toronto,1990.02.12,Round of 64,Brad Gilbert,Bye,
+Toronto,1990.02.12,Round of 64,John McEnroe,Bye,
+Toronto,1990.02.12,Round of 64,Aaron Krickstein,Bye,
+Toronto,1990.02.12,Round of 64,Jay Berger,Bye,
+Toronto,1990.02.12,Round of 64,Tim Mayotte,Bye,
+Toronto,1990.02.12,Round of 64,Andres Gomez,Bye,
+Toronto,1990.02.12,Round of 64,Kevin Curren,Bye,
+Toronto,1990.02.12,Round of 64,Jim Courier,Darren Cahill,60-63
+Toronto,1990.02.12,Round of 64,Jaime Yzaga,Niclas Kroon,64-61
+Toronto,1990.02.12,Round of 64,Peter Lundgren,David Wheaton,63-67-62
+Toronto,1990.02.12,Round of 64,Marian Vajda,Jim Grabb,16-76-63
+Toronto,1990.02.12,Round of 64,John Fitzgerald,Wally Masur,46-76-63
+Toronto,1990.02.12,Round of 64,Leif Shiras,Scott Davis,63-75
+Toronto,1990.02.12,Round of 64,Kelly Evernden,Pete Sampras,76-(RET)
+Toronto,1990.02.12,Round of 64,Milan Srejber,Jean-Philippe Fleurian,36-76-75
+Toronto,1990.02.12,Round of 64,Alex Antonitsch,Jimmy Arias,64-76
+Toronto,1990.02.12,Round of 64,Jimmy Brown,MaliVai Washington,64-67-64
+Toronto,1990.02.12,Round of 64,Paul Chamberlin,Derrick Rostagno,64-75
+Toronto,1990.02.12,Round of 64,Grant Connell,Dan Goldie,64-26-63
+Toronto,1990.02.12,Round of 64,Steve DeVries,Jerome Potier,76-76
+Toronto,1990.02.12,Round of 64,Paul Haarhuis,Patrick McEnroe,63-41-(RET)
+Toronto,1990.02.12,Round of 64,Petr Korda,Martin Laurendeau,62-62
+Toronto,1990.02.12,Round of 64,Ramesh Krishnan,Glenn Layendecker,61-75
+Toronto,1990.02.12,Round of 64,Jorge Lozano,Robert Seguso,76-10-(RET)
+Toronto,1990.02.12,Round of 64,Richard Matuszewski,Chris Pridham,61-62
+Toronto,1990.02.12,Round of 64,Tom Nijssen,Lawson Duncan,63-63
+Toronto,1990.02.12,Round of 64,Bruno Oresar,Greg Van Emburgh,64-67-62
+Toronto,1990.02.12,Round of 64,Jim Pugh,Jeremy Bates,62-20-(RET)
+Toronto,1990.02.12,Round of 64,Richey Reneberg,Tim Wilkison,62-63
+Toronto,1990.02.12,Round of 64,Andrew Sznajder,Ola Jonsson,60-64
+Toronto,1990.02.12,Round of 64,Martin Wostenholme,Todd Witsken,67-64-75
 Brussels,1990.02.12,Finals,Boris Becker,Carl-Uwe Steeb,75-62-62
-Brussels,1990.02.12,Semi-Finals,Boris Becker,Magnus Gustafsson,75-62-62
-Brussels,1990.02.12,Semi-Finals,Carl-Uwe Steeb,Miloslav Mecir Sr.,64-76
-Brussels,1990.02.12,Quarter-Finals,Boris Becker,Paolo Cane,75-62-62
-Brussels,1990.02.12,Quarter-Finals,Carl-Uwe Steeb,Goran Ivanisevic,64-76
-Brussels,1990.02.12,Quarter-Finals,Miloslav Mecir Sr.,Ronald Agenor,62-63
-Brussels,1990.02.12,Quarter-Finals,Magnus Gustafsson,Jonas Svensson,64-32-(RET)
-Brussels,1990.02.12,Round of 16,Boris Becker,Guy Forget,75-62-62
-Brussels,1990.02.12,Round of 16,Carl-Uwe Steeb,Thomas Hogstedt,64-76
-Brussels,1990.02.12,Round of 16,Jonas Svensson,Jakob Hlasek,62-63
-Brussels,1990.02.12,Round of 16,Ronald Agenor,Bart Wuyts,64-32-(RET)
-Brussels,1990.02.12,Round of 16,Magnus Gustafsson,Amos Mansdorf,63-36-64
-Brussels,1990.02.12,Round of 16,Paolo Cane,Juan Aguilera,63-62
-Brussels,1990.02.12,Round of 16,Goran Ivanisevic,Goran Prpic,67-76-63
-Brussels,1990.02.12,Round of 16,Miloslav Mecir Sr.,Aki Rahunen,36-63-76
-Brussels,1990.02.12,Round of 32,Boris Becker,Karel Novacek,75-62-62
-Brussels,1990.02.12,Round of 32,Carl-Uwe Steeb,Eric Jelen,64-76
-Brussels,1990.02.12,Round of 32,Miloslav Mecir Sr.,Emilio Sanchez,62-63
-Brussels,1990.02.12,Round of 32,Jakob Hlasek,Mark Koevermans,64-32-(RET)
-Brussels,1990.02.12,Round of 32,Ronald Agenor,Michiel Schapers,63-36-64
-Brussels,1990.02.12,Round of 32,Magnus Gustafsson,Jan Gunnarsson,63-62
-Brussels,1990.02.12,Round of 32,Paolo Cane,Omar Camporese,67-76-63
-Brussels,1990.02.12,Round of 32,Goran Ivanisevic,Jens Woehrmann,36-63-76
-Brussels,1990.02.12,Round of 32,Juan Aguilera,Martin Strelba,76-46-62
-Brussels,1990.02.12,Round of 32,Guy Forget,Arnaud Boetsch,57-62-76
-Brussels,1990.02.12,Round of 32,Thomas Hogstedt,Marc Rosset,64-64
-Brussels,1990.02.12,Round of 32,Amos Mansdorf,Todd Nelson,64-64
-Brussels,1990.02.12,Round of 32,Goran Prpic,Henri Leconte,63-67-64
-Brussels,1990.02.12,Round of 32,Aki Rahunen,Andrei Cherkasov,63-67-62
-Brussels,1990.02.12,Round of 32,Jonas Svensson,Alexander Volkov,76-64
-Brussels,1990.02.12,Round of 32,Bart Wuyts,Xavier Daufresne,76-62
+Brussels,1990.02.12,Semi-Finals,Boris Becker,Magnus Gustafsson,64-76
+Brussels,1990.02.12,Semi-Finals,Carl-Uwe Steeb,Miloslav Mecir Sr.,62-63
+Brussels,1990.02.12,Quarter-Finals,Boris Becker,Paolo Cane,64-32-(RET)
+Brussels,1990.02.12,Quarter-Finals,Carl-Uwe Steeb,Goran Ivanisevic,63-36-64
+Brussels,1990.02.12,Quarter-Finals,Miloslav Mecir Sr.,Ronald Agenor,63-62
+Brussels,1990.02.12,Quarter-Finals,Magnus Gustafsson,Jonas Svensson,67-76-63
+Brussels,1990.02.12,Round of 16,Boris Becker,Guy Forget,36-63-76
+Brussels,1990.02.12,Round of 16,Carl-Uwe Steeb,Thomas Hogstedt,76-46-62
+Brussels,1990.02.12,Round of 16,Jonas Svensson,Jakob Hlasek,57-62-76
+Brussels,1990.02.12,Round of 16,Ronald Agenor,Bart Wuyts,64-64
+Brussels,1990.02.12,Round of 16,Magnus Gustafsson,Amos Mansdorf,64-64
+Brussels,1990.02.12,Round of 16,Paolo Cane,Juan Aguilera,63-67-64
+Brussels,1990.02.12,Round of 16,Goran Ivanisevic,Goran Prpic,63-67-62
+Brussels,1990.02.12,Round of 16,Miloslav Mecir Sr.,Aki Rahunen,76-64
+Brussels,1990.02.12,Round of 32,Boris Becker,Karel Novacek,76-62
+Brussels,1990.02.12,Round of 32,Carl-Uwe Steeb,Eric Jelen,63-76
+Brussels,1990.02.12,Round of 32,Miloslav Mecir Sr.,Emilio Sanchez,64-36-64
+Brussels,1990.02.12,Round of 32,Jakob Hlasek,Mark Koevermans,64-61
+Brussels,1990.02.12,Round of 32,Ronald Agenor,Michiel Schapers,64-64
+Brussels,1990.02.12,Round of 32,Magnus Gustafsson,Jan Gunnarsson,62-62
+Brussels,1990.02.12,Round of 32,Paolo Cane,Omar Camporese,63-63
+Brussels,1990.02.12,Round of 32,Goran Ivanisevic,Jens Woehrmann,64-26-63
+Brussels,1990.02.12,Round of 32,Juan Aguilera,Martin Strelba,62-67-63
+Brussels,1990.02.12,Round of 32,Guy Forget,Arnaud Boetsch,63-64
+Brussels,1990.02.12,Round of 32,Thomas Hogstedt,Marc Rosset,64-62
+Brussels,1990.02.12,Round of 32,Amos Mansdorf,Todd Nelson,63-36-64
+Brussels,1990.02.12,Round of 32,Goran Prpic,Henri Leconte,63-57-61
+Brussels,1990.02.12,Round of 32,Aki Rahunen,Andrei Cherkasov,46-76-62
+Brussels,1990.02.12,Round of 32,Jonas Svensson,Alexander Volkov,64-76
+Brussels,1990.02.12,Round of 32,Bart Wuyts,Xavier Daufresne,46-62-61
 Philadelphia,1990.02.19,Finals,Pete Sampras,Andres Gomez,76-75-62
-Philadelphia,1990.02.19,Semi-Finals,Andres Gomez,Petr Korda,76-75-62
-Philadelphia,1990.02.19,Semi-Finals,Pete Sampras,Mark Kratzmann,62-60
-Philadelphia,1990.02.19,Quarter-Finals,Petr Korda,Jay Berger,76-75-62
-Philadelphia,1990.02.19,Quarter-Finals,Pete Sampras,Tim Mayotte,62-60
-Philadelphia,1990.02.19,Quarter-Finals,Andres Gomez,Paul Haarhuis,46-61-64
-Philadelphia,1990.02.19,Quarter-Finals,Mark Kratzmann,Jim Courier,76-61
-Philadelphia,1990.02.19,Round of 16,Paul Haarhuis,Brad Gilbert,76-75-62
-Philadelphia,1990.02.19,Round of 16,Pete Sampras,Andre Agassi,62-60
-Philadelphia,1990.02.19,Round of 16,Jay Berger,Wally Masur,46-61-64
-Philadelphia,1990.02.19,Round of 16,Tim Mayotte,Glenn Layendecker,76-61
-Philadelphia,1990.02.19,Round of 16,Andres Gomez,Kevin Curren,64-46-63
-Philadelphia,1990.02.19,Round of 16,Jim Courier,Christo Van Rensburg,76-67-64
-Philadelphia,1990.02.19,Round of 16,Petr Korda,Jaime Yzaga,46-63-76
-Philadelphia,1990.02.19,Round of 16,Mark Kratzmann,Richey Reneberg,76-57-64
-Philadelphia,1990.02.19,Round of 32,Richey Reneberg,John McEnroe,76-75-62
-Philadelphia,1990.02.19,Round of 32,Brad Gilbert,Tim Wilkison,62-60
-Philadelphia,1990.02.19,Round of 32,Andre Agassi,Jean-Philippe Fleurian,46-61-64
-Philadelphia,1990.02.19,Round of 32,Jay Berger,Michiel Schapers,76-61
-Philadelphia,1990.02.19,Round of 32,Tim Mayotte,Derrick Rostagno,64-46-63
-Philadelphia,1990.02.19,Round of 32,Petr Korda,Andrei Chesnokov,76-67-64
-Philadelphia,1990.02.19,Round of 32,Andres Gomez,Andrew Sznajder,46-63-76
-Philadelphia,1990.02.19,Round of 32,Jim Courier,Kelly Evernden,76-57-64
-Philadelphia,1990.02.19,Round of 32,Kevin Curren,Ramesh Krishnan,57-75-(RET)
-Philadelphia,1990.02.19,Round of 32,Christo Van Rensburg,Paul Annacone,62-64
-Philadelphia,1990.02.19,Round of 32,Jaime Yzaga,Chris Garner,46-63-76
-Philadelphia,1990.02.19,Round of 32,Glenn Layendecker,David Wheaton,67-63-64
-Philadelphia,1990.02.19,Round of 32,Pete Sampras,Milan Srejber,63-57-64
-Philadelphia,1990.02.19,Round of 32,Wally Masur,Dan Goldie,26-63-75
-Philadelphia,1990.02.19,Round of 32,Mark Kratzmann,Scott Davis,64-64
-Philadelphia,1990.02.19,Round of 32,Paul Haarhuis,Mikael Pernfors,67-63-63
-Philadelphia,1990.02.19,Round of 64,John McEnroe,Bye,76-75-62
-Philadelphia,1990.02.19,Round of 64,Brad Gilbert,Bye,62-60
-Philadelphia,1990.02.19,Round of 64,Andre Agassi,Bye,46-61-64
-Philadelphia,1990.02.19,Round of 64,Jay Berger,Bye,76-61
-Philadelphia,1990.02.19,Round of 64,Tim Mayotte,Bye,64-46-63
-Philadelphia,1990.02.19,Round of 64,Andrei Chesnokov,Bye,76-67-64
-Philadelphia,1990.02.19,Round of 64,Andres Gomez,Bye,46-63-76
-Philadelphia,1990.02.19,Round of 64,Jim Courier,Bye,76-57-64
-Philadelphia,1990.02.19,Round of 64,Kevin Curren,Bye,57-75-(RET)
-Philadelphia,1990.02.19,Round of 64,Christo Van Rensburg,Bye,62-64
-Philadelphia,1990.02.19,Round of 64,Jaime Yzaga,Bye,46-63-76
-Philadelphia,1990.02.19,Round of 64,David Wheaton,Bye,67-63-64
-Philadelphia,1990.02.19,Round of 64,Pete Sampras,Bye,63-57-64
-Philadelphia,1990.02.19,Round of 64,Wally Masur,Bye,26-63-75
-Philadelphia,1990.02.19,Round of 64,Scott Davis,Bye,64-64
-Philadelphia,1990.02.19,Round of 64,Mikael Pernfors,Bye,67-63-63
-Philadelphia,1990.02.19,Round of 64,Paul Annacone,Niclas Kroon,62-75
-Philadelphia,1990.02.19,Round of 64,Kelly Evernden,Jimmy Brown,26-60-61
-Philadelphia,1990.02.19,Round of 64,Jean-Philippe Fleurian,Ken Flach,76-67-64
-Philadelphia,1990.02.19,Round of 64,Chris Garner,Dan Cassidy,62-36-76
-Philadelphia,1990.02.19,Round of 64,Dan Goldie,Paul Chamberlin,62-64
-Philadelphia,1990.02.19,Round of 64,Paul Haarhuis,Jerome Potier,75-62
-Philadelphia,1990.02.19,Round of 64,Petr Korda,Lawson Duncan,76-64
-Philadelphia,1990.02.19,Round of 64,Mark Kratzmann,Brad Pearce,62-46-63
-Philadelphia,1990.02.19,Round of 64,Ramesh Krishnan,Todd Witsken,06-76-64
-Philadelphia,1990.02.19,Round of 64,Glenn Layendecker,Peter Lundgren,60-64
-Philadelphia,1990.02.19,Round of 64,Richey Reneberg,Jim Pugh,63-46-64
-Philadelphia,1990.02.19,Round of 64,Derrick Rostagno,MaliVai Washington,63-67-63
-Philadelphia,1990.02.19,Round of 64,Michiel Schapers,Darren Cahill,26-76-62
-Philadelphia,1990.02.19,Round of 64,Milan Srejber,Jens Woehrmann,75-46-61
-Philadelphia,1990.02.19,Round of 64,Andrew Sznajder,John Fitzgerald,46-76-75
-Philadelphia,1990.02.19,Round of 64,Tim Wilkison,Rick Leach,
-Stuttgart,1990.02.19,Finals,Boris Becker,Ivan Lendl,62-62
-Stuttgart,1990.02.19,Semi-Finals,Ivan Lendl,Magnus Gustafsson,62-62
-Stuttgart,1990.02.19,Semi-Finals,Boris Becker,Jonas Svensson,64-67-63
-Stuttgart,1990.02.19,Quarter-Finals,Ivan Lendl,Patrik Kuhnen,62-62
-Stuttgart,1990.02.19,Quarter-Finals,Boris Becker,Miloslav Mecir Sr.,64-67-63
-Stuttgart,1990.02.19,Quarter-Finals,Jonas Svensson,Horst Skoff,75-62
-Stuttgart,1990.02.19,Quarter-Finals,Magnus Gustafsson,Aki Rahunen,63-63
-Stuttgart,1990.02.19,Round of 16,Ivan Lendl,Goran Prpic,62-62
-Stuttgart,1990.02.19,Round of 16,Boris Becker,Alexander Volkov,64-67-63
-Stuttgart,1990.02.19,Round of 16,Jonas Svensson,Yannick Noah,75-62
-Stuttgart,1990.02.19,Round of 16,Magnus Gustafsson,Emilio Sanchez,63-63
-Stuttgart,1990.02.19,Round of 16,Horst Skoff,Thomas Hogstedt,64-62
-Stuttgart,1990.02.19,Round of 16,Patrik Kuhnen,Martin Strelba,64-62
-Stuttgart,1990.02.19,Round of 16,Miloslav Mecir Sr.,Paolo Cane,67-61-62
-Stuttgart,1990.02.19,Round of 16,Aki Rahunen,Amos Mansdorf,75-64
-Stuttgart,1990.02.19,Round of 32,Ivan Lendl,Omar Camporese,62-62
-Stuttgart,1990.02.19,Round of 32,Boris Becker,Broderick Dyke,64-67-63
-Stuttgart,1990.02.19,Round of 32,Yannick Noah,Guy Forget,75-62
-Stuttgart,1990.02.19,Round of 32,Amos Mansdorf,Carl-Uwe Steeb,63-63
-Stuttgart,1990.02.19,Round of 32,Emilio Sanchez,Jan Gunnarsson,64-62
-Stuttgart,1990.02.19,Round of 32,Horst Skoff,Markus Zoecke,64-62
-Stuttgart,1990.02.19,Round of 32,Patrik Kuhnen,Thomas Muster,67-61-62
-Stuttgart,1990.02.19,Round of 32,Miloslav Mecir Sr.,Ronald Agenor,75-64
-Stuttgart,1990.02.19,Round of 32,Paolo Cane,Jakob Hlasek,64-36-63
-Stuttgart,1990.02.19,Round of 32,Magnus Gustafsson,Goran Ivanisevic,62-64
-Stuttgart,1990.02.19,Round of 32,Thomas Hogstedt,Eric Jelen,63-60
-Stuttgart,1990.02.19,Round of 32,Goran Prpic,Karel Novacek,62-16-63
-Stuttgart,1990.02.19,Round of 32,Aki Rahunen,Javier Sanchez,61-62
-Stuttgart,1990.02.19,Round of 32,Martin Strelba,Jordi Arrese,60-64
-Stuttgart,1990.02.19,Round of 32,Jonas Svensson,Michael Stich,62-64
-Stuttgart,1990.02.19,Round of 32,Alexander Volkov,Slobodan Zivojinovic,64-62
-Rotterdam,1990.02.26,Finals,Brad Gilbert,Jonas Svensson,61-63
-Rotterdam,1990.02.26,Semi-Finals,Brad Gilbert,Michael Tauson,61-63
-Rotterdam,1990.02.26,Semi-Finals,Jonas Svensson,Jakob Hlasek,63-63
-Rotterdam,1990.02.26,Quarter-Finals,Brad Gilbert,Amos Mansdorf,61-63
-Rotterdam,1990.02.26,Quarter-Finals,Michael Tauson,Magnus Gustafsson,63-63
-Rotterdam,1990.02.26,Quarter-Finals,Jakob Hlasek,Alex Antonitsch,64-75
-Rotterdam,1990.02.26,Quarter-Finals,Jonas Svensson,Thomas Hogstedt,61-76
-Rotterdam,1990.02.26,Round of 16,Brad Gilbert,Omar Camporese,61-63
-Rotterdam,1990.02.26,Round of 16,Alex Antonitsch,Carl-Uwe Steeb,63-63
-Rotterdam,1990.02.26,Round of 16,Magnus Gustafsson,Slobodan Zivojinovic,64-75
-Rotterdam,1990.02.26,Round of 16,Jakob Hlasek,Nicolas Pereira,61-76
-Rotterdam,1990.02.26,Round of 16,Jonas Svensson,Karel Novacek,63-16-76
-Rotterdam,1990.02.26,Round of 16,Amos Mansdorf,Christian Bergstrom,75-61
-Rotterdam,1990.02.26,Round of 16,Thomas Hogstedt,Aki Rahunen,63-67-75
-Rotterdam,1990.02.26,Round of 16,Michael Tauson,Paul Haarhuis,63-63
-Rotterdam,1990.02.26,Round of 32,Brad Gilbert,Andrei Cherkasov,61-63
-Rotterdam,1990.02.26,Round of 32,Thomas Hogstedt,Alberto Mancini,63-63
-Rotterdam,1990.02.26,Round of 32,Paul Haarhuis,Yannick Noah,64-75
-Rotterdam,1990.02.26,Round of 32,Carl-Uwe Steeb,Cedric Pioline,61-76
-Rotterdam,1990.02.26,Round of 32,Magnus Gustafsson,Jerome Potier,63-16-76
-Rotterdam,1990.02.26,Round of 32,Jakob Hlasek,Eric Jelen,75-61
-Rotterdam,1990.02.26,Round of 32,Jonas Svensson,Tom Nijssen,63-67-75
-Rotterdam,1990.02.26,Round of 32,Amos Mansdorf,Anders Jarryd,63-63
-Rotterdam,1990.02.26,Round of 32,Alex Antonitsch,Luke Jensen,61-46-63
-Rotterdam,1990.02.26,Round of 32,Christian Bergstrom,John Fitzgerald,63-63
-Rotterdam,1990.02.26,Round of 32,Omar Camporese,Richard Fromberg,62-63
-Rotterdam,1990.02.26,Round of 32,Karel Novacek,Peter Nyborg,76-75
-Rotterdam,1990.02.26,Round of 32,Nicolas Pereira,Mark Koevermans,46-61-61
-Rotterdam,1990.02.26,Round of 32,Aki Rahunen,Lars-Anders Wahlgren,62-76
-Rotterdam,1990.02.26,Round of 32,Michael Tauson,Michiel Schapers,26-63-76
-Rotterdam,1990.02.26,Round of 32,Slobodan Zivojinovic,Jeremy Bates,75-46-64
-Memphis,1990.02.26,Finals,Michael Stich,Wally Masur,67-64-76
-Memphis,1990.02.26,Semi-Finals,Wally Masur,Glenn Layendecker,67-64-76
-Memphis,1990.02.26,Semi-Finals,Michael Stich,Gary Muller,63-62
-Memphis,1990.02.26,Quarter-Finals,Wally Masur,Petr Korda,67-64-76
-Memphis,1990.02.26,Quarter-Finals,Glenn Layendecker,Veli Paloheimo,63-62
-Memphis,1990.02.26,Quarter-Finals,Gary Muller,Danie Visser,75-76
-Memphis,1990.02.26,Quarter-Finals,Michael Stich,MaliVai Washington,64-75
-Memphis,1990.02.26,Round of 16,Michael Stich,Andrei Chesnokov,67-64-76
-Memphis,1990.02.26,Round of 16,Petr Korda,Kevin Curren,63-62
-Memphis,1990.02.26,Round of 16,Wally Masur,Jean-Philippe Fleurian,75-76
-Memphis,1990.02.26,Round of 16,Danie Visser,Marcelo Filippini,64-75
-Memphis,1990.02.26,Round of 16,Veli Paloheimo,Paul Chamberlin,57-76-64
-Memphis,1990.02.26,Round of 16,MaliVai Washington,Richey Reneberg,75-75
-Memphis,1990.02.26,Round of 16,Gary Muller,Jimmy Arias,64-76
-Memphis,1990.02.26,Round of 16,Glenn Layendecker,Darren Cahill,63-61
-Memphis,1990.02.26,Round of 32,Gary Muller,Stefan Edberg,67-64-76
-Memphis,1990.02.26,Round of 32,Glenn Layendecker,Michael Chang,63-62
-Memphis,1990.02.26,Round of 32,Andrei Chesnokov,Roger Smith,75-76
-Memphis,1990.02.26,Round of 32,Kevin Curren,Lawson Duncan,64-75
-Memphis,1990.02.26,Round of 32,MaliVai Washington,Christo Van Rensburg,57-76-64
-Memphis,1990.02.26,Round of 32,Wally Masur,Diego Perez,75-75
-Memphis,1990.02.26,Round of 32,Marcelo Filippini,Brian Page,64-76
-Memphis,1990.02.26,Round of 32,Veli Paloheimo,Mikael Pernfors,63-61
-Memphis,1990.02.26,Round of 32,Danie Visser,Paul Annacone,76-64
-Memphis,1990.02.26,Round of 32,Paul Chamberlin,Bruno Oresar,67-61-76
-Memphis,1990.02.26,Round of 32,Jean-Philippe Fleurian,Niclas Kroon,36-76-64
-Memphis,1990.02.26,Round of 32,Richey Reneberg,Ken Flach,75-61
-Memphis,1990.02.26,Round of 32,Petr Korda,Gilad Bloom,46-76-63
-Memphis,1990.02.26,Round of 32,Michael Stich,Kelly Evernden,46-75-63
-Memphis,1990.02.26,Round of 32,Jimmy Arias,Ramesh Krishnan,64-64
-Memphis,1990.02.26,Round of 32,Darren Cahill,Tim Wilkison,61-75
-Memphis,1990.02.26,Round of 64,Stefan Edberg,Bye,67-64-76
-Memphis,1990.02.26,Round of 64,Michael Chang,Bye,63-62
-Memphis,1990.02.26,Round of 64,Andrei Chesnokov,Bye,75-76
-Memphis,1990.02.26,Round of 64,Kevin Curren,Bye,64-75
-Memphis,1990.02.26,Round of 64,Christo Van Rensburg,Bye,57-76-64
-Memphis,1990.02.26,Round of 64,Wally Masur,Bye,75-75
-Memphis,1990.02.26,Round of 64,Marcelo Filippini,Bye,64-76
-Memphis,1990.02.26,Round of 64,Mikael Pernfors,Bye,63-61
-Memphis,1990.02.26,Round of 64,Paul Annacone,Bye,76-64
-Memphis,1990.02.26,Round of 64,Paul Chamberlin,Bye,67-61-76
-Memphis,1990.02.26,Round of 64,Jean-Philippe Fleurian,Bye,36-76-64
-Memphis,1990.02.26,Round of 64,Richey Reneberg,Bye,75-61
-Memphis,1990.02.26,Round of 64,Petr Korda,Bye,46-76-63
-Memphis,1990.02.26,Round of 64,Kelly Evernden,Bye,46-75-63
-Memphis,1990.02.26,Round of 64,Jimmy Arias,Bye,64-64
-Memphis,1990.02.26,Round of 64,Darren Cahill,Bye,61-75
-Memphis,1990.02.26,Round of 64,Gilad Bloom,Martin Laurendeau,64-64
-Memphis,1990.02.26,Round of 64,Lawson Duncan,Keith Evans,64-64
-Memphis,1990.02.26,Round of 64,Ken Flach,Horacio de la Pena,64-62
-Memphis,1990.02.26,Round of 64,Ramesh Krishnan,Cassio Motta,64-64
-Memphis,1990.02.26,Round of 64,Niclas Kroon,Udo Riglewski,62-63
-Memphis,1990.02.26,Round of 64,Glenn Layendecker,Jimmy Brown,63-76
-Memphis,1990.02.26,Round of 64,Gary Muller,Pieter Aldrich,76-63
-Memphis,1990.02.26,Round of 64,Bruno Oresar,Kelly Jones,75-67-64
-Memphis,1990.02.26,Round of 64,Brian Page,Vijay Amritraj,75-64
-Memphis,1990.02.26,Round of 64,Veli Paloheimo,Derrick Rostagno,63-46-63
-Memphis,1990.02.26,Round of 64,Diego Perez,Bryan Shelton,63-62
-Memphis,1990.02.26,Round of 64,Roger Smith,Chris Garner,61-64
-Memphis,1990.02.26,Round of 64,Michael Stich,Grant Connell,61-62
-Memphis,1990.02.26,Round of 64,Danie Visser,Mark Kratzmann,75-67-63
-Memphis,1990.02.26,Round of 64,MaliVai Washington,Patrik Kuhnen,67-76-75
-Memphis,1990.02.26,Round of 64,Tim Wilkison,Leif Shiras,
-Indian Wells,1990.03.05,Finals,Stefan Edberg,Andre Agassi,64-57-76-76
-Indian Wells,1990.03.05,Semi-Finals,Andre Agassi,Boris Becker,64-57-76-76
-Indian Wells,1990.03.05,Semi-Finals,Stefan Edberg,Jim Courier,64-61
-Indian Wells,1990.03.05,Quarter-Finals,Boris Becker,Jay Berger,64-57-76-76
-Indian Wells,1990.03.05,Quarter-Finals,Stefan Edberg,Jan Gunnarsson,64-61
-Indian Wells,1990.03.05,Quarter-Finals,Jim Courier,Aaron Krickstein,64-61
-Indian Wells,1990.03.05,Quarter-Finals,Andre Agassi,Emilio Sanchez,61-62
-Indian Wells,1990.03.05,Round of 16,Boris Becker,Horst Skoff,64-57-76-76
-Indian Wells,1990.03.05,Round of 16,Stefan Edberg,Sergi Bruguera,64-61
-Indian Wells,1990.03.05,Round of 16,Emilio Sanchez,Brad Gilbert,64-61
-Indian Wells,1990.03.05,Round of 16,Aaron Krickstein,Richey Reneberg,61-62
-Indian Wells,1990.03.05,Round of 16,Andre Agassi,Michiel Schapers,62-62
-Indian Wells,1990.03.05,Round of 16,Jay Berger,Goran Ivanisevic,62-76
-Indian Wells,1990.03.05,Round of 16,Jim Courier,Darren Cahill,61-76
-Indian Wells,1990.03.05,Round of 16,Jan Gunnarsson,Jim Pugh,64-16-76
-Indian Wells,1990.03.05,Round of 32,Boris Becker,Javier Sanchez,64-57-76-76
-Indian Wells,1990.03.05,Round of 32,Stefan Edberg,Scott Davis,64-61
-Indian Wells,1990.03.05,Round of 32,Brad Gilbert,Niclas Kroon,64-61
-Indian Wells,1990.03.05,Round of 32,Aaron Krickstein,Broderick Dyke,61-62
-Indian Wells,1990.03.05,Round of 32,Andre Agassi,Jimmy Arias,62-62
-Indian Wells,1990.03.05,Round of 32,Jim Pugh,Tim Mayotte,62-76
-Indian Wells,1990.03.05,Round of 32,Jay Berger,Guy Forget,61-76
-Indian Wells,1990.03.05,Round of 32,Richey Reneberg,Pete Sampras,64-16-76
-Indian Wells,1990.03.05,Round of 32,Emilio Sanchez,Shuzo Matsuoka,60-63
-Indian Wells,1990.03.05,Round of 32,Horst Skoff,Jean-Philippe Fleurian,63-63
-Indian Wells,1990.03.05,Round of 32,Sergi Bruguera,Brad Pearce,62-64
-Indian Wells,1990.03.05,Round of 32,Darren Cahill,Christo Van Rensburg,64-75
-Indian Wells,1990.03.05,Round of 32,Jim Courier,Kelly Jones,64-76
-Indian Wells,1990.03.05,Round of 32,Jan Gunnarsson,Ken Flach,64-62
-Indian Wells,1990.03.05,Round of 32,Goran Ivanisevic,Francisco Clavet,63-46-60
-Indian Wells,1990.03.05,Round of 32,Michiel Schapers,Kevin Curren,76-63
-Indian Wells,1990.03.05,Round of 64,Boris Becker,Bye,64-57-76-76
-Indian Wells,1990.03.05,Round of 64,Stefan Edberg,Bye,64-61
-Indian Wells,1990.03.05,Round of 64,Brad Gilbert,Bye,64-61
-Indian Wells,1990.03.05,Round of 64,Aaron Krickstein,Bye,61-62
-Indian Wells,1990.03.05,Round of 64,Andre Agassi,Bye,62-62
-Indian Wells,1990.03.05,Round of 64,Tim Mayotte,Bye,62-76
-Indian Wells,1990.03.05,Round of 64,Jay Berger,Bye,61-76
-Indian Wells,1990.03.05,Round of 64,Jan Gunnarsson,Mats Wilander,64-16-76
-Indian Wells,1990.03.05,Round of 64,Goran Ivanisevic,Martin Jaite,60-63
-Indian Wells,1990.03.05,Round of 64,Michiel Schapers,Alberto Mancini,63-63
-Indian Wells,1990.03.05,Round of 64,Darren Cahill,Andres Gomez,62-64
-Indian Wells,1990.03.05,Round of 64,Pete Sampras,Ramesh Krishnan,64-75
-Indian Wells,1990.03.05,Round of 64,Emilio Sanchez,Paul Annacone,64-76
-Indian Wells,1990.03.05,Round of 64,Brad Pearce,Andrei Chesnokov,64-62
-Indian Wells,1990.03.05,Round of 64,Horst Skoff,Rikard Bergh,63-46-60
-Indian Wells,1990.03.05,Round of 64,Jimmy Arias,Danie Visser,76-63
-Indian Wells,1990.03.05,Round of 64,Sergi Bruguera,Jaime Yzaga,63-62
-Indian Wells,1990.03.05,Round of 64,Francisco Clavet,Karel Novacek,64-62
-Indian Wells,1990.03.05,Round of 64,Jim Courier,Steve Bryan,46-63-62
-Indian Wells,1990.03.05,Round of 64,Kevin Curren,Ronald Agenor,61-76
-Indian Wells,1990.03.05,Round of 64,Scott Davis,Juan Aguilera,62-46-64
-Indian Wells,1990.03.05,Round of 64,Broderick Dyke,Lawson Duncan,62-75
-Indian Wells,1990.03.05,Round of 64,Ken Flach,Todd Witsken,46-64-62
-Indian Wells,1990.03.05,Round of 64,Jean-Philippe Fleurian,Wally Masur,60-63
-Indian Wells,1990.03.05,Round of 64,Guy Forget,David Pate,63-63
-Indian Wells,1990.03.05,Round of 64,Kelly Jones,Bye,76-75
-Indian Wells,1990.03.05,Round of 64,Niclas Kroon,Paul Chamberlin,61-63
-Indian Wells,1990.03.05,Round of 64,Shuzo Matsuoka,Marcelo Filippini,62-63
-Indian Wells,1990.03.05,Round of 64,Jim Pugh,Alexander Volkov,46-63-62
-Indian Wells,1990.03.05,Round of 64,Richey Reneberg,Miloslav Mecir Sr.,62-64
-Indian Wells,1990.03.05,Round of 64,Javier Sanchez,Jim Grabb,76-64
-Indian Wells,1990.03.05,Round of 64,Christo Van Rensburg,Jordi Arrese,
-Casablanca,1990.03.05,Finals,Thomas Muster,Guillermo Perez-Roldan,61-67-62
-Casablanca,1990.03.05,Semi-Finals,Guillermo Perez-Roldan,Tomas Carbonell,61-67-62
-Casablanca,1990.03.05,Semi-Finals,Thomas Muster,Goran Prpic,61-61
-Casablanca,1990.03.05,Quarter-Finals,Guillermo Perez-Roldan,Thierry Tulasne,61-67-62
-Casablanca,1990.03.05,Quarter-Finals,Thomas Muster,Mark Koevermans,61-61
-Casablanca,1990.03.05,Quarter-Finals,Goran Prpic,Johan Anderson,61-63
-Casablanca,1990.03.05,Quarter-Finals,Tomas Carbonell,Roberto Azar,62-75
-Casablanca,1990.03.05,Round of 16,Guillermo Perez-Roldan,Richard Fromberg,61-67-62
-Casablanca,1990.03.05,Round of 16,Thomas Muster,Tarik Benhabiles,61-61
-Casablanca,1990.03.05,Round of 16,Goran Prpic,Thierry Champion,61-63
-Casablanca,1990.03.05,Round of 16,Tomas Carbonell,Martin Wostenholme,62-75
-Casablanca,1990.03.05,Round of 16,Mark Koevermans,Marian Vajda,64-76
-Casablanca,1990.03.05,Round of 16,Thierry Tulasne,Franco Davin,63-61
-Casablanca,1990.03.05,Round of 16,Johan Anderson,Nicklas Utgren,75-26-63
-Casablanca,1990.03.05,Round of 16,Roberto Azar,Fernando Luna,36-63-63
-Casablanca,1990.03.05,Round of 32,Guillermo Perez-Roldan,Todd Woodbridge,61-67-62
-Casablanca,1990.03.05,Round of 32,Thomas Muster,Andres Vysand,61-61
-Casablanca,1990.03.05,Round of 32,Goran Prpic,Younes El Aynaoui,61-63
-Casablanca,1990.03.05,Round of 32,Fernando Luna,Martin Strelba,62-75
-Casablanca,1990.03.05,Round of 32,Nicklas Utgren,Paul Haarhuis,64-76
-Casablanca,1990.03.05,Round of 32,Tomas Carbonell,Francisco Roig,63-61
-Casablanca,1990.03.05,Round of 32,Mark Koevermans,Simone Colombo,75-26-63
-Casablanca,1990.03.05,Round of 32,Franco Davin,Simon Youl,36-63-63
-Casablanca,1990.03.05,Round of 32,Johan Anderson,Karim Alami,46-61-62
-Casablanca,1990.03.05,Round of 32,Roberto Azar,Lars Jonsson,75-76
-Casablanca,1990.03.05,Round of 32,Tarik Benhabiles,Leonardo Lavalle,61-64
-Casablanca,1990.03.05,Round of 32,Thierry Champion,Jason Stoltenberg,61-16-63
-Casablanca,1990.03.05,Round of 32,Richard Fromberg,Magnus Larsson,63-62
-Casablanca,1990.03.05,Round of 32,Thierry Tulasne,Nicklas Kulti,06-64-63
-Casablanca,1990.03.05,Round of 32,Marian Vajda,Jose Francisco Altur,63-76
-Casablanca,1990.03.05,Round of 32,Martin Wostenholme,Khalid Outaleb,76-61
-Miami,1990.03.16,Finals,Andre Agassi,Stefan Edberg,61-64-06-62
-Miami,1990.03.16,Semi-Finals,Stefan Edberg,Emilio Sanchez,61-64-06-62
-Miami,1990.03.16,Semi-Finals,Andre Agassi,Jay Berger,61-75
-Miami,1990.03.16,Quarter-Finals,Stefan Edberg,Jakob Hlasek,61-64-06-62
-Miami,1990.03.16,Quarter-Finals,Andre Agassi,Jim Courier,61-75
-Miami,1990.03.16,Quarter-Finals,Jay Berger,Pete Sampras,57-61-61
-Miami,1990.03.16,Quarter-Finals,Emilio Sanchez,Martin Jaite,67-76-76
-Miami,1990.03.16,Round of 16,Emilio Sanchez,Ivan Lendl,61-64-06-62
-Miami,1990.03.16,Round of 16,Stefan Edberg,Carl-Uwe Steeb,61-75
-Miami,1990.03.16,Round of 16,Andre Agassi,Andres Gomez,57-61-61
-Miami,1990.03.16,Round of 16,Jay Berger,Mark Kratzmann,67-76-76
-Miami,1990.03.16,Round of 16,Martin Jaite,Alexander Volkov,46-63-61
-Miami,1990.03.16,Round of 16,Jim Courier,Javier Sanchez,(W/O)
-Miami,1990.03.16,Round of 16,Pete Sampras,Jean-Philippe Fleurian,63-63
-Miami,1990.03.16,Round of 16,Jakob Hlasek,Bryan Shelton,63-67-64
-Miami,1990.03.16,Round of 32,Ivan Lendl,Marcelo Filippini,61-64-06-62
-Miami,1990.03.16,Round of 32,Jean-Philippe Fleurian,Boris Becker,61-75
-Miami,1990.03.16,Round of 32,Stefan Edberg,Amos Mansdorf,57-61-61
-Miami,1990.03.16,Round of 32,Javier Sanchez,Brad Gilbert,67-76-76
-Miami,1990.03.16,Round of 32,Andre Agassi,Jan Gunnarsson,46-63-61
-Miami,1990.03.16,Round of 32,Jay Berger,Goran Ivanisevic,(W/O)
-Miami,1990.03.16,Round of 32,Martin Jaite,Christo Van Rensburg,63-63
-Miami,1990.03.16,Round of 32,Andres Gomez,Jaime Yzaga,63-67-64
-Miami,1990.03.16,Round of 32,Carl-Uwe Steeb,Kevin Curren,62-46-63
-Miami,1990.03.16,Round of 32,Jim Courier,Todd Witsken,67-62-63
-Miami,1990.03.16,Round of 32,Emilio Sanchez,Horst Skoff,60-61
-Miami,1990.03.16,Round of 32,Pete Sampras,Guy Forget,61-61
-Miami,1990.03.16,Round of 32,Mark Kratzmann,Ronald Agenor,76-63
-Miami,1990.03.16,Round of 32,Alexander Volkov,Richey Reneberg,57-64-61
-Miami,1990.03.16,Round of 32,Jakob Hlasek,Jordi Arrese,63-64
-Miami,1990.03.16,Round of 32,Bryan Shelton,Jeff Tarango,60-62
-Miami,1990.03.16,Round of 64,Ivan Lendl,Jens Woehrmann,61-64-06-62
-Miami,1990.03.16,Round of 64,Boris Becker,Fabrice Santoro,61-75
-Miami,1990.03.16,Round of 64,Stefan Edberg,Roger Smith,57-61-61
-Miami,1990.03.16,Round of 64,Brad Gilbert,Gilad Bloom,67-76-76
-Miami,1990.03.16,Round of 64,Andre Agassi,Kelly Jones,46-63-61
-Miami,1990.03.16,Round of 64,Jakob Hlasek,Aaron Krickstein,(W/O)
-Miami,1990.03.16,Round of 64,Jay Berger,David Engel,63-63
-Miami,1990.03.16,Round of 64,Alexander Volkov,Tim Mayotte,63-67-64
-Miami,1990.03.16,Round of 64,Mark Kratzmann,Yannick Noah,62-46-63
-Miami,1990.03.16,Round of 64,Martin Jaite,Karel Novacek,67-62-63
-Miami,1990.03.16,Round of 64,Bryan Shelton,Alberto Mancini,60-61
-Miami,1990.03.16,Round of 64,Andres Gomez,Bruno Oresar,61-61
-Miami,1990.03.16,Round of 64,Carl-Uwe Steeb,Guillaume Raoux,76-63
-Miami,1990.03.16,Round of 64,Jim Courier,Kenny Thorne,57-64-61
-Miami,1990.03.16,Round of 64,Emilio Sanchez,Lawson Duncan,63-64
-Miami,1990.03.16,Round of 64,Pete Sampras,Paul Chamberlin,60-62
-Miami,1990.03.16,Round of 64,Guy Forget,Andrei Chesnokov,76-61
-Miami,1990.03.16,Round of 64,Horst Skoff,Slobodan Zivojinovic,62-61
-Miami,1990.03.16,Round of 64,Kevin Curren,Peter Lundgren,63-67-76
-Miami,1990.03.16,Round of 64,Todd Witsken,Petr Korda,61-63
-Miami,1990.03.16,Round of 64,Jaime Yzaga,Grant Connell,46-63-64
-Miami,1990.03.16,Round of 64,Jeff Tarango,Sergi Bruguera,46-64-64
-Miami,1990.03.16,Round of 64,Christo Van Rensburg,Michael Stich,76-36-76
-Miami,1990.03.16,Round of 64,Ronald Agenor,Eric Jelen,36-63-62
-Miami,1990.03.16,Round of 64,Richey Reneberg,Ramesh Krishnan,60-61
-Miami,1990.03.16,Round of 64,Goran Ivanisevic,Markus Zoecke,36-63-63
-Miami,1990.03.16,Round of 64,Jordi Arrese,Anders Jarryd,61-63
-Miami,1990.03.16,Round of 64,Jan Gunnarsson,Milan Srejber,76-75
-Miami,1990.03.16,Round of 64,Amos Mansdorf,Scott Davis,63-36-63
-Miami,1990.03.16,Round of 64,Javier Sanchez,Cassio Motta,76-62
-Miami,1990.03.16,Round of 64,Marcelo Filippini,Niclas Kroon,76-36-63
-Miami,1990.03.16,Round of 64,Jean-Philippe Fleurian,Jim Pugh,67-62-61
-Miami,1990.03.16,Round of 128,Ivan Lendl,Bye,61-64-06-62
-Miami,1990.03.16,Round of 128,Boris Becker,Bye,61-75
-Miami,1990.03.16,Round of 128,Stefan Edberg,Bye,57-61-61
-Miami,1990.03.16,Round of 128,Brad Gilbert,Bye,67-76-76
-Miami,1990.03.16,Round of 128,Andre Agassi,Bye,46-63-61
-Miami,1990.03.16,Round of 128,Aaron Krickstein,Bye,(W/O)
-Miami,1990.03.16,Round of 128,Jay Berger,Bye,63-63
-Miami,1990.03.16,Round of 128,Tim Mayotte,Bye,63-67-64
-Miami,1990.03.16,Round of 128,Yannick Noah,Bye,62-46-63
-Miami,1990.03.16,Round of 128,Martin Jaite,Bye,67-62-63
-Miami,1990.03.16,Round of 128,Alberto Mancini,Bye,60-61
-Miami,1990.03.16,Round of 128,Andres Gomez,Bye,61-61
-Miami,1990.03.16,Round of 128,Carl-Uwe Steeb,Bye,76-63
-Miami,1990.03.16,Round of 128,Jim Courier,Bye,57-64-61
-Miami,1990.03.16,Round of 128,Emilio Sanchez,Bye,63-64
-Miami,1990.03.16,Round of 128,Pete Sampras,Bye,60-62
-Miami,1990.03.16,Round of 128,Andrei Chesnokov,Bye,76-61
-Miami,1990.03.16,Round of 128,Horst Skoff,Bye,62-61
-Miami,1990.03.16,Round of 128,Kevin Curren,Bye,63-67-76
-Miami,1990.03.16,Round of 128,Petr Korda,Bye,61-63
-Miami,1990.03.16,Round of 128,Jaime Yzaga,Bye,46-63-64
-Miami,1990.03.16,Round of 128,Sergi Bruguera,Bye,46-64-64
-Miami,1990.03.16,Round of 128,Christo Van Rensburg,Bye,76-36-76
-Miami,1990.03.16,Round of 128,Ronald Agenor,Bye,36-63-62
-Miami,1990.03.16,Round of 128,Richey Reneberg,Bye,60-61
-Miami,1990.03.16,Round of 128,Goran Ivanisevic,Bye,36-63-63
-Miami,1990.03.16,Round of 128,Jordi Arrese,Bye,61-63
-Miami,1990.03.16,Round of 128,Jan Gunnarsson,Bye,76-75
-Miami,1990.03.16,Round of 128,Scott Davis,Bye,63-36-63
-Miami,1990.03.16,Round of 128,Javier Sanchez,Bye,76-62
-Miami,1990.03.16,Round of 128,Marcelo Filippini,Bye,76-36-63
-Miami,1990.03.16,Round of 128,Jean-Philippe Fleurian,Bye,67-62-61
-Miami,1990.03.16,Round of 128,Gilad Bloom,Nicolas Pereira,63-57-62
-Miami,1990.03.16,Round of 128,Paul Chamberlin,Fernando Roese,62-26-64
-Miami,1990.03.16,Round of 128,Grant Connell,John Fitzgerald,63-46-63
-Miami,1990.03.16,Round of 128,Lawson Duncan,Francesco Cancellotti,61-62
-Miami,1990.03.16,Round of 128,David Engel,Diego Perez,16-76-63
-Miami,1990.03.16,Round of 128,Guy Forget,Paul Annacone,76-64
-Miami,1990.03.16,Round of 128,Jakob Hlasek,Michiel Schapers,61-64
-Miami,1990.03.16,Round of 128,Anders Jarryd,Pieter Aldrich,64-26-76
-Miami,1990.03.16,Round of 128,Eric Jelen,Jorge Lozano,64-64
-Miami,1990.03.16,Round of 128,Kelly Jones,Andrew Sznajder,64-76
-Miami,1990.03.16,Round of 128,Mark Kratzmann,Darren Cahill,26-62-63
-Miami,1990.03.16,Round of 128,Ramesh Krishnan,Juan Aguilera,26-64-63
-Miami,1990.03.16,Round of 128,Niclas Kroon,Leif Shiras,63-63
-Miami,1990.03.16,Round of 128,Peter Lundgren,Jeremy Bates,64-61
-Miami,1990.03.16,Round of 128,Amos Mansdorf,Derrick Rostagno,26-76-61
-Miami,1990.03.16,Round of 128,Cassio Motta,Andrei Cherkasov,67-63-63
-Miami,1990.03.16,Round of 128,Karel Novacek,Johan Kriek,62-62
-Miami,1990.03.16,Round of 128,Bruno Oresar,Pat Cash,60-76
-Miami,1990.03.16,Round of 128,Jim Pugh,Mikael Pernfors,62-26-64
-Miami,1990.03.16,Round of 128,Guillaume Raoux,Udo Riglewski,76-46-76
-Miami,1990.03.16,Round of 128,Fabrice Santoro,Marc Rosset,63-64
-Miami,1990.03.16,Round of 128,Bryan Shelton,Dan Goldie,63-64
-Miami,1990.03.16,Round of 128,Roger Smith,Kelly Evernden,76-61
-Miami,1990.03.16,Round of 128,Milan Srejber,Tom Nijssen,63-75
-Miami,1990.03.16,Round of 128,Michael Stich,Lars-Anders Wahlgren,46-51-(RET)
-Miami,1990.03.16,Round of 128,Jeff Tarango,Henri Leconte,76-62
-Miami,1990.03.16,Round of 128,Kenny Thorne,Glenn Layendecker,62-76
-Miami,1990.03.16,Round of 128,Alexander Volkov,Jimmy Brown,62-62
-Miami,1990.03.16,Round of 128,Todd Witsken,Tim Wilkison,57-76-64
-Miami,1990.03.16,Round of 128,Jens Woehrmann,Richard Matuszewski,26-64-76
-Miami,1990.03.16,Round of 128,Slobodan Zivojinovic,Tomas Carbonell,62-75
-Miami,1990.03.16,Round of 128,Markus Zoecke,Jimmy Arias,
-Estoril,1990.04.02,Finals,Emilio Sanchez,Franco Davin,63-61
-Estoril,1990.04.02,Semi-Finals,Emilio Sanchez,Jordi Arrese,63-61
-Estoril,1990.04.02,Semi-Finals,Franco Davin,Juan Aguilera,62-61
-Estoril,1990.04.02,Quarter-Finals,Jordi Arrese,Jay Berger,63-61
-Estoril,1990.04.02,Quarter-Finals,Emilio Sanchez,Omar Camporese,62-61
-Estoril,1990.04.02,Quarter-Finals,Juan Aguilera,Thomas Muster,64-63
-Estoril,1990.04.02,Quarter-Finals,Franco Davin,Paul Haarhuis,46-63-75
-Estoril,1990.04.02,Round of 16,Jay Berger,Ronald Agenor,63-61
-Estoril,1990.04.02,Round of 16,Emilio Sanchez,Tomas Carbonell,62-61
-Estoril,1990.04.02,Round of 16,Thomas Muster,Fabrice Santoro,64-63
-Estoril,1990.04.02,Round of 16,Franco Davin,Sergi Bruguera,46-63-75
-Estoril,1990.04.02,Round of 16,Juan Aguilera,Paolo Cane,63-63
-Estoril,1990.04.02,Round of 16,Jordi Arrese,Andrei Cherkasov,63-60
-Estoril,1990.04.02,Round of 16,Omar Camporese,Karel Novacek,64-75
-Estoril,1990.04.02,Round of 16,Paul Haarhuis,Goran Prpic,75-76
-Estoril,1990.04.02,Round of 32,Jay Berger,Joao Cunha-Silva,63-61
-Estoril,1990.04.02,Round of 32,Paul Haarhuis,Martin Jaite,62-61
-Estoril,1990.04.02,Round of 32,Emilio Sanchez,Richard Fromberg,64-63
-Estoril,1990.04.02,Round of 32,Juan Aguilera,Andres Gomez,46-63-75
-Estoril,1990.04.02,Round of 32,Thomas Muster,Mark Koevermans,63-63
-Estoril,1990.04.02,Round of 32,Karel Novacek,Jaime Yzaga,63-60
-Estoril,1990.04.02,Round of 32,Andrei Cherkasov,Guillermo Perez-Roldan,64-75
-Estoril,1990.04.02,Round of 32,Sergi Bruguera,Martin Strelba,75-76
-Estoril,1990.04.02,Round of 32,Ronald Agenor,Javier Sanchez,64-63
-Estoril,1990.04.02,Round of 32,Jordi Arrese,Francisco Clavet,76-62
-Estoril,1990.04.02,Round of 32,Omar Camporese,Udo Riglewski,75-64
-Estoril,1990.04.02,Round of 32,Paolo Cane,Nuno Marques,62-67-64
-Estoril,1990.04.02,Round of 32,Tomas Carbonell,Jean-Philippe Fleurian,62-62
-Estoril,1990.04.02,Round of 32,Franco Davin,Mark Ozer,76-46-61
-Estoril,1990.04.02,Round of 32,Goran Prpic,Jerome Potier,62-61
-Estoril,1990.04.02,Round of 32,Fabrice Santoro,Marian Vajda,61-63
-Orlando,1990.04.02,Finals,Brad Gilbert,Christo Van Rensburg,62-61
-Orlando,1990.04.02,Semi-Finals,Brad Gilbert,MaliVai Washington,62-61
-Orlando,1990.04.02,Semi-Finals,Christo Van Rensburg,David Pate,62-75
-Orlando,1990.04.02,Quarter-Finals,Brad Gilbert,Joey Rive,62-61
-Orlando,1990.04.02,Quarter-Finals,Christo Van Rensburg,Jason Stoltenberg,62-75
-Orlando,1990.04.02,Quarter-Finals,MaliVai Washington,Scott Davis,67-63-75
-Orlando,1990.04.02,Quarter-Finals,David Pate,Alexis Hombrecher,63-63
-Orlando,1990.04.02,Round of 16,Brad Gilbert,Jimmy Brown,62-61
-Orlando,1990.04.02,Round of 16,Alexis Hombrecher,Aaron Krickstein,62-75
-Orlando,1990.04.02,Round of 16,Christo Van Rensburg,Nicolas Pereira,67-63-75
-Orlando,1990.04.02,Round of 16,Scott Davis,Dan Goldie,63-63
-Orlando,1990.04.02,Round of 16,Jason Stoltenberg,Glenn Layendecker,64-46-61
-Orlando,1990.04.02,Round of 16,David Pate,Ramesh Krishnan,63-75
-Orlando,1990.04.02,Round of 16,Joey Rive,Miguel Nido,64-76
-Orlando,1990.04.02,Round of 16,MaliVai Washington,John Ross,62-61
-Orlando,1990.04.02,Round of 32,Brad Gilbert,Christian Saceanu,62-61
-Orlando,1990.04.02,Round of 32,Aaron Krickstein,Markus Zoecke,62-75
-Orlando,1990.04.02,Round of 32,Christo Van Rensburg,Slobodan Zivojinovic,67-63-75
-Orlando,1990.04.02,Round of 32,Scott Davis,Thomas Hogstedt,63-63
-Orlando,1990.04.02,Round of 32,Glenn Layendecker,Jared Palmer,64-46-61
-Orlando,1990.04.02,Round of 32,John Ross,Jimmy Arias,63-75
-Orlando,1990.04.02,Round of 32,Miguel Nido,Veli Paloheimo,64-76
-Orlando,1990.04.02,Round of 32,Ramesh Krishnan,Derrick Rostagno,62-61
-Orlando,1990.04.02,Round of 32,Jimmy Brown,Lars-Anders Wahlgren,(W/O)
-Orlando,1990.04.02,Round of 32,Dan Goldie,Leif Shiras,63-76
-Orlando,1990.04.02,Round of 32,Alexis Hombrecher,David Engel,16-64-62
-Orlando,1990.04.02,Round of 32,David Pate,Alexander Mronz,64-67-64
-Orlando,1990.04.02,Round of 32,Nicolas Pereira,Robbie Weiss,62-36-63
-Orlando,1990.04.02,Round of 32,Joey Rive,Jeff Tarango,36-75-64
-Orlando,1990.04.02,Round of 32,Jason Stoltenberg,Royce Deppe,61-75
-Orlando,1990.04.02,Round of 32,MaliVai Washington,Kelly Jones,64-64
-Rio de Janeiro,1990.04.02,Finals,Luiz Mattar,Andrew Sznajder,64-64
-Rio de Janeiro,1990.04.02,Semi-Finals,Luiz Mattar,Martin Wostenholme,64-64
-Rio de Janeiro,1990.04.02,Semi-Finals,Andrew Sznajder,Brian Garrow,63-61
-Rio de Janeiro,1990.04.02,Quarter-Finals,Luiz Mattar,Paul Vojtischek,64-64
-Rio de Janeiro,1990.04.02,Quarter-Finals,Andrew Sznajder,Patrick Baur,63-61
-Rio de Janeiro,1990.04.02,Quarter-Finals,Brian Garrow,Martin Laurendeau,64-16-64
-Rio de Janeiro,1990.04.02,Quarter-Finals,Martin Wostenholme,Simone Colombo,46-61-63
-Rio de Janeiro,1990.04.02,Round of 16,Luiz Mattar,Roberto Arguello,64-64
-Rio de Janeiro,1990.04.02,Round of 16,Andrew Sznajder,Fernando Roese,63-61
-Rio de Janeiro,1990.04.02,Round of 16,Simone Colombo,Cassio Motta,64-16-64
-Rio de Janeiro,1990.04.02,Round of 16,Martin Laurendeau,Leonardo Lavalle,46-61-63
-Rio de Janeiro,1990.04.02,Round of 16,Martin Wostenholme,Nick Brown,75-61
-Rio de Janeiro,1990.04.02,Round of 16,Paul Vojtischek,Brad Pearce,63-63
-Rio de Janeiro,1990.04.02,Round of 16,Patrick Baur,Gianluca Pozzi,62-62
-Rio de Janeiro,1990.04.02,Round of 16,Brian Garrow,Chris Pridham,63-63
-Rio de Janeiro,1990.04.02,Round of 32,Luiz Mattar,Jaime Oncins,64-64
-Rio de Janeiro,1990.04.02,Round of 32,Andrew Sznajder,Javier Frana,63-61
-Rio de Janeiro,1990.04.02,Round of 32,Cassio Motta,Dan Cassidy,64-16-64
-Rio de Janeiro,1990.04.02,Round of 32,Brian Garrow,Eduardo Bengoechea,46-61-63
-Rio de Janeiro,1990.04.02,Round of 32,Martin Laurendeau,Bryan Shelton,75-61
-Rio de Janeiro,1990.04.02,Round of 32,Martin Wostenholme,Ricki Osterthun,63-63
-Rio de Janeiro,1990.04.02,Round of 32,Brad Pearce,Olivier Delaitre,62-62
-Rio de Janeiro,1990.04.02,Round of 32,Patrick Baur,Horacio de la Pena,63-63
-Rio de Janeiro,1990.04.02,Round of 32,Roberto Arguello,Pablo Albano,63-63
-Rio de Janeiro,1990.04.02,Round of 32,Nick Brown,Alexandre Hocevar,76-63
-Rio de Janeiro,1990.04.02,Round of 32,Simone Colombo,Marcelo Ingaramo,61-36-62
-Rio de Janeiro,1990.04.02,Round of 32,Leonardo Lavalle,Gabriel Markus,76-62
-Rio de Janeiro,1990.04.02,Round of 32,Gianluca Pozzi,Jose Daher,63-57-61
-Rio de Janeiro,1990.04.02,Round of 32,Chris Pridham,Danilo Marcelino,62-26-63
-Rio de Janeiro,1990.04.02,Round of 32,Fernando Roese,Peter Ballauff,26-75-61
-Rio de Janeiro,1990.04.02,Round of 32,Paul Vojtischek,Nduka Odizor,16-75-61
-Tokyo,1990.04.09,Finals,Stefan Edberg,Aaron Krickstein,64-75
-Tokyo,1990.04.09,Semi-Finals,Aaron Krickstein,Ivan Lendl,64-75
-Tokyo,1990.04.09,Semi-Finals,Stefan Edberg,Brad Gilbert,63-57-64
-Tokyo,1990.04.09,Quarter-Finals,Ivan Lendl,Amos Mansdorf,64-75
-Tokyo,1990.04.09,Quarter-Finals,Stefan Edberg,Jim Grabb,63-57-64
-Tokyo,1990.04.09,Quarter-Finals,Brad Gilbert,Wally Masur,61-76
-Tokyo,1990.04.09,Quarter-Finals,Aaron Krickstein,Michael Chang,64-62
-Tokyo,1990.04.09,Round of 16,Ivan Lendl,Joseph Russell,64-75
-Tokyo,1990.04.09,Round of 16,Stefan Edberg,Alex Antonitsch,63-57-64
-Tokyo,1990.04.09,Round of 16,Brad Gilbert,Alexander Mronz,61-76
-Tokyo,1990.04.09,Round of 16,Aaron Krickstein,Grant Connell,64-62
-Tokyo,1990.04.09,Round of 16,Michael Chang,Patrik Kuhnen,63-63
-Tokyo,1990.04.09,Round of 16,Wally Masur,Patrick McEnroe,61-76
-Tokyo,1990.04.09,Round of 16,Jim Grabb,Mark Kratzmann,76-61
-Tokyo,1990.04.09,Round of 16,Amos Mansdorf,Scott Davis,76-62
-Tokyo,1990.04.09,Round of 32,Ivan Lendl,Shuzo Matsuoka,64-75
-Tokyo,1990.04.09,Round of 32,Stefan Edberg,Leif Shiras,63-57-64
-Tokyo,1990.04.09,Round of 32,Brad Gilbert,Brad Pearce,61-76
-Tokyo,1990.04.09,Round of 32,Aaron Krickstein,David Pate,64-62
-Tokyo,1990.04.09,Round of 32,Michael Chang,Kelly Jones,63-63
-Tokyo,1990.04.09,Round of 32,Wally Masur,Johan Carlsson,61-76
-Tokyo,1990.04.09,Round of 32,Jim Grabb,Joey Rive,76-61
-Tokyo,1990.04.09,Round of 32,Scott Davis,Slobodan Zivojinovic,76-62
-Tokyo,1990.04.09,Round of 32,Mark Kratzmann,Jonathan Canter,62-67-61
-Tokyo,1990.04.09,Round of 32,Amos Mansdorf,David Lewis,46-75-61
-Tokyo,1990.04.09,Round of 32,Patrick McEnroe,Paul Chamberlin,63-62
-Tokyo,1990.04.09,Round of 32,Alexander Mronz,Milan Srejber,75-62
-Tokyo,1990.04.09,Round of 32,Grant Connell,Thomas Hogstedt,62-76
-Tokyo,1990.04.09,Round of 32,Alex Antonitsch,Anders Jarryd,64-62
-Tokyo,1990.04.09,Round of 32,Joseph Russell,Dan Goldie,76-67-62
-Tokyo,1990.04.09,Round of 32,Patrik Kuhnen,Todd Woodbridge,64-62
-Tokyo,1990.04.09,Round of 64,Ivan Lendl,Bye,64-75
-Tokyo,1990.04.09,Round of 64,Stefan Edberg,Bye,63-57-64
-Tokyo,1990.04.09,Round of 64,Brad Gilbert,Bye,61-76
-Tokyo,1990.04.09,Round of 64,Aaron Krickstein,Bye,64-62
-Tokyo,1990.04.09,Round of 64,Michael Chang,Bye,63-63
-Tokyo,1990.04.09,Round of 64,Wally Masur,Bye,61-76
-Tokyo,1990.04.09,Round of 64,Jim Grabb,Bye,76-61
-Tokyo,1990.04.09,Round of 64,Scott Davis,Bye,76-62
-Tokyo,1990.04.09,Round of 64,Mark Kratzmann,Pat Cash,62-67-61
-Tokyo,1990.04.09,Round of 64,Amos Mansdorf,Chris Garner,46-75-61
-Tokyo,1990.04.09,Round of 64,Patrik Kuhnen,Kelly Evernden,63-62
-Tokyo,1990.04.09,Round of 64,Paul Chamberlin,Gilad Bloom,75-62
-Tokyo,1990.04.09,Round of 64,Milan Srejber,Kentaro Masuda,62-76
-Tokyo,1990.04.09,Round of 64,Thomas Hogstedt,Paul Vojtischek,64-62
-Tokyo,1990.04.09,Round of 64,Alex Antonitsch,Jason Stoltenberg,76-67-62
-Tokyo,1990.04.09,Round of 64,Dan Goldie,Bruce Derlin,64-62
-Tokyo,1990.04.09,Round of 64,Jonathan Canter,Danny Sapsford,60-62
-Tokyo,1990.04.09,Round of 64,Johan Carlsson,Jeff Tarango,16-61-60
-Tokyo,1990.04.09,Round of 64,Grant Connell,Hidehiko Tanizawa,64-76
-Tokyo,1990.04.09,Round of 64,Anders Jarryd,Dan Cassidy,16-60-61
-Tokyo,1990.04.09,Round of 64,Kelly Jones,Christian Saceanu,61-60
-Tokyo,1990.04.09,Round of 64,David Lewis,Simon Youl,61-64
-Tokyo,1990.04.09,Round of 64,Shuzo Matsuoka,Andrew Castle,63-76
-Tokyo,1990.04.09,Round of 64,Patrick McEnroe,Nicolas Pereira,16-62-64
-Tokyo,1990.04.09,Round of 64,Alexander Mronz,Martin Laurendeau,63-75
-Tokyo,1990.04.09,Round of 64,David Pate,Toshihisa Tsuchihashi,36-63-75
-Tokyo,1990.04.09,Round of 64,Brad Pearce,Lars-Anders Wahlgren,46-63-63
-Tokyo,1990.04.09,Round of 64,Joey Rive,Miguel Nido,64-76
-Tokyo,1990.04.09,Round of 64,Joseph Russell,Tom Nijssen,62-76
-Tokyo,1990.04.09,Round of 64,Leif Shiras,Bret Garnett,64-63
-Tokyo,1990.04.09,Round of 64,Todd Woodbridge,Richard Matuszewski,36-62-63
-Tokyo,1990.04.09,Round of 64,Slobodan Zivojinovic,Brad Drewett,
-Barcelona,1990.04.09,Finals,Andres Gomez,Guillermo Perez-Roldan,60-76-36-06-62
-Barcelona,1990.04.09,Semi-Finals,Guillermo Perez-Roldan,Emilio Sanchez,60-76-36-06-62
-Barcelona,1990.04.09,Semi-Finals,Andres Gomez,Andrei Chesnokov,75-76
-Barcelona,1990.04.09,Quarter-Finals,Andrei Chesnokov,Jay Berger,60-76-36-06-62
-Barcelona,1990.04.09,Quarter-Finals,Guillermo Perez-Roldan,Martin Jaite,75-76
-Barcelona,1990.04.09,Quarter-Finals,Emilio Sanchez,Sergi Bruguera,63-75
-Barcelona,1990.04.09,Quarter-Finals,Andres Gomez,Diego Perez,62-64
-Barcelona,1990.04.09,Round of 16,Jay Berger,Jordi Arrese,60-76-36-06-62
-Barcelona,1990.04.09,Round of 16,Martin Jaite,Javier Sanchez,75-76
-Barcelona,1990.04.09,Round of 16,Emilio Sanchez,Veli Paloheimo,63-75
-Barcelona,1990.04.09,Round of 16,Andres Gomez,German Lopez,62-64
-Barcelona,1990.04.09,Round of 16,Diego Perez,Alberto Mancini,64-64
-Barcelona,1990.04.09,Round of 16,Sergi Bruguera,Horst Skoff,57-64-64
-Barcelona,1990.04.09,Round of 16,Andrei Chesnokov,Carlos Costa,36-63-76
-Barcelona,1990.04.09,Round of 16,Guillermo Perez-Roldan,Goran Prpic,36-63-63
-Barcelona,1990.04.09,Round of 32,Jay Berger,Omar Camporese,60-76-36-06-62
-Barcelona,1990.04.09,Round of 32,Martin Jaite,Markus Zoecke,75-76
-Barcelona,1990.04.09,Round of 32,Emilio Sanchez,Franco Davin,63-75
-Barcelona,1990.04.09,Round of 32,Andres Gomez,Michiel Schapers,62-64
-Barcelona,1990.04.09,Round of 32,Alberto Mancini,Aki Rahunen,64-64
-Barcelona,1990.04.09,Round of 32,Horst Skoff,Martin Strelba,57-64-64
-Barcelona,1990.04.09,Round of 32,Andrei Chesnokov,Roberto Azar,36-63-76
-Barcelona,1990.04.09,Round of 32,Goran Prpic,Thomas Muster,36-63-63
-Barcelona,1990.04.09,Round of 32,Guillermo Perez-Roldan,Mark Koevermans,63-36-63
-Barcelona,1990.04.09,Round of 32,Sergi Bruguera,Marcelo Filippini,(W/O)
-Barcelona,1990.04.09,Round of 32,Diego Perez,Paolo Cane,61-64
-Barcelona,1990.04.09,Round of 32,Veli Paloheimo,Jean-Philippe Fleurian,64-61
-Barcelona,1990.04.09,Round of 32,Jordi Arrese,Michael Stich,62-63
-Barcelona,1990.04.09,Round of 32,Javier Sanchez,Karel Novacek,64-60
-Barcelona,1990.04.09,Round of 32,Carlos Costa,Andrei Cherkasov,62-75
-Barcelona,1990.04.09,Round of 32,German Lopez,Marian Vajda,57-63-76
-Barcelona,1990.04.09,Round of 64,Jay Berger,Bye,60-76-36-06-62
-Barcelona,1990.04.09,Round of 64,Martin Jaite,Bye,75-76
-Barcelona,1990.04.09,Round of 64,Emilio Sanchez,Bye,63-75
-Barcelona,1990.04.09,Round of 64,Andres Gomez,Bye,62-64
-Barcelona,1990.04.09,Round of 64,Alberto Mancini,Bye,64-64
-Barcelona,1990.04.09,Round of 64,Horst Skoff,Bye,57-64-64
-Barcelona,1990.04.09,Round of 64,Andrei Chesnokov,Bye,36-63-76
-Barcelona,1990.04.09,Round of 64,Thomas Muster,Bye,36-63-63
-Barcelona,1990.04.09,Round of 64,Carlos Costa,Petr Korda,63-36-63
-Barcelona,1990.04.09,Round of 64,Guillermo Perez-Roldan,Alexander Volkov,(W/O)
-Barcelona,1990.04.09,Round of 64,Sergi Bruguera,Tomas Carbonell,61-64
-Barcelona,1990.04.09,Round of 64,Paolo Cane,Claudio Pistolesi,64-61
-Barcelona,1990.04.09,Round of 64,German Lopez,Ronald Agenor,62-63
-Barcelona,1990.04.09,Round of 64,Jean-Philippe Fleurian,Paul Haarhuis,64-60
-Barcelona,1990.04.09,Round of 64,Jordi Arrese,Sergio Casal,62-75
-Barcelona,1990.04.09,Round of 64,Javier Sanchez,Jerome Potier,57-63-76
-Barcelona,1990.04.09,Round of 64,Roberto Azar,Lawson Duncan,61-76
-Barcelona,1990.04.09,Round of 64,Omar Camporese,Udo Riglewski,63-61
-Barcelona,1990.04.09,Round of 64,Andrei Cherkasov,Francisco Roig,46-76-76
-Barcelona,1990.04.09,Round of 64,Franco Davin,Eduardo Bengoechea,76-06-64
-Barcelona,1990.04.09,Round of 64,Marcelo Filippini,Juan Avendano,63-46-61
-Barcelona,1990.04.09,Round of 64,Mark Koevermans,Johan Anderson,64-16-63
-Barcelona,1990.04.09,Round of 64,Karel Novacek,Marc Rosset,36-61-62
-Barcelona,1990.04.09,Round of 64,Veli Paloheimo,Juan Aguilera,63-64
-Barcelona,1990.04.09,Round of 64,Diego Perez,Dirk Leppen,75-63
-Barcelona,1990.04.09,Round of 64,Goran Prpic,Vicente Solves,62-20-(RET)
-Barcelona,1990.04.09,Round of 64,Aki Rahunen,David De Miguel,62-62
-Barcelona,1990.04.09,Round of 64,Michiel Schapers,Bruno Oresar,63-36-75
-Barcelona,1990.04.09,Round of 64,Michael Stich,Richard Fromberg,76-62
-Barcelona,1990.04.09,Round of 64,Martin Strelba,Henri Leconte,63-62
-Barcelona,1990.04.09,Round of 64,Marian Vajda,Jens Woehrmann,64-76
-Barcelona,1990.04.09,Round of 64,Markus Zoecke,Jose Clavet,
-Nice,1990.04.16,Finals,Juan Aguilera,Guy Forget,26-63-64
-Nice,1990.04.16,Semi-Finals,Juan Aguilera,Marc Rosset,26-63-64
-Nice,1990.04.16,Semi-Finals,Guy Forget,Andrei Cherkasov,63-60
-Nice,1990.04.16,Quarter-Finals,Andrei Cherkasov,Jay Berger,26-63-64
-Nice,1990.04.16,Quarter-Finals,Juan Aguilera,Jakob Hlasek,63-60
-Nice,1990.04.16,Quarter-Finals,Guy Forget,Goran Prpic,46-76-64
-Nice,1990.04.16,Quarter-Finals,Marc Rosset,Fabrice Santoro,26-62-63
-Nice,1990.04.16,Round of 16,Jay Berger,Henri Leconte,26-63-64
-Nice,1990.04.16,Round of 16,Fabrice Santoro,Andrei Chesnokov,63-60
-Nice,1990.04.16,Round of 16,Goran Prpic,Guillermo Perez-Roldan,46-76-64
-Nice,1990.04.16,Round of 16,Juan Aguilera,Aki Rahunen,26-62-63
-Nice,1990.04.16,Round of 16,Andrei Cherkasov,Michael Stich,64-64
-Nice,1990.04.16,Round of 16,Guy Forget,Niclas Kroon,76-62
-Nice,1990.04.16,Round of 16,Jakob Hlasek,Claudio Pistolesi,60-57-62
-Nice,1990.04.16,Round of 16,Marc Rosset,Tomas Carbonell,63-16-76
-Nice,1990.04.16,Round of 32,Jay Berger,Olivier Soules,26-63-64
-Nice,1990.04.16,Round of 32,Claudio Pistolesi,Alberto Mancini,63-60
-Nice,1990.04.16,Round of 32,Niclas Kroon,Horst Skoff,46-76-64
-Nice,1990.04.16,Round of 32,Andrei Chesnokov,Karel Novacek,26-62-63
-Nice,1990.04.16,Round of 32,Marc Rosset,Yannick Noah,64-64
-Nice,1990.04.16,Round of 32,Guillermo Perez-Roldan,Ronald Agenor,76-62
-Nice,1990.04.16,Round of 32,Andrei Cherkasov,Petr Korda,60-57-62
-Nice,1990.04.16,Round of 32,Aki Rahunen,Jordi Arrese,63-16-76
-Nice,1990.04.16,Round of 32,Juan Aguilera,Javier Sanchez,63-64
-Nice,1990.04.16,Round of 32,Tomas Carbonell,Martin Strelba,75-67-20-(RET)
-Nice,1990.04.16,Round of 32,Guy Forget,Veli Paloheimo,62-26-64
-Nice,1990.04.16,Round of 32,Jakob Hlasek,Thierry Tulasne,64-64
-Nice,1990.04.16,Round of 32,Henri Leconte,Marcelo Filippini,76-61
-Nice,1990.04.16,Round of 32,Goran Prpic,Jan Gunnarsson,64-64
-Nice,1990.04.16,Round of 32,Fabrice Santoro,Jean-Philippe Fleurian,76-46-64
-Nice,1990.04.16,Round of 32,Michael Stich,Jimmy Arias,76-63
-Seoul,1990.04.16,Finals,Alex Antonitsch,Pat Cash,76-63
-Seoul,1990.04.16,Semi-Finals,Alex Antonitsch,Dan Goldie,76-63
-Seoul,1990.04.16,Semi-Finals,Pat Cash,Gilad Bloom,46-63-76
-Seoul,1990.04.16,Quarter-Finals,Pat Cash,Milan Srejber,76-63
-Seoul,1990.04.16,Quarter-Finals,Dan Goldie,Shuzo Matsuoka,46-63-76
-Seoul,1990.04.16,Quarter-Finals,Gilad Bloom,Richard Matuszewski,63-63
-Seoul,1990.04.16,Quarter-Finals,Alex Antonitsch,Patrik Kuhnen,62-63
-Seoul,1990.04.16,Round of 16,Richard Matuszewski,Wally Masur,76-63
-Seoul,1990.04.16,Round of 16,Shuzo Matsuoka,Kelly Evernden,46-63-76
-Seoul,1990.04.16,Round of 16,Milan Srejber,Johan Carlsson,63-63
-Seoul,1990.04.16,Round of 16,Dan Goldie,Joey Rive,62-63
-Seoul,1990.04.16,Round of 16,Gilad Bloom,Miguel Nido,75-62
-Seoul,1990.04.16,Round of 16,Alex Antonitsch,Leif Shiras,62-62
-Seoul,1990.04.16,Round of 16,Pat Cash,Grant Connell,64-64
-Seoul,1990.04.16,Round of 16,Patrik Kuhnen,Lars-Anders Wahlgren,67-76-64
-Seoul,1990.04.16,Round of 32,Wally Masur,Christian Saceanu,76-63
-Seoul,1990.04.16,Round of 32,Lars-Anders Wahlgren,Amos Mansdorf,46-63-76
-Seoul,1990.04.16,Round of 32,Grant Connell,Paul Chamberlin,63-63
-Seoul,1990.04.16,Round of 32,Kelly Evernden,Jin-So Lee,62-63
-Seoul,1990.04.16,Round of 32,Milan Srejber,Tom Nijssen,75-62
-Seoul,1990.04.16,Round of 32,Dan Goldie,Todd Woodbridge,62-62
-Seoul,1990.04.16,Round of 32,Leif Shiras,Thomas Hogstedt,64-64
-Seoul,1990.04.16,Round of 32,Gilad Bloom,Simon Youl,67-76-64
-Seoul,1990.04.16,Round of 32,Alex Antonitsch,Kelly Jones,63-61
-Seoul,1990.04.16,Round of 32,Johan Carlsson,Nick Brown,60-64
-Seoul,1990.04.16,Round of 32,Pat Cash,Martin Laurendeau,46-63-64
-Seoul,1990.04.16,Round of 32,Patrik Kuhnen,Bong-Soo Kim,64-63
-Seoul,1990.04.16,Round of 32,Shuzo Matsuoka,Nicolas Pereira,61-60
-Seoul,1990.04.16,Round of 32,Richard Matuszewski,Jason Stoltenberg,67-75-62
-Seoul,1990.04.16,Round of 32,Miguel Nido,Slobodan Zivojinovic,60-61
-Seoul,1990.04.16,Round of 32,Joey Rive,Jae-Sik Kim,62-62
-Monte Carlo,1990.04.23,Finals,Andrei Chesnokov,Thomas Muster,75-63-63
-Monte Carlo,1990.04.23,Semi-Finals,Andrei Chesnokov,Emilio Sanchez,75-63-63
-Monte Carlo,1990.04.23,Semi-Finals,Thomas Muster,Henri Leconte,46-61-76
-Monte Carlo,1990.04.23,Quarter-Finals,Emilio Sanchez,Boris Becker,75-63-63
-Monte Carlo,1990.04.23,Quarter-Finals,Andrei Chesnokov,Marc Rosset,46-61-76
-Monte Carlo,1990.04.23,Quarter-Finals,Henri Leconte,Horst Skoff,62-63
-Monte Carlo,1990.04.23,Quarter-Finals,Thomas Muster,Juan Aguilera,46-75-76
-Monte Carlo,1990.04.23,Round of 16,Juan Aguilera,Stefan Edberg,75-63-63
-Monte Carlo,1990.04.23,Round of 16,Boris Becker,Ronald Agenor,46-61-76
-Monte Carlo,1990.04.23,Round of 16,Henri Leconte,Andres Gomez,62-63
-Monte Carlo,1990.04.23,Round of 16,Emilio Sanchez,Guy Forget,46-75-76
-Monte Carlo,1990.04.23,Round of 16,Thomas Muster,Jim Courier,63-62
-Monte Carlo,1990.04.23,Round of 16,Andrei Chesnokov,Jaime Yzaga,62-67-64
-Monte Carlo,1990.04.23,Round of 16,Horst Skoff,Jordi Arrese,63-64
-Monte Carlo,1990.04.23,Round of 16,Marc Rosset,David Engel,76-76
-Monte Carlo,1990.04.23,Round of 32,Stefan Edberg,Jimmy Arias,75-63-63
-Monte Carlo,1990.04.23,Round of 32,Boris Becker,Cedric Pioline,46-61-76
-Monte Carlo,1990.04.23,Round of 32,Jordi Arrese,Aaron Krickstein,62-63
-Monte Carlo,1990.04.23,Round of 32,Jaime Yzaga,Jay Berger,46-75-76
-Monte Carlo,1990.04.23,Round of 32,Andres Gomez,Javier Sanchez,63-62
-Monte Carlo,1990.04.23,Round of 32,Emilio Sanchez,Marian Vajda,62-67-64
-Monte Carlo,1990.04.23,Round of 32,Thomas Muster,Martin Jaite,63-64
-Monte Carlo,1990.04.23,Round of 32,Jim Courier,Goran Ivanisevic,76-76
-Monte Carlo,1990.04.23,Round of 32,Henri Leconte,Alberto Mancini,62-46-64
-Monte Carlo,1990.04.23,Round of 32,Andrei Chesnokov,Tomas Carbonell,63-64
-Monte Carlo,1990.04.23,Round of 32,Marc Rosset,Guillermo Perez-Roldan,62-62
-Monte Carlo,1990.04.23,Round of 32,Horst Skoff,Karel Novacek,64-64
-Monte Carlo,1990.04.23,Round of 32,Juan Aguilera,Sergi Bruguera,62-61
-Monte Carlo,1990.04.23,Round of 32,Ronald Agenor,Petr Korda,67-64-75
-Monte Carlo,1990.04.23,Round of 32,David Engel,Gabriel Markus,60-64
-Monte Carlo,1990.04.23,Round of 32,Guy Forget,Jonas Svensson,76-63
-Monte Carlo,1990.04.23,Round of 64,Stefan Edberg,Bye,75-63-63
-Monte Carlo,1990.04.23,Round of 64,Boris Becker,Bye,46-61-76
-Monte Carlo,1990.04.23,Round of 64,Aaron Krickstein,Bye,62-63
-Monte Carlo,1990.04.23,Round of 64,Jay Berger,Bye,46-75-76
-Monte Carlo,1990.04.23,Round of 64,Andres Gomez,Bye,63-62
-Monte Carlo,1990.04.23,Round of 64,Emilio Sanchez,Bye,62-67-64
-Monte Carlo,1990.04.23,Round of 64,Martin Jaite,Bye,63-64
-Monte Carlo,1990.04.23,Round of 64,Jim Courier,Michael Stich,76-76
-Monte Carlo,1990.04.23,Round of 64,Jonas Svensson,Carl-Uwe Steeb,62-46-64
-Monte Carlo,1990.04.23,Round of 64,Alberto Mancini,Christo Van Rensburg,63-64
-Monte Carlo,1990.04.23,Round of 64,Andrei Chesnokov,Goran Prpic,62-62
-Monte Carlo,1990.04.23,Round of 64,Guillermo Perez-Roldan,Diego Perez,64-64
-Monte Carlo,1990.04.23,Round of 64,Horst Skoff,Niclas Kroon,62-61
-Monte Carlo,1990.04.23,Round of 64,Ronald Agenor,Magnus Gustafsson,67-64-75
-Monte Carlo,1990.04.23,Round of 64,Sergi Bruguera,Jean-Philippe Fleurian,60-64
-Monte Carlo,1990.04.23,Round of 64,Juan Aguilera,Diego Nargiso,76-63
-Monte Carlo,1990.04.23,Round of 64,Jimmy Arias,Gary Muller,75-64
-Monte Carlo,1990.04.23,Round of 64,Jordi Arrese,Paolo Cane,75-62
-Monte Carlo,1990.04.23,Round of 64,Tomas Carbonell,Jakob Hlasek,16-64-61
-Monte Carlo,1990.04.23,Round of 64,David Engel,Jan Gunnarsson,76-64
-Monte Carlo,1990.04.23,Round of 64,Guy Forget,Paul Haarhuis,61-61
-Monte Carlo,1990.04.23,Round of 64,Goran Ivanisevic,Christian Bergstrom,63-62
-Monte Carlo,1990.04.23,Round of 64,Petr Korda,Yannick Noah,63-61
-Monte Carlo,1990.04.23,Round of 64,Henri Leconte,Todd Witsken,64-64
-Monte Carlo,1990.04.23,Round of 64,Gabriel Markus,Bye,41-(RET)
-Monte Carlo,1990.04.23,Round of 64,Thomas Muster,Marcelo Filippini,61-76
-Monte Carlo,1990.04.23,Round of 64,Karel Novacek,Luiz Mattar,63-67-64
-Monte Carlo,1990.04.23,Round of 64,Cedric Pioline,Milan Srejber,67-64-(RET)
-Monte Carlo,1990.04.23,Round of 64,Marc Rosset,Sergio Cortes,63-62
-Monte Carlo,1990.04.23,Round of 64,Javier Sanchez,Fabrice Santoro,75-64
-Monte Carlo,1990.04.23,Round of 64,Marian Vajda,Martin Strelba,64-57-61
-Monte Carlo,1990.04.23,Round of 64,Jaime Yzaga,Lars Jonsson,
-Hong Kong,1990.04.23,Finals,Pat Cash,Alex Antonitsch,63-64
-Hong Kong,1990.04.23,Semi-Finals,Alex Antonitsch,Jonathan Canter,63-64
-Hong Kong,1990.04.23,Semi-Finals,Pat Cash,Patrik Kuhnen,36-63-64
-Hong Kong,1990.04.23,Quarter-Finals,Alex Antonitsch,Patrick McEnroe,63-64
-Hong Kong,1990.04.23,Quarter-Finals,Jonathan Canter,Tom Nijssen,36-63-64
-Hong Kong,1990.04.23,Quarter-Finals,Pat Cash,Grant Connell,67-75-61
-Hong Kong,1990.04.23,Quarter-Finals,Patrik Kuhnen,Brad Pearce,67-61-76
-Hong Kong,1990.04.23,Round of 16,Tom Nijssen,Wally Masur,63-64
-Hong Kong,1990.04.23,Round of 16,Brad Pearce,Amos Mansdorf,36-63-64
-Hong Kong,1990.04.23,Round of 16,Patrick McEnroe,Paul Chamberlin,67-75-61
-Hong Kong,1990.04.23,Round of 16,Grant Connell,Dan Goldie,67-61-76
-Hong Kong,1990.04.23,Round of 16,Alex Antonitsch,Jason Stoltenberg,61-64
-Hong Kong,1990.04.23,Round of 16,Jonathan Canter,Markus Zoecke,62-76
-Hong Kong,1990.04.23,Round of 16,Pat Cash,Eric Jelen,62-62
-Hong Kong,1990.04.23,Round of 16,Patrik Kuhnen,Richard Fromberg,06-63-63
-Hong Kong,1990.04.23,Round of 32,Wally Masur,Thomas Hogstedt,63-64
-Hong Kong,1990.04.23,Round of 32,Pat Cash,Kevin Curren,36-63-64
-Hong Kong,1990.04.23,Round of 32,Amos Mansdorf,Nicolas Pereira,67-75-61
-Hong Kong,1990.04.23,Round of 32,Jason Stoltenberg,Scott Davis,67-61-76
-Hong Kong,1990.04.23,Round of 32,Richard Fromberg,Mark Kratzmann,61-64
-Hong Kong,1990.04.23,Round of 32,Paul Chamberlin,Kelly Jones,62-76
-Hong Kong,1990.04.23,Round of 32,Markus Zoecke,Kelly Evernden,62-62
-Hong Kong,1990.04.23,Round of 32,Dan Goldie,Gilad Bloom,06-63-63
-Hong Kong,1990.04.23,Round of 32,Alex Antonitsch,Richard Matuszewski,62-26-63
-Hong Kong,1990.04.23,Round of 32,Jonathan Canter,Larry Stefanki,64-64
-Hong Kong,1990.04.23,Round of 32,Grant Connell,Leif Shiras,63-64
-Hong Kong,1990.04.23,Round of 32,Eric Jelen,Simon Youl,76-61
-Hong Kong,1990.04.23,Round of 32,Patrik Kuhnen,Joey Rive,46-64-63
-Hong Kong,1990.04.23,Round of 32,Patrick McEnroe,Vijay Amritraj,62-76
-Hong Kong,1990.04.23,Round of 32,Tom Nijssen,Lars-Anders Wahlgren,75-75
-Hong Kong,1990.04.23,Round of 32,Brad Pearce,Bong-Soo Kim,63-60
-Madrid,1990.04.30,Finals,Andres Gomez,Marc Rosset,63-76
-Madrid,1990.04.30,Semi-Finals,Andres Gomez,Martin Jaite,63-76
-Madrid,1990.04.30,Semi-Finals,Marc Rosset,Javier Sanchez,63-64
-Madrid,1990.04.30,Quarter-Finals,Andres Gomez,Mark Koevermans,63-76
-Madrid,1990.04.30,Quarter-Finals,Martin Jaite,Alberto Mancini,63-64
-Madrid,1990.04.30,Quarter-Finals,Marc Rosset,Marcos Aurelio Gorriz,75-26-62
-Madrid,1990.04.30,Quarter-Finals,Javier Sanchez,Juan Carlos Baguena,75-36-63
-Madrid,1990.04.30,Round of 16,Andres Gomez,Diego Perez,63-76
-Madrid,1990.04.30,Round of 16,Marc Rosset,Emilio Sanchez,63-64
-Madrid,1990.04.30,Round of 16,Martin Jaite,Franco Davin,75-26-62
-Madrid,1990.04.30,Round of 16,Alberto Mancini,Cassio Motta,75-36-63
-Madrid,1990.04.30,Round of 16,Juan Carlos Baguena,Marian Vajda,63-36-62
-Madrid,1990.04.30,Round of 16,Marcos Aurelio Gorriz,Jerome Potier,62-26-75
-Madrid,1990.04.30,Round of 16,Mark Koevermans,Jimmy Arias,63-61
-Madrid,1990.04.30,Round of 16,Javier Sanchez,Carlos Costa,36-76-60
-Madrid,1990.04.30,Round of 32,Marian Vajda,Jay Berger,63-76
-Madrid,1990.04.30,Round of 32,Andres Gomez,Andrew Sznajder,63-64
-Madrid,1990.04.30,Round of 32,Emilio Sanchez,David De Miguel,75-26-62
-Madrid,1990.04.30,Round of 32,Martin Jaite,Paul Haarhuis,75-36-63
-Madrid,1990.04.30,Round of 32,Alberto Mancini,Luiz Mattar,63-36-62
-Madrid,1990.04.30,Round of 32,Javier Sanchez,Jordi Arrese,62-26-75
-Madrid,1990.04.30,Round of 32,Mark Koevermans,Juan Aguilera,63-61
-Madrid,1990.04.30,Round of 32,Jimmy Arias,Francisco Clavet,36-76-60
-Madrid,1990.04.30,Round of 32,Juan Carlos Baguena,Juan-Luis Rascon-Lope,46-64-64
-Madrid,1990.04.30,Round of 32,Carlos Costa,Lars Jonsson,63-76
-Madrid,1990.04.30,Round of 32,Franco Davin,Francisco Roig,63-64
-Madrid,1990.04.30,Round of 32,Marcos Aurelio Gorriz,Thierry Tulasne,64-67-64
-Madrid,1990.04.30,Round of 32,Cassio Motta,Jose Francisco Altur,46-54-(RET)
-Madrid,1990.04.30,Round of 32,Diego Perez,Eduardo Bengoechea,76-64
-Madrid,1990.04.30,Round of 32,Jerome Potier,Marcelo Filippini,75-62
-Madrid,1990.04.30,Round of 32,Marc Rosset,Omar Camporese,63-63
-Munich,1990.04.30,Finals,Karel Novacek,Thomas Muster,64-62
-Munich,1990.04.30,Semi-Finals,Thomas Muster,Petr Korda,64-62
-Munich,1990.04.30,Semi-Finals,Karel Novacek,Jonas Svensson,63-61
-Munich,1990.04.30,Quarter-Finals,Jonas Svensson,Jim Courier,64-62
-Munich,1990.04.30,Quarter-Finals,Petr Korda,Jens Woehrmann,63-61
-Munich,1990.04.30,Quarter-Finals,Thomas Muster,Martin Strelba,61-26-61
-Munich,1990.04.30,Quarter-Finals,Karel Novacek,Christian Bergstrom,36-63-64
-Munich,1990.04.30,Round of 16,Martin Strelba,Stefan Edberg,64-62
-Munich,1990.04.30,Round of 16,Karel Novacek,Aaron Krickstein,63-61
-Munich,1990.04.30,Round of 16,Jim Courier,Bruno Oresar,61-26-61
-Munich,1990.04.30,Round of 16,Jens Woehrmann,Carl-Uwe Steeb,36-63-64
-Munich,1990.04.30,Round of 16,Christian Bergstrom,Udo Riglewski,63-75
-Munich,1990.04.30,Round of 16,Petr Korda,Kevin Curren,43-(RET)
-Munich,1990.04.30,Round of 16,Thomas Muster,Magnus Gustafsson,61-61
-Munich,1990.04.30,Round of 16,Jonas Svensson,Milan Srejber,64-61
-Munich,1990.04.30,Round of 32,Stefan Edberg,Christo Van Rensburg,64-62
-Munich,1990.04.30,Round of 32,Aaron Krickstein,Horacio de la Pena,63-61
-Munich,1990.04.30,Round of 32,Petr Korda,Michael Chang,61-26-61
-Munich,1990.04.30,Round of 32,Jim Courier,Paolo Cane,36-63-64
-Munich,1990.04.30,Round of 32,Carl-Uwe Steeb,Jan Gunnarsson,63-75
-Munich,1990.04.30,Round of 32,Jonas Svensson,Pete Sampras,43-(RET)
-Munich,1990.04.30,Round of 32,Thomas Muster,Guillermo Perez-Roldan,61-61
-Munich,1990.04.30,Round of 32,Christian Bergstrom,Horst Skoff,64-61
-Munich,1990.04.30,Round of 32,Kevin Curren,Jorge Lozano,62-76
-Munich,1990.04.30,Round of 32,Magnus Gustafsson,Todd Witsken,62-61
-Munich,1990.04.30,Round of 32,Karel Novacek,Hans Schwaier,75-64
-Munich,1990.04.30,Round of 32,Bruno Oresar,Michael Stich,61-46-60
-Munich,1990.04.30,Round of 32,Udo Riglewski,Peter Lundgren,75-61
-Munich,1990.04.30,Round of 32,Milan Srejber,Goran Prpic,75-62
-Munich,1990.04.30,Round of 32,Martin Strelba,Stefano Pescosolido,61-10-(RET)
-Munich,1990.04.30,Round of 32,Jens Woehrmann,Yannick Noah,61-60
-Singapore,1990.04.30,Finals,Kelly Jones,Richard Fromberg,64-26-76
-Singapore,1990.04.30,Semi-Finals,Richard Fromberg,Dan Goldie,64-26-76
-Singapore,1990.04.30,Semi-Finals,Kelly Jones,Jan Siemerink,64-76
-Singapore,1990.04.30,Quarter-Finals,Richard Fromberg,Wally Masur,64-26-76
-Singapore,1990.04.30,Quarter-Finals,Dan Goldie,Patrick McEnroe,64-76
-Singapore,1990.04.30,Quarter-Finals,Jan Siemerink,Kelly Evernden,61-64
-Singapore,1990.04.30,Quarter-Finals,Kelly Jones,Thomas Hogstedt,64-64
-Singapore,1990.04.30,Round of 16,Wally Masur,Eric Jelen,64-26-76
-Singapore,1990.04.30,Round of 16,Kelly Jones,Mark Kratzmann,64-76
-Singapore,1990.04.30,Round of 16,Dan Goldie,Todd Woodbridge,61-64
-Singapore,1990.04.30,Round of 16,Kelly Evernden,Patrik Kuhnen,64-64
-Singapore,1990.04.30,Round of 16,Richard Fromberg,Chris Pridham,36-61-76
-Singapore,1990.04.30,Round of 16,Thomas Hogstedt,Jason Stoltenberg,62-61
-Singapore,1990.04.30,Round of 16,Patrick McEnroe,Mark Petchey,76-26-62
-Singapore,1990.04.30,Round of 16,Jan Siemerink,Martin Laurendeau,64-62
-Singapore,1990.04.30,Round of 32,Wally Masur,Peter Nyborg,64-26-76
-Singapore,1990.04.30,Round of 32,Mark Kratzmann,Lars-Anders Wahlgren,64-76
-Singapore,1990.04.30,Round of 32,Martin Laurendeau,Alex Antonitsch,61-64
-Singapore,1990.04.30,Round of 32,Patrick McEnroe,Paul Chamberlin,64-64
-Singapore,1990.04.30,Round of 32,Dan Goldie,Brian Garrow,36-61-76
-Singapore,1990.04.30,Round of 32,Kelly Evernden,Jonathan Canter,62-61
-Singapore,1990.04.30,Round of 32,Richard Fromberg,Christian Saceanu,76-26-62
-Singapore,1990.04.30,Round of 32,Jason Stoltenberg,Grant Connell,64-62
-Singapore,1990.04.30,Round of 32,Thomas Hogstedt,Dan Cassidy,76-61
-Singapore,1990.04.30,Round of 32,Eric Jelen,Joey Rive,64-57-60
-Singapore,1990.04.30,Round of 32,Kelly Jones,Markus Zoecke,63-64
-Singapore,1990.04.30,Round of 32,Patrik Kuhnen,Tom Nijssen,63-36-75
-Singapore,1990.04.30,Round of 32,Mark Petchey,Shuzo Matsuoka,36-63-75
-Singapore,1990.04.30,Round of 32,Chris Pridham,Brad Drewett,75-61
-Singapore,1990.04.30,Round of 32,Jan Siemerink,Leif Shiras,64-64
-Singapore,1990.04.30,Round of 32,Todd Woodbridge,Woody Hunt,63-64
-Hamburg,1990.05.07,Finals,Juan Aguilera,Boris Becker,61-60-76
-Hamburg,1990.05.07,Semi-Finals,Boris Becker,Henri Leconte,61-60-76
-Hamburg,1990.05.07,Semi-Finals,Juan Aguilera,Guy Forget,63-36-63
-Hamburg,1990.05.07,Quarter-Finals,Boris Becker,Jimmy Arias,61-60-76
-Hamburg,1990.05.07,Quarter-Finals,Guy Forget,Jay Berger,63-36-63
-Hamburg,1990.05.07,Quarter-Finals,Juan Aguilera,Magnus Gustafsson,75-76
-Hamburg,1990.05.07,Quarter-Finals,Henri Leconte,Franco Davin,63-61
-Hamburg,1990.05.07,Round of 16,Boris Becker,Andrei Cherkasov,61-60-76
-Hamburg,1990.05.07,Round of 16,Magnus Gustafsson,Andre Agassi,63-36-63
-Hamburg,1990.05.07,Round of 16,Henri Leconte,Aaron Krickstein,75-76
-Hamburg,1990.05.07,Round of 16,Guy Forget,Emilio Sanchez,63-61
-Hamburg,1990.05.07,Round of 16,Jay Berger,Roberto Azar,63-36-64
-Hamburg,1990.05.07,Round of 16,Juan Aguilera,Jim Courier,61-64
-Hamburg,1990.05.07,Round of 16,Jimmy Arias,Lars Jonsson,63-63
-Hamburg,1990.05.07,Round of 16,Franco Davin,Luiz Mattar,62-63
-Hamburg,1990.05.07,Round of 32,Boris Becker,Paolo Cane,61-60-76
-Hamburg,1990.05.07,Round of 32,Andre Agassi,Diego Perez,63-36-63
-Hamburg,1990.05.07,Round of 32,Aaron Krickstein,Jaime Yzaga,75-76
-Hamburg,1990.05.07,Round of 32,Emilio Sanchez,Fabrice Santoro,63-61
-Hamburg,1990.05.07,Round of 32,Jay Berger,Patrik Kuhnen,63-36-64
-Hamburg,1990.05.07,Round of 32,Luiz Mattar,Andres Gomez,61-64
-Hamburg,1990.05.07,Round of 32,Juan Aguilera,Michael Chang,63-63
-Hamburg,1990.05.07,Round of 32,Jim Courier,Paul Haarhuis,62-63
-Hamburg,1990.05.07,Round of 32,Roberto Azar,Carl-Uwe Steeb,76-76
-Hamburg,1990.05.07,Round of 32,Magnus Gustafsson,Marcelo Filippini,64-64
-Hamburg,1990.05.07,Round of 32,Jimmy Arias,Jakob Hlasek,76-64
-Hamburg,1990.05.07,Round of 32,Andrei Cherkasov,Jens Woehrmann,36-62-63
-Hamburg,1990.05.07,Round of 32,Franco Davin,Ronald Agenor,16-64-64
-Hamburg,1990.05.07,Round of 32,Guy Forget,Goran Prpic,61-62
-Hamburg,1990.05.07,Round of 32,Lars Jonsson,Udo Riglewski,60-62
-Hamburg,1990.05.07,Round of 32,Henri Leconte,Jordi Arrese,75-61
-Hamburg,1990.05.07,Round of 64,Boris Becker,Bye,61-60-76
-Hamburg,1990.05.07,Round of 64,Andre Agassi,Bye,63-36-63
-Hamburg,1990.05.07,Round of 64,Aaron Krickstein,Bye,75-76
-Hamburg,1990.05.07,Round of 64,Emilio Sanchez,Bye,63-61
-Hamburg,1990.05.07,Round of 64,Jay Berger,Bye,63-36-64
-Hamburg,1990.05.07,Round of 64,Andres Gomez,Bye,61-64
-Hamburg,1990.05.07,Round of 64,Michael Chang,Bye,63-63
-Hamburg,1990.05.07,Round of 64,Jimmy Arias,Martin Jaite,62-63
-Hamburg,1990.05.07,Round of 64,Jim Courier,Jan Gunnarsson,76-76
-Hamburg,1990.05.07,Round of 64,Carl-Uwe Steeb,Javier Sanchez,64-64
-Hamburg,1990.05.07,Round of 64,Jordi Arrese,Horst Skoff,76-64
-Hamburg,1990.05.07,Round of 64,Goran Prpic,Guillermo Perez-Roldan,36-62-63
-Hamburg,1990.05.07,Round of 64,Magnus Gustafsson,Sergi Bruguera,16-64-64
-Hamburg,1990.05.07,Round of 64,Jens Woehrmann,Alberto Mancini,61-62
-Hamburg,1990.05.07,Round of 64,Ronald Agenor,Eric Jelen,60-62
-Hamburg,1990.05.07,Round of 64,Juan Aguilera,Goran Ivanisevic,75-61
-Hamburg,1990.05.07,Round of 64,Roberto Azar,Jean-Philippe Fleurian,61-10-(RET)
-Hamburg,1990.05.07,Round of 64,Paolo Cane,Kevin Curren,76-62
-Hamburg,1990.05.07,Round of 64,Andrei Cherkasov,Markus Zoecke,46-61-61
-Hamburg,1990.05.07,Round of 64,Franco Davin,Christian Bergstrom,62-62
-Hamburg,1990.05.07,Round of 64,Marcelo Filippini,Alexander Volkov,67-76-63
-Hamburg,1990.05.07,Round of 64,Guy Forget,Karel Novacek,63-62
-Hamburg,1990.05.07,Round of 64,Paul Haarhuis,Amos Mansdorf,61-61
-Hamburg,1990.05.07,Round of 64,Jakob Hlasek,Michael Stich,62-46-75
-Hamburg,1990.05.07,Round of 64,Lars Jonsson,Bye,63-57-63
-Hamburg,1990.05.07,Round of 64,Patrik Kuhnen,Thierry Champion,64-26-62
-Hamburg,1990.05.07,Round of 64,Henri Leconte,Todd Witsken,64-61
-Hamburg,1990.05.07,Round of 64,Luiz Mattar,Claudio Pistolesi,63-26-62
-Hamburg,1990.05.07,Round of 64,Diego Perez,Jonas Svensson,76-36-64
-Hamburg,1990.05.07,Round of 64,Udo Riglewski,Jan Apell,60-64
-Hamburg,1990.05.07,Round of 64,Fabrice Santoro,Petr Korda,64-16-62
-Hamburg,1990.05.07,Round of 64,Jaime Yzaga,Milan Srejber,
-Kiawah Island,1990.05.07,Finals,David Wheaton,Mark Kaplan,64-64
-Kiawah Island,1990.05.07,Semi-Finals,David Wheaton,Alexander Mronz,64-64
-Kiawah Island,1990.05.07,Semi-Finals,Mark Kaplan,MaliVai Washington,26-75-62
-Kiawah Island,1990.05.07,Quarter-Finals,David Wheaton,Jeff Tarango,64-64
-Kiawah Island,1990.05.07,Quarter-Finals,Alexander Mronz,Derrick Rostagno,26-75-62
-Kiawah Island,1990.05.07,Quarter-Finals,MaliVai Washington,Martin Wostenholme,62-63
-Kiawah Island,1990.05.07,Quarter-Finals,Mark Kaplan,Tim Wilkison,62-67-76
-Kiawah Island,1990.05.07,Round of 16,Alexander Mronz,Richey Reneberg,64-64
-Kiawah Island,1990.05.07,Round of 16,David Wheaton,Craig Campbell,26-75-62
-Kiawah Island,1990.05.07,Round of 16,Derrick Rostagno,Robbie Weiss,62-63
-Kiawah Island,1990.05.07,Round of 16,MaliVai Washington,Leonardo Lavalle,62-67-76
-Kiawah Island,1990.05.07,Round of 16,Mark Kaplan,David Pate,63-62
-Kiawah Island,1990.05.07,Round of 16,Jeff Tarango,Chris Garner,64-46-63
-Kiawah Island,1990.05.07,Round of 16,Tim Wilkison,Joey Rive,64-62
-Kiawah Island,1990.05.07,Round of 16,Martin Wostenholme,Brad Pearce,64-62
-Kiawah Island,1990.05.07,Round of 32,Richey Reneberg,Tom Mercer,64-64
-Kiawah Island,1990.05.07,Round of 32,Brad Pearce,Jim Grabb,26-75-62
-Kiawah Island,1990.05.07,Round of 32,David Wheaton,Richard Matuszewski,62-63
-Kiawah Island,1990.05.07,Round of 32,Tim Wilkison,Scott Davis,62-67-76
-Kiawah Island,1990.05.07,Round of 32,Mark Kaplan,Dan Goldie,63-62
-Kiawah Island,1990.05.07,Round of 32,Jeff Tarango,Lawson Duncan,64-46-63
-Kiawah Island,1990.05.07,Round of 32,Derrick Rostagno,Miguel Nido,64-62
-Kiawah Island,1990.05.07,Round of 32,MaliVai Washington,Leif Shiras,64-62
-Kiawah Island,1990.05.07,Round of 32,Craig Campbell,Bryan Shelton,16-63-75
-Kiawah Island,1990.05.07,Round of 32,Chris Garner,Dan Goldberg,75-63
-Kiawah Island,1990.05.07,Round of 32,Leonardo Lavalle,Broderick Dyke,26-63-62
-Kiawah Island,1990.05.07,Round of 32,Alexander Mronz,Robert Van't Hof,63-63
-Kiawah Island,1990.05.07,Round of 32,David Pate,Jimmy Brown,64-75
-Kiawah Island,1990.05.07,Round of 32,Joey Rive,John Ross,61-63
-Kiawah Island,1990.05.07,Round of 32,Robbie Weiss,Alejandro Aramburu,62-63
-Kiawah Island,1990.05.07,Round of 32,Martin Wostenholme,Dan Cassidy,64-76
-Rome,1990.05.14,Finals,Thomas Muster,Andrei Chesnokov,61-63-61
-Rome,1990.05.14,Semi-Finals,Thomas Muster,Andres Gomez,61-63-61
-Rome,1990.05.14,Semi-Finals,Andrei Chesnokov,Emilio Sanchez,57-64-76
-Rome,1990.05.14,Quarter-Finals,Andres Gomez,Omar Camporese,61-63-61
-Rome,1990.05.14,Quarter-Finals,Emilio Sanchez,Guillermo Perez-Roldan,57-64-76
-Rome,1990.05.14,Quarter-Finals,Andrei Chesnokov,Alberto Mancini,67-64-76
-Rome,1990.05.14,Quarter-Finals,Thomas Muster,Guy Forget,61-62
-Rome,1990.05.14,Round of 16,Alberto Mancini,Brad Gilbert,61-63-61
-Rome,1990.05.14,Round of 16,Guy Forget,Aaron Krickstein,57-64-76
-Rome,1990.05.14,Round of 16,Andres Gomez,Magnus Gustafsson,67-64-76
-Rome,1990.05.14,Round of 16,Emilio Sanchez,Jonas Svensson,61-62
-Rome,1990.05.14,Round of 16,Guillermo Perez-Roldan,Martin Jaite,76-62
-Rome,1990.05.14,Round of 16,Andrei Chesnokov,Jim Courier,76-60
-Rome,1990.05.14,Round of 16,Thomas Muster,Jan Gunnarsson,62-36-63
-Rome,1990.05.14,Round of 16,Omar Camporese,Paul Haarhuis,62-61
-Rome,1990.05.14,Round of 32,Brad Gilbert,Luiz Mattar,61-63-61
-Rome,1990.05.14,Round of 32,Aaron Krickstein,Karel Novacek,57-64-76
-Rome,1990.05.14,Round of 32,Andres Gomez,Diego Nargiso,67-64-76
-Rome,1990.05.14,Round of 32,Emilio Sanchez,Marcelo Filippini,61-62
-Rome,1990.05.14,Round of 32,Omar Camporese,Jay Berger,76-62
-Rome,1990.05.14,Round of 32,Martin Jaite,Renzo Furlan,76-60
-Rome,1990.05.14,Round of 32,Andrei Chesnokov,Paolo Cane,62-36-63
-Rome,1990.05.14,Round of 32,Jim Courier,Jaime Yzaga,62-61
-Rome,1990.05.14,Round of 32,Thomas Muster,Anders Jarryd,64-76
-Rome,1990.05.14,Round of 32,Guillermo Perez-Roldan,Jean-Philippe Fleurian,64-75
-Rome,1990.05.14,Round of 32,Jonas Svensson,Tomas Carbonell,63-62
-Rome,1990.05.14,Round of 32,Magnus Gustafsson,Stefano Pescosolido,64-63
-Rome,1990.05.14,Round of 32,Alberto Mancini,Henri Leconte,46-76-63
-Rome,1990.05.14,Round of 32,Guy Forget,Alexander Volkov,63-62
-Rome,1990.05.14,Round of 32,Jan Gunnarsson,Sergi Bruguera,64-61
-Rome,1990.05.14,Round of 32,Paul Haarhuis,Massimo Cierro,76-64
-Rome,1990.05.14,Round of 64,Brad Gilbert,Jim Pugh,61-63-61
-Rome,1990.05.14,Round of 64,Aaron Krickstein,Jim Grabb,57-64-76
-Rome,1990.05.14,Round of 64,Andres Gomez,Yannick Noah,67-64-76
-Rome,1990.05.14,Round of 64,Emilio Sanchez,Andrew Sznajder,61-62
-Rome,1990.05.14,Round of 64,Jay Berger,Amos Mansdorf,76-62
-Rome,1990.05.14,Round of 64,Martin Jaite,Dirk Leppen,76-60
-Rome,1990.05.14,Round of 64,Jan Gunnarsson,Michael Chang,62-36-63
-Rome,1990.05.14,Round of 64,Andrei Chesnokov,Jimmy Arias,62-61
-Rome,1990.05.14,Round of 64,Jim Courier,Franco Davin,64-76
-Rome,1990.05.14,Round of 64,Thomas Muster,Jakob Hlasek,64-75
-Rome,1990.05.14,Round of 64,Guillermo Perez-Roldan,Ronald Agenor,63-62
-Rome,1990.05.14,Round of 64,Jonas Svensson,Luke Jensen,64-63
-Rome,1990.05.14,Round of 64,Magnus Gustafsson,Jordi Arrese,46-76-63
-Rome,1990.05.14,Round of 64,Guy Forget,Petr Korda,63-62
-Rome,1990.05.14,Round of 64,Alberto Mancini,Christian Miniussi,64-61
-Rome,1990.05.14,Round of 64,Sergi Bruguera,Milan Srejber,76-64
-Rome,1990.05.14,Round of 64,Omar Camporese,Arnaud Boetsch,62-62
-Rome,1990.05.14,Round of 64,Paolo Cane,Federico Mordegan,76-64
-Rome,1990.05.14,Round of 64,Tomas Carbonell,Gianluca Pozzi,46-61-62
-Rome,1990.05.14,Round of 64,Massimo Cierro,Claudio Pistolesi,64-64
-Rome,1990.05.14,Round of 64,Marcelo Filippini,Todd Witsken,64-64
-Rome,1990.05.14,Round of 64,Jean-Philippe Fleurian,Richey Reneberg,46-63-63
-Rome,1990.05.14,Round of 64,Renzo Furlan,Martin Strelba,63-64
-Rome,1990.05.14,Round of 64,Paul Haarhuis,Sergio Casal,51-(RET)
-Rome,1990.05.14,Round of 64,Anders Jarryd,Niclas Kroon,63-64
-Rome,1990.05.14,Round of 64,Henri Leconte,Thierry Champion,63-61
-Rome,1990.05.14,Round of 64,Luiz Mattar,David Wheaton,64-67-62
-Rome,1990.05.14,Round of 64,Diego Nargiso,Cassio Motta,64-64
-Rome,1990.05.14,Round of 64,Karel Novacek,Torben Theine,61-36-62
-Rome,1990.05.14,Round of 64,Stefano Pescosolido,Lawson Duncan,64-62
-Rome,1990.05.14,Round of 64,Alexander Volkov,Juan Aguilera,64-64
-Rome,1990.05.14,Round of 64,Jaime Yzaga,Javier Sanchez,16-64-64
-Umag,1990.05.14,Finals,Goran Prpic,Goran Ivanisevic,63-46-64
-Umag,1990.05.14,Semi-Finals,Goran Prpic,Horacio de la Pena,63-46-64
-Umag,1990.05.14,Semi-Finals,Goran Ivanisevic,Andrei Cherkasov,76-76
-Umag,1990.05.14,Quarter-Finals,Goran Prpic,Roberto Azar,63-46-64
-Umag,1990.05.14,Quarter-Finals,Goran Ivanisevic,Tarik Benhabiles,76-76
-Umag,1990.05.14,Quarter-Finals,Andrei Cherkasov,Eric Jelen,63-57-64
-Umag,1990.05.14,Quarter-Finals,Horacio de la Pena,Aki Rahunen,64-64
-Umag,1990.05.14,Round of 16,Goran Prpic,Diego Perez,63-46-64
-Umag,1990.05.14,Round of 16,Goran Ivanisevic,Fernando Luna,76-76
-Umag,1990.05.14,Round of 16,Horacio de la Pena,Mark Koevermans,63-57-64
-Umag,1990.05.14,Round of 16,Andrei Cherkasov,Francisco Roig,64-64
-Umag,1990.05.14,Round of 16,Aki Rahunen,Nuno Marques,64-76
-Umag,1990.05.14,Round of 16,Roberto Azar,Marian Vajda,62-60
-Umag,1990.05.14,Round of 16,Tarik Benhabiles,Jerome Potier,57-76-61
-Umag,1990.05.14,Round of 16,Eric Jelen,Damir Buljevic,62-60
-Umag,1990.05.14,Round of 32,Goran Prpic,Eduardo Masso,63-46-64
-Umag,1990.05.14,Round of 32,Goran Ivanisevic,Nicolas Pereira,76-76
-Umag,1990.05.14,Round of 32,Mark Koevermans,Sasa Hirszon,63-57-64
-Umag,1990.05.14,Round of 32,Eric Jelen,Jens Woehrmann,64-64
-Umag,1990.05.14,Round of 32,Andrei Cherkasov,Jose Clavet,64-76
-Umag,1990.05.14,Round of 32,Aki Rahunen,Gilad Bloom,62-60
-Umag,1990.05.14,Round of 32,Marian Vajda,Francesco Cancellotti,57-76-61
-Umag,1990.05.14,Round of 32,Jerome Potier,Thierry Tulasne,62-60
-Umag,1990.05.14,Round of 32,Roberto Azar,Paul Dogger,62-63
-Umag,1990.05.14,Round of 32,Tarik Benhabiles,Christian Saceanu,76-63
-Umag,1990.05.14,Round of 32,Damir Buljevic,Johan Anderson,63-64
-Umag,1990.05.14,Round of 32,Horacio de la Pena,Eduardo Bengoechea,76-64
-Umag,1990.05.14,Round of 32,Fernando Luna,Mario Tabares,06-76-63
-Umag,1990.05.14,Round of 32,Nuno Marques,Lars Jonsson,62-36-76
-Umag,1990.05.14,Round of 32,Diego Perez,Michael Tauson,26-63-76
-Umag,1990.05.14,Round of 32,Francisco Roig,Olivier Delaitre,67-64-60
-Dusseldorf,1990.05.21,Finals,Goran Ivanisevic,Jim Courier,36-75-61
-Dusseldorf,1990.05.21,Finals,Goran Prpic,Brad Gilbert,64-64
-Dusseldorf,1990.05.21,Round Robin,Alex Antonitsch,Martin Jaite,36-75-61
-Dusseldorf,1990.05.21,Round Robin,Alberto Mancini,Thomas Buchmayer,64-64
-Dusseldorf,1990.05.21,Round Robin,Goran Prpic,Stefan Edberg,64-76
-Dusseldorf,1990.05.21,Round Robin,Jordi Arrese,Boris Becker,62-64
-Dusseldorf,1990.05.21,Round Robin,Sergi Bruguera,Carl-Uwe Steeb,61-64
-Dusseldorf,1990.05.21,Round Robin,Jim Courier,Alexander Volkov,62-61
-Dusseldorf,1990.05.21,Round Robin,Brad Gilbert,Andrei Cherkasov,26-64-63
-Dusseldorf,1990.05.21,Round Robin,Goran Ivanisevic,Oliver Fuchs,64-62
-Dusseldorf,1990.05.21,Round Robin,Martin Jaite,Stefan Edberg,62-63
-Dusseldorf,1990.05.21,Round Robin,Alberto Mancini,Jonas Svensson,64-62
-Dusseldorf,1990.05.21,Round Robin,Goran Prpic,Alex Antonitsch,36-62-64
-Dusseldorf,1990.05.21,Round Robin,Jordi Arrese,Andrei Cherkasov,64-62
-Dusseldorf,1990.05.21,Round Robin,Boris Becker,Brad Gilbert,61-61
-Dusseldorf,1990.05.21,Round Robin,Sergi Bruguera,Alexander Volkov,62-46-76
-Dusseldorf,1990.05.21,Round Robin,Jim Courier,Carl-Uwe Steeb,61-61
-Dusseldorf,1990.05.21,Round Robin,Stefan Edberg,Thomas Muster,75-63
-Dusseldorf,1990.05.21,Round Robin,Magnus Gustafsson,Goran Ivanisevic,63-16-63
-Dusseldorf,1990.05.21,Round Robin,Goran Ivanisevic,Alberto Mancini,62-64
-Dusseldorf,1990.05.21,Round Robin,Goran Prpic,Martin Jaite,64-62
-Dusseldorf,1990.05.21,Round Robin,Jonas Svensson,Alex Antonitsch,64-60
-Dusseldorf,1990.05.21,Round Robin,Jordi Arrese,Brad Gilbert,76-46-76
-Dusseldorf,1990.05.21,Round Robin,Boris Becker,Andrei Cherkasov,64-63
-Dusseldorf,1990.05.21,Round Robin,Jim Courier,Sergi Bruguera,75-75
-Dusseldorf,1990.05.21,Round Robin,Carl-Uwe Steeb,Alexander Volkov,64-63
-Bologna,1990.05.21,Finals,Richard Fromberg,Marc Rosset,46-64-76
-Bologna,1990.05.21,Semi-Finals,Marc Rosset,Franco Davin,46-64-76
-Bologna,1990.05.21,Semi-Finals,Richard Fromberg,Jerome Potier,62-64
-Bologna,1990.05.21,Quarter-Finals,Richard Fromberg,Guillermo Perez-Roldan,46-64-76
-Bologna,1990.05.21,Quarter-Finals,Marc Rosset,Lawson Duncan,62-64
-Bologna,1990.05.21,Quarter-Finals,Franco Davin,Todd Witsken,76-63
-Bologna,1990.05.21,Quarter-Finals,Jerome Potier,Thierry Tulasne,60-16-64
-Bologna,1990.05.21,Round of 16,Guillermo Perez-Roldan,Xavier Daufresne,46-64-76
-Bologna,1990.05.21,Round of 16,Marc Rosset,Horacio de la Pena,62-64
-Bologna,1990.05.21,Round of 16,Thierry Tulasne,Jaime Yzaga,76-63
-Bologna,1990.05.21,Round of 16,Franco Davin,Omar Camporese,60-16-64
-Bologna,1990.05.21,Round of 16,Lawson Duncan,Paolo Cane,62-63
-Bologna,1990.05.21,Round of 16,Richard Fromberg,Claudio Pistolesi,64-60
-Bologna,1990.05.21,Round of 16,Jerome Potier,Jim Pugh,75-10-(RET)
-Bologna,1990.05.21,Round of 16,Todd Witsken,Martin Strelba,60-60
-Bologna,1990.05.21,Round of 32,Guillermo Perez-Roldan,Aki Rahunen,46-64-76
-Bologna,1990.05.21,Round of 32,Marc Rosset,Gilad Bloom,62-64
-Bologna,1990.05.21,Round of 32,Jaime Yzaga,Udo Riglewski,76-63
-Bologna,1990.05.21,Round of 32,Franco Davin,Diego Nargiso,60-16-64
-Bologna,1990.05.21,Round of 32,Martin Strelba,Jim Grabb,62-63
-Bologna,1990.05.21,Round of 32,Jerome Potier,Jimmy Arias,64-60
-Bologna,1990.05.21,Round of 32,Paolo Cane,Renzo Furlan,75-10-(RET)
-Bologna,1990.05.21,Round of 32,Richard Fromberg,Luiz Mattar,60-60
-Bologna,1990.05.21,Round of 32,Omar Camporese,Cassio Motta,76-36-64
-Bologna,1990.05.21,Round of 32,Xavier Daufresne,Lars Jonsson,62-64
-Bologna,1990.05.21,Round of 32,Horacio de la Pena,Federico Mordegan,16-75-75
-Bologna,1990.05.21,Round of 32,Lawson Duncan,Jose Francisco Altur,75-63
-Bologna,1990.05.21,Round of 32,Claudio Pistolesi,Stefano Pescosolido,36-60-63
-Bologna,1990.05.21,Round of 32,Jim Pugh,Martin Wostenholme,63-76
-Bologna,1990.05.21,Round of 32,Thierry Tulasne,Francesco Cancellotti,76-61
-Bologna,1990.05.21,Round of 32,Todd Witsken,Nicolas Pereira,60-75
-"Tokyo, Japan",2023.10.16,Round of 16,Aslan Karatsev,Zhizhen Zhang,63-64
-"Tokyo, Japan",2023.10.16,Round of 16,Shintaro Mochizuki,Taylor Fritz,06-64-762
-"Tokyo, Japan",2023.10.16,Round of 16,Marcos Giron,Casper Ruud,63-64
-"Tokyo, Japan",2023.10.16,Round of 16,Alex de Minaur,Diego Schwartzman,60-75
-"Tokyo, Japan",2023.10.16,Round of 16,Tommy Paul,Mackenzie McDonald,64-62
-"Tokyo, Japan",2023.10.16,Round of 16,Felix Auger-Aliassime,Sebastian Ofner,64-61
-"Tokyo, Japan",2023.10.16,Round of 16,Alexei Popyrin,Cristian Garin,46-763-62
-"Tokyo, Japan",2023.10.16,Round of 16,Ben Shelton,Jordan Thompson,675-64-63
-"Tokyo, Japan",2023.10.16,Round of 32,Taylor Fritz,Cameron Norrie,63-64
-"Tokyo, Japan",2023.10.16,Round of 32,Casper Ruud,Yosuke Watanuki,06-64-762
-"Tokyo, Japan",2023.10.16,Round of 32,Jordan Thompson,Alexander Zverev,63-64
-"Tokyo, Japan",2023.10.16,Round of 32,Alex de Minaur,Jack Draper,60-75
-"Tokyo, Japan",2023.10.16,Round of 32,Tommy Paul,Daniel Altmaier,64-62
-"Tokyo, Japan",2023.10.16,Round of 32,Aslan Karatsev,Frances Tiafoe,64-61
-"Tokyo, Japan",2023.10.16,Round of 32,Alexei Popyrin,Karen Khachanov,46-763-62
-"Tokyo, Japan",2023.10.16,Round of 32,Felix Auger-Aliassime,Aleksandar Vukic,675-64-63
-"Tokyo, Japan",2023.10.16,Round of 32,Cristian Garin,Sho Shimabukuro,64-63
-"Tokyo, Japan",2023.10.16,Round of 32,Marcos Giron,Yoshihito Nishioka,766-63
-"Tokyo, Japan",2023.10.16,Round of 32,Mackenzie McDonald,Max Purcell,63-64
-"Tokyo, Japan",2023.10.16,Round of 32,Shintaro Mochizuki,Tomas Martin Etcheverry,46-764-761
-"Tokyo, Japan",2023.10.16,Round of 32,Sebastian Ofner,Christopher O'Connell,36-61-63
-"Tokyo, Japan",2023.10.16,Round of 32,Diego Schwartzman,Francisco Cerundolo,63-764
-"Tokyo, Japan",2023.10.16,Round of 32,Ben Shelton,Taro Daniel,64-62
-"Tokyo, Japan",2023.10.16,Round of 32,Zhizhen Zhang,Hubert Hurkacz,763-672-62
-"Tokyo, Japan",2023.10.16,2nd Round Qualifying,Cristian Garin,Rinky Hijikata,63-64
-"Tokyo, Japan",2023.10.16,2nd Round Qualifying,Marcos Giron,Yasutaka Uchiyama,06-64-762
-"Tokyo, Japan",2023.10.16,2nd Round Qualifying,Jack Draper,Jurij Rodionov,63-64
-"Tokyo, Japan",2023.10.16,2nd Round Qualifying,Taro Daniel,Rio Noguchi,60-75
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Rinky Hijikata,Naoki Nakagawa,63-64
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Marcos Giron,Kaichi Uchida,06-64-762
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Jack Draper,Yuta Shimizu,63-64
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Taro Daniel,Jason Jung,60-75
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Cristian Garin,Philip Sekulic,64-62
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Jurij Rodionov,Hiroki Moriya,64-61
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Yasutaka Uchiyama,Brandon Nakashima,46-763-62
-"Tokyo, Japan",2023.10.16,1st Round Qualifying,Rio Noguchi,Tung-Lin Wu,675-64-63
-"Stockholm, Sweden",2023.10.16,Round of 16,Elias Ymer,Dino Prizmic,63-36-62
-"Stockholm, Sweden",2023.10.16,Round of 16,Miomir Kecmanovic,Holger Rune,763-62
-"Stockholm, Sweden",2023.10.16,Round of 16,Adrian Mannarino,Roman Safiullin,64-64
-"Stockholm, Sweden",2023.10.16,Round of 16,Tallon Griekspoor,Emil Ruusuvuori,763-64
-"Stockholm, Sweden",2023.10.16,Round of 16,Laslo Djere,J.J. Wolf,75-64
-"Stockholm, Sweden",2023.10.16,Round of 16,Pavel Kotov,Lorenzo Sonego,64-75
-"Stockholm, Sweden",2023.10.16,Round of 16,Tomas Machac,Stan Wawrinka,64-61
-"Stockholm, Sweden",2023.10.16,Round of 16,Gael Monfils,Filip Misolic,64-63
-"Stockholm, Sweden",2023.10.16,Round of 32,J.J. Wolf,Sebastian Baez,63-36-62
-"Stockholm, Sweden",2023.10.16,Round of 32,Dino Prizmic,Jiri Lehecka,763-62
-"Stockholm, Sweden",2023.10.16,Round of 32,Pavel Kotov,Christopher Eubanks,64-64
-"Stockholm, Sweden",2023.10.16,Round of 32,Filip Misolic,Daniel Evans,763-64
-"Stockholm, Sweden",2023.10.16,Round of 32,Laslo Djere,Leo Borg,75-64
-"Stockholm, Sweden",2023.10.16,Round of 32,Miomir Kecmanovic,Karl Friberg,64-75
-"Stockholm, Sweden",2023.10.16,Round of 32,Gael Monfils,Marton Fucsovics,64-61
-"Stockholm, Sweden",2023.10.16,Round of 32,Emil Ruusuvuori,Benjamin Hassan,64-63
-"Stockholm, Sweden",2023.10.16,Round of 32,Roman Safiullin,Thiago Seyboth Wild,765-62
-"Stockholm, Sweden",2023.10.16,Round of 32,Lorenzo Sonego,Dusan Lajovic,63-75
-"Stockholm, Sweden",2023.10.16,Round of 32,Stan Wawrinka,Borna Gojo,672-63-765
-"Stockholm, Sweden",2023.10.16,Round of 32,Elias Ymer,Roberto Bautista Agut,64-761
-"Stockholm, Sweden",2023.10.16,2nd Round Qualifying,Dino Prizmic,Tomas Machac,63-36-62
-"Stockholm, Sweden",2023.10.16,2nd Round Qualifying,Pavel Kotov,Otto Virtanen,763-62
-"Stockholm, Sweden",2023.10.16,2nd Round Qualifying,Filip Misolic,Liam Broady,64-64
-"Stockholm, Sweden",2023.10.16,2nd Round Qualifying,Benjamin Hassan,Radu Albot,763-64
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Tomas Machac,Duje Ajdukovic,63-36-62
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Pavel Kotov,Vitaliy Sachko,763-62
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Liam Broady,Sebastian Eriksson,64-64
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Radu Albot,Jonathan Mridha,763-64
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Otto Virtanen,Damir Dzumhur,75-64
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Dino Prizmic,Timofey Skatov,64-75
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Benjamin Hassan,Andrea Vavassori,64-61
-"Stockholm, Sweden",2023.10.16,1st Round Qualifying,Filip Misolic,Leandro Riedi,64-63
-"Antwerp, Belgium",2023.10.16,Round of 16,Yannick Hanfmann,Dominic Thiem,64-57-64
-"Antwerp, Belgium",2023.10.16,Round of 16,Stefanos Tsitsipas,Botic van de Zandschulp,75-63
-"Antwerp, Belgium",2023.10.16,Round of 16,Hugo Gaston,Jan-Lennard Struff,57-765-7611
-"Antwerp, Belgium",2023.10.16,Round of 16,Alexander Bublik,Gregoire Barrere,64-62
-"Antwerp, Belgium",2023.10.16,Round of 16,Arthur Fils,Mark Lajal,764-762
-"Antwerp, Belgium",2023.10.16,Round of 16,Juan Pablo Varillas,Alexander Shevchenko,36-63-62
-"Antwerp, Belgium",2023.10.16,Round of 16,Maximilian Marterer,Nuno Borges,63-763
-"Antwerp, Belgium",2023.10.16,Round of 16,Giovanni Mpetshi Perricard,David Goffin,75-63
-"Antwerp, Belgium",2023.10.16,Round of 32,Yannick Hanfmann,Alexander Blockx,64-57-64
-"Antwerp, Belgium",2023.10.16,Round of 32,Giovanni Mpetshi Perricard,Roberto Carballes Baena,75-63
-"Antwerp, Belgium",2023.10.16,Round of 32,Maximilian Marterer,Richard Gasquet,57-765-7611
-"Antwerp, Belgium",2023.10.16,Round of 32,Juan Pablo Varillas,Fabian Marozsan,64-62
-"Antwerp, Belgium",2023.10.16,Round of 32,Gregoire Barrere,Daniel Elahi Galan,764-762
-"Antwerp, Belgium",2023.10.16,Round of 32,Nuno Borges,Dominik Koepfer,36-63-62
-"Antwerp, Belgium",2023.10.16,Round of 32,Hugo Gaston,Arthur Rinderknech,63-763
-"Antwerp, Belgium",2023.10.16,Round of 32,David Goffin,Quentin Halys,75-63
-"Antwerp, Belgium",2023.10.16,Round of 32,Mark Lajal,Jaume Munar,64-763
-"Antwerp, Belgium",2023.10.16,Round of 32,Alexander Shevchenko,Benjamin Bonzi,06-63-764
-"Antwerp, Belgium",2023.10.16,Round of 32,Dominic Thiem,Luca Nardi,63-64
-"Antwerp, Belgium",2023.10.16,Round of 32,Botic van de Zandschulp,Dominic Stricker,767-64
-"Antwerp, Belgium",2023.10.16,2nd Round Qualifying,Benjamin Bonzi,Giulio Zeppieri,64-57-64
-"Antwerp, Belgium",2023.10.16,2nd Round Qualifying,Maximilian Marterer,Titouan Droguet,75-63
-"Antwerp, Belgium",2023.10.16,2nd Round Qualifying,Alexander Blockx,Gilles Arnaud Bailly,57-765-7611
-"Antwerp, Belgium",2023.10.16,2nd Round Qualifying,Giovanni Mpetshi Perricard,Gauthier Onclin,64-62
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Benjamin Bonzi,Oscar Otte,64-57-64
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Alexander Blockx,Hamad Medjedovic,75-63
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Gauthier Onclin,Maxime Cressy,57-765-7611
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Maximilian Marterer,Gijs Brouwer,64-62
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Giulio Zeppieri,Hugo Grenier,764-762
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Gilles Arnaud Bailly,Pablo Llamas Ruiz,36-63-62
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Giovanni Mpetshi Perricard,Antoine Escoffier,63-763
-"Antwerp, Belgium",2023.10.16,1st Round Qualifying,Titouan Droguet,Zizou Bergs,75-63
+Philadelphia,1990.02.19,Semi-Finals,Andres Gomez,Petr Korda,62-60
+Philadelphia,1990.02.19,Semi-Finals,Pete Sampras,Mark Kratzmann,46-61-64
+Philadelphia,1990.02.19,Quarter-Finals,Petr Korda,Jay Berger,76-61
+Philadelphia,1990.02.19,Quarter-Finals,Pete Sampras,Tim Mayotte,64-46-63
+Philadelphia,1990.02.19,Quarter-Finals,Andres Gomez,Paul Haarhuis,76-67-64
+Philadelphia,1990.02.19,Quarter-Finals,Mark Kratzmann,Jim Courier,46-63-76
+Philadelphia,1990.02.19,Round of 16,Paul Haarhuis,Brad Gilbert,76-57-64
+Philadelphia,1990.02.19,Round of 16,Pete Sampras,Andre Agassi,57-75-(RET)
+Philadelphia,1990.02.19,Round of 16,Jay Berger,Wally Masur,62-64
+Philadelphia,1990.02.19,Round of 16,Tim Mayotte,Glenn Layendecker,46-63-76
+Philadelphia,1990.02.19,Round of 16,Andres Gomez,Kevin Curren,67-63-64
+Philadelphia,1990.02.19,Round of 16,Jim Courier,Christo Van Rensburg,63-57-64
+Philadelphia,1990.02.19,Round of 16,Petr Korda,Jaime Yzaga,26-63-75
+Philadelphia,1990.02.19,Round of 16,Mark Kratzmann,Richey Reneberg,64-64
+Philadelphia,1990.02.19,Round of 32,Richey Reneberg,John McEnroe,67-63-63
+Philadelphia,1990.02.19,Round of 32,Brad Gilbert,Tim Wilkison,62-75
+Philadelphia,1990.02.19,Round of 32,Andre Agassi,Jean-Philippe Fleurian,26-60-61
+Philadelphia,1990.02.19,Round of 32,Jay Berger,Michiel Schapers,76-67-64
+Philadelphia,1990.02.19,Round of 32,Tim Mayotte,Derrick Rostagno,62-36-76
+Philadelphia,1990.02.19,Round of 32,Petr Korda,Andrei Chesnokov,62-64
+Philadelphia,1990.02.19,Round of 32,Andres Gomez,Andrew Sznajder,75-62
+Philadelphia,1990.02.19,Round of 32,Jim Courier,Kelly Evernden,76-64
+Philadelphia,1990.02.19,Round of 32,Kevin Curren,Ramesh Krishnan,62-46-63
+Philadelphia,1990.02.19,Round of 32,Christo Van Rensburg,Paul Annacone,06-76-64
+Philadelphia,1990.02.19,Round of 32,Jaime Yzaga,Chris Garner,60-64
+Philadelphia,1990.02.19,Round of 32,Glenn Layendecker,David Wheaton,63-46-64
+Philadelphia,1990.02.19,Round of 32,Pete Sampras,Milan Srejber,63-67-63
+Philadelphia,1990.02.19,Round of 32,Wally Masur,Dan Goldie,26-76-62
+Philadelphia,1990.02.19,Round of 32,Mark Kratzmann,Scott Davis,75-46-61
+Philadelphia,1990.02.19,Round of 32,Paul Haarhuis,Mikael Pernfors,46-76-75
+Philadelphia,1990.02.19,Round of 64,John McEnroe,Bye,
+Philadelphia,1990.02.19,Round of 64,Brad Gilbert,Bye,
+Philadelphia,1990.02.19,Round of 64,Andre Agassi,Bye,
+Philadelphia,1990.02.19,Round of 64,Jay Berger,Bye,
+Philadelphia,1990.02.19,Round of 64,Tim Mayotte,Bye,
+Philadelphia,1990.02.19,Round of 64,Andrei Chesnokov,Bye,
+Philadelphia,1990.02.19,Round of 64,Andres Gomez,Bye,
+Philadelphia,1990.02.19,Round of 64,Jim Courier,Bye,
+Philadelphia,1990.02.19,Round of 64,Kevin Curren,Bye,
+Philadelphia,1990.02.19,Round of 64,Christo Van Rensburg,Bye,
+Philadelphia,1990.02.19,Round of 64,Jaime Yzaga,Bye,
+Philadelphia,1990.02.19,Round of 64,David Wheaton,Bye,
+Philadelphia,1990.02.19,Round of 64,Pete Sampras,Bye,
+Philadelphia,1990.02.19,Round of 64,Wally Masur,Bye,
+Philadelphia,1990.02.19,Round of 64,Scott Davis,Bye,
+Philadelphia,1990.02.19,Round of 64,Mikael Pernfors,Bye,
+Philadelphia,1990.02.19,Round of 64,Paul Annacone,Niclas Kroon,67-62-64
+Philadelphia,1990.02.19,Round of 64,Kelly Evernden,Jimmy Brown,63-75
+Philadelphia,1990.02.19,Round of 64,Jean-Philippe Fleurian,Ken Flach,76-46-64
+Philadelphia,1990.02.19,Round of 64,Chris Garner,Dan Cassidy,75-26-75
+Philadelphia,1990.02.19,Round of 64,Dan Goldie,Paul Chamberlin,26-64-64
+Philadelphia,1990.02.19,Round of 64,Paul Haarhuis,Jerome Potier,63-64
+Philadelphia,1990.02.19,Round of 64,Petr Korda,Lawson Duncan,63-61
+Philadelphia,1990.02.19,Round of 64,Mark Kratzmann,Brad Pearce,75-64
+Philadelphia,1990.02.19,Round of 64,Ramesh Krishnan,Todd Witsken,62-62
+Philadelphia,1990.02.19,Round of 64,Glenn Layendecker,Peter Lundgren,63-62
+Philadelphia,1990.02.19,Round of 64,Richey Reneberg,Jim Pugh,63-36-63
+Philadelphia,1990.02.19,Round of 64,Derrick Rostagno,MaliVai Washington,76-57-76
+Philadelphia,1990.02.19,Round of 64,Michiel Schapers,Darren Cahill,67-63-76
+Philadelphia,1990.02.19,Round of 64,Milan Srejber,Jens Woehrmann,36-76-62
+Philadelphia,1990.02.19,Round of 64,Andrew Sznajder,John Fitzgerald,62-46-76
+Philadelphia,1990.02.19,Round of 64,Tim Wilkison,Rick Leach,64-76
