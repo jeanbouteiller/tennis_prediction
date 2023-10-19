@@ -1,1 +1,1 @@
-[]
+['2023-10-19 23:39:34.245689: 0 new tournaments and 0 new games. Total Number of games: 604 - Total number of players: 306']
