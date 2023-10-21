@@ -1,4 +1,4 @@
-name: Update Fixed Table
+name: Update Ranking
 
 on:
   workflow_dispatch:
