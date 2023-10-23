@@ -42,4 +42,5 @@
  '2023-10-21 19:15:18.501077: 0 new tournaments and 0 new games. Total Number of games: 4830 - Total number of players: 554',
  '2023-10-21 20:21:49.392894: 0 new tournaments and 0 new games. Total Number of games: 4830 - Total number of players: 554',
  '2023-10-21 21:17:16.255574: 0 new tournaments and 0 new games. Total Number of games: 4830 - Total number of players: 554',
- '2023-10-21 22:26:04.228959: 8 new tournaments and 137 new games. Total Number of games: 669 - Total number of players: 331']
+ '2023-10-21 22:26:04.228959: 8 new tournaments and 137 new games. Total Number of games: 669 - Total number of players: 331',
+ '2023-10-23 15:51:32.084946: 0 new tournaments and 152 new games. Total Number of games: 114122 - Total number of players: 3755']
