@@ -1,4 +1,4 @@
-name: Update Ranking
+name: Update Weekly
 
 on:
   workflow_dispatch:
@@ -31,10 +31,10 @@ jobs:
 
       - name: Execute Notebook
         run: |
-          jupyter nbconvert --to notebook --execute update_ranking.ipynb
+          jupyter nbconvert --to notebook --execute update_weekly.ipynb
 
       - name: Discard Local Changes
-        run: git checkout "update_ranking.nbconvert.ipynb"
+        run: git checkout "update_weekly.nbconvert.ipynb"
           
 
 
@@ -49,7 +49,11 @@ jobs:
             git config --global user.email "jeanbouteiller.ds@gmail.com"
             git config --global user.name "jeanbouteiller-ds"
             git add "df_all_ranking.csv"
-            git add "update_ranking.nbconvert.ipynb"
+            git add "df_all_betting.csv"
+            git add "df_player_fixed.csv"
+            git add "data/list_all_players_names.txt"
+            git add "data/list_all_urls.txt"
+            git add "update_weekly.nbconvert.ipynb"
             git commit -m "Update files"
             git push
           else
