@@ -1,1 +1,1 @@
-["{'date': datetime.datetime(2023, 10, 25, 1, 57, 19, 449973), 'Nb Duplicates': 9, 'Nb New lines': 0, 'Nb Total lines': 133406, 'Nb New tournament_name': 0, 'Nb Total tournament_name': 268}"]
+["{'date': datetime.datetime(2023, 10, 25, 1, 57, 36, 387048), 'Nb Duplicates': 9, 'Nb New lines': 0, 'Nb Total lines': 133406, 'Nb New tournament_name': 0, 'Nb Total tournament_name': 268}"]
