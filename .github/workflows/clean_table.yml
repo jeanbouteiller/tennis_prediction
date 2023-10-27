@@ -1,0 +1,62 @@
+name: Clean Table 
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run_notebook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Debug Permissions
+        run: |
+          echo $${{ secrets.GH_TOKEN_1 }}
+      - name: List Git Configuration
+        env:
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
+        run: |
+          git config --list --show-origin
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.8
+
+      - name: Install Jupyter
+        run: pip install jupyter
+
+      - name: Execute Notebook
+        run: |
+          jupyter nbconvert --to notebook --execute clean_table.ipynb
+
+      - name: Discard Local Changes
+        run: git checkout "clean_table.nbconvert.ipynb"
+          
+
+
+      - name: Pull Remote Changes
+        run: git pull origin main # Add this step to pull remote changes before committing
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_1 }}
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config --global user.email "jeanbouteiller.ds@gmail.com"
+            git config --global user.name "jeanbouteiller-ds"
+            git add "data/clean_datasets/df_betting_clean.csv"
+            git add "data/clean_datasets/df_ranking_clean.csv"
+            git add "df_player_fixed.csv"
+            git add "data/clean_datasets/df_fixed_table_clean.csv"
+            git add "data/clean_datasets/df_matchs_clean.csv"
+            git add "data/clean_datasets/df_tournaments_clean.csv"
+            git add "clean_table.nbconvert.ipynb"
+            git commit -m "Update files"
+            git push
+          else
+            echo "No changes to commit."
+          fi
