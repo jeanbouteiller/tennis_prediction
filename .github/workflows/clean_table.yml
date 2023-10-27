@@ -1,4 +1,4 @@
-name: Clean Table 
+name: Clean & Merge Table 
 
 on:
   workflow_dispatch:
