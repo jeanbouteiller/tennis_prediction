@@ -1,0 +1,598 @@
+Player Name,Turned Pro,weight (lbs),Birthdate,Favorite_Hand,BackHand,Height (CM),player_name_clean_3first
+sergiy-stakhovsky,2003,176,1986-01-06,Right,One-Handed,193.0,stakhovsky ser
+tomas-berdych,2002,200,1985-09-17,Right,Two-Handed,196.0,berdych tom
+pablo-andujar,2003,176,1986-01-23,Right,Two-Handed,180.0,andujar pab
+frank-dancevic,2003,175,1984-09-26,Right,One-Handed,185.0,dancevic fra
+nicolas-mahut,2000,181,1982-01-21,Right,One-Handed,191.0,mahut nic
+vasek-pospisil,2007,194,1990-06-23,Right,Two-Handed,193.0,pospisil vas
+daniel-gimeno-traver,2004,176,1985-08-07,Right,Two-Handed,183.0,traver dan
+lucas-pouille,2012,185,1994-02-23,Right,Two-Handed,185.0,pouille luc
+andrea-arnaboldi,2006,158,1987-12-27,Left,One-Handed,180.0,arnaboldi and
+hiroki-moriya,"
+",143,1990-10-16,Right,Two-Handed,168.0,moriya hir
+alexander-kudryavtsev,"
+",174,1985-10-26,Right,Unknown,183.0,kudryavtsev ale
+james-ward,2006,171,1987-02-09,Right,Two-Handed,188.0,ward jam
+pierre-hugues-herbert,2010,165,1991-03-18,Right,Two-Handed,188.0,herbert pie
+adrian-ungur,2003,161,1985-01-22,Right,One-Handed,178.0,ungur adr
+austin-krajicek,2012,175,1990-06-16,Left,Two-Handed,188.0,krajicek aus
+richard-gasquet,2002,174,1986-06-18,Right,One-Handed,183.0,gasquet ric
+facundo-bagnis,2008,180,1990-02-27,Left,Two-Handed,183.0,bagnis fac
+gael-monfils,2004,187,1986-09-01,Right,Two-Handed,193.0,monfils gae
+norbert-gombos,2009,187,1990-08-13,Right,Two-Handed,193.0,gombos nor
+denis-kudla,2010,175,1992-08-17,Right,Two-Handed,180.0,kudla den
+radek-stepanek,1996,167,1978-11-27,Right,Two-Handed,185.0,stepanek rad
+yoshihito-nishioka,2014,141,1995-09-27,Left,Two-Handed,170.0,nishioka yos
+ryan-harrison,2007,185,1992-05-07,Right,Two-Handed,185.0,harrison rya
+steve-darcis,2003,171,1984-03-13,Right,One-Handed,175.0,darcis ste
+viktor-troicki,2006,189,1986-02-10,Right,Two-Handed,193.0,troicki vik
+nikoloz-basilashvili,2008,174,1992-02-23,Right,Two-Handed,185.0,basilashvili nik
+luke-saville,2012,183,1994-01-02,Right,Two-Handed,188.0,saville luk
+marin-cilic,2005,196,1988-09-28,Right,Two-Handed,198.0,cilic mar
+michal-przysiezny,2001,185,1984-02-16,Right,Unknown,185.0,przysiezny mic
+john-isner,2007,238,1985-04-26,Right,Two-Handed,208.0,isner joh
+ernests-gulbis,2004,187,1988-08-30,Right,Two-Handed,191.0,gulbis ern
+sam-querrey,2006,209,1987-10-07,Right,Two-Handed,198.0,querrey sam
+fernando-verdasco,2001,198,1983-11-15,Left,Two-Handed,188.0,verdasco fer
+maximo-gonzalez,2002,165,1983-07-20,Right,Two-Handed,173.0,gonzalez max
+thiemo-de-bakker,"
+",182,1988-09-19,Right,Two-Handed,193.0,bakker thi
+stephane-robert,2001,170,1980-05-17,Right,Two-Handed,185.0,robert ste
+mikhail-youzhny,1999,160,1982-06-25,Right,One-Handed,183.0,youzhny mik
+alexander-zverev,2013,198,1997-04-20,Right,Two-Handed,198.0,zverev ale
+alejandro-falla,2000,169,1983-11-14,Left,Two-Handed,185.0,falla ale
+albert-montanes,1999,155,1980-11-26,Right,One-Handed,175.0,montanes alb
+marsel-ilhan,2006,176,1987-06-11,Right,Two-Handed,191.0,ilhan mar
+tim-smyczek,2006,160,1987-12-30,Right,Two-Handed,175.0,smyczek tim
+jo-wilfried-tsonga,2004,205,1985-04-17,Right,Two-Handed,188.0,tsonga jo
+philipp-kohlschreiber,2001,154,1983-10-16,Right,One-Handed,178.0,kohlschreiber phi
+gilles-simon,2002,154,1984-12-27,Right,Two-Handed,183.0,simon gil
+andre-ghem,2003,190,1982-05-29,Right,Unknown,193.0,ghem and
+andrey-golubev,2005,169,1987-07-22,Right,One-Handed,180.0,golubev and
+rajeev-ram,2004,185,1984-03-18,Right,One-Handed,193.0,ram raj
+james-duckworth,2010,181,1992-01-21,Right,Two-Handed,183.0,duckworth jam
+lukasz-kubot,2002,194,1982-05-16,Right,Two-Handed,191.0,kubot luk
+ricardas-berankis,2007,170,1990-06-21,Right,Two-Handed,175.0,berankis ric
+ivan-dodig,2004,179,1985-01-02,Right,Two-Handed,183.0,dodig iva
+potito-starace,2001,185,1981-07-14,Right,Two-Handed,188.0,starace pot
+adrian-mannarino,2004,174,1988-06-29,Left,Two-Handed,180.0,mannarino adr
+illya-marchenko,2006,191,1987-09-08,Right,Two-Handed,185.0,marchenko ill
+dominic-thiem,2011,174,1993-09-03,Right,One-Handed,185.0,thiem dom
+nicolas-almagro,2003,190,1985-08-21,Right,One-Handed,183.0,almagro nic
+fabio-fognini,2004,174,1987-05-24,Right,Two-Handed,178.0,fognini fab
+marinko-matosevic,2003,190,1985-08-08,Right,Two-Handed,193.0,matosevic mar
+simone-bolelli,2003,182,1985-10-08,Right,One-Handed,183.0,bolelli sim
+novak-djokovic,2003,170,1987-05-22,Right,Two-Handed,188.0,djokovic nov
+guido-pella,2007,174,1990-05-17,Left,Two-Handed,183.0,pella gui
+dustin-brown,2002,172,1984-12-08,Right,Two-Handed,196.0,brown dus
+lukas-rosol,2004,182,1985-07-24,Right,Two-Handed,193.0,rosol luk
+alejandro-gonzalez,2006,182,1989-02-07,Right,Two-Handed,191.0,gonzalez ale
+blaz-rola,2013,187,1990-10-05,Left,Two-Handed,193.0,rola bla
+luca-vanni,"
+",207,1985-06-04,Right,Two-Handed,198.0,vanni luc
+guido-andreozzi,2010,172,1991-08-05,Right,Two-Handed,183.0,andreozzi gui
+martin-klizan,2007,187,1989-07-11,Left,Two-Handed,191.0,klizan mar
+horacio-zeballos,2003,185,1985-04-27,Left,One-Handed,188.0,zeballos hor
+john-patrick-smith,2012,185,1989-01-24,Left,Two-Handed,188.0,smith joh
+lukas-lacko,2005,192,1987-11-03,Right,Two-Handed,188.0,lacko luk
+ivo-karlovic,2000,230,1979-02-28,Right,One-Handed,211.0,karlovic ivo
+hans-podlipnik-castillo,2005,172,1988-01-09,Right,One-Handed,183.0,castillo han
+julien-benneteau,2000,174,1981-12-20,Right,Two-Handed,185.0,benneteau jul
+thanasi-kokkinakis,2013,185,1996-04-10,Right,Two-Handed,193.0,kokkinakis tha
+donald-young,2004,175,1989-07-23,Left,Two-Handed,183.0,young don
+kimmer-coppejans,2012,150,1994-02-07,Right,Two-Handed,180.0,coppejans kim
+denis-istomin,2004,189,1986-09-07,Right,Two-Handed,185.0,istomin den
+jurgen-melzer,1999,176,1981-05-22,Left,Two-Handed,183.0,melzer jur
+facundo-arguello,"
+",170,1992-08-04,Right,Two-Handed,178.0,arguello fac
+juan-monaco,2002,179,1984-03-29,Right,Two-Handed,185.0,monaco jua
+david-ferrer,2000,161,1982-04-02,Right,Two-Handed,175.0,ferrer dav
+jan-hernych,1998,182,1979-07-07,Right,Two-Handed,188.0,hernych jan
+ante-pavic,"
+",211,1989-03-07,Right,Two-Handed,196.0,pavic ant
+filip-krajinovic,2008,165,1992-02-27,Right,Two-Handed,185.0,krajinovic fil
+miloslav-mecir,"
+",193,1988-01-20,Right,Two-Handed,196.0,mecir mil
+evgeny-donskoy,2007,165,1990-05-09,Right,Two-Handed,185.0,donskoy evg
+paul-henri-mathieu,1999,163,1982-01-12,Right,Two-Handed,185.0,mathieu pau
+peter-gojowczyk,2006,183,1989-07-15,Right,Two-Handed,188.0,gojowczyk pet
+tommy-haas,1996,185,1978-04-03,Right,One-Handed,188.0,haas tom
+yuichi-sugita,2006,159,1988-09-18,Right,Two-Handed,175.0,sugita yui
+jason-kubler,2011,163,1993-05-19,Right,Two-Handed,178.0,kubler jas
+andreas-beck,2003,196,1986-02-05,Left,Two-Handed,191.0,beck and
+dudi-sela,2002,144,1985-04-04,Right,One-Handed,175.0,sela dud
+andrej-martin,2007,183,1989-09-20,Right,Two-Handed,183.0,martin and
+paolo-lorenzi,2003,172,1981-12-15,Right,Two-Handed,183.0,lorenzi pao
+teymuraz-gabashvili,2001,191,1985-05-23,Right,Two-Handed,185.0,gabashvili tey
+alexandr-dolgopolov,2006,157,1988-11-07,Right,Two-Handed,180.0,dolgopolov ale
+jozef-kovalik,2010,181,1992-11-04,Right,Two-Handed,183.0,kovalik joz
+jerzy-janowicz,2007,207,1990-11-13,Right,Two-Handed,203.0,janowicz jer
+feliciano-lopez,1997,194,1981-09-20,Left,One-Handed,188.0,lopez fel
+michael-russell,1998,155,1978-05-01,Right,Two-Handed,173.0,russell mic
+victor-hanescu,2000,194,1981-07-21,Right,One-Handed,198.0,hanescu vic
+pablo-carreno-busta,2009,172,1991-07-12,Right,Two-Handed,188.0,busta pab
+ruben-bemelmans,2006,165,1988-01-14,Left,Two-Handed,183.0,bemelmans rub
+chase-buchanan,"
+",175,1991-06-04,Right,Unknown,193.0,buchanan cha
+tommy-robredo,1998,165,1982-05-01,Right,One-Handed,180.0,robredo tom
+andy-murray,2005,181,1987-05-15,Right,Two-Handed,191.0,murray and
+jurgen-zopp,2008,194,1988-03-29,Right,Two-Handed,191.0,zopp jur
+leonardo-mayer,2003,176,1987-05-15,Right,One-Handed,191.0,mayer leo
+dmitry-tursunov,2000,180,1982-12-12,Right,Two-Handed,185.0,tursunov dmi
+kenny-de-schepper,2010,220,1987-05-29,Left,One-Handed,203.0,schepper ken
+julian-reister,2005,192,1986-04-02,Right,One-Handed,188.0,reister jul
+robin-haase,2005,170,1987-04-06,Right,Two-Handed,191.0,haase rob
+matteo-viola,2004,176,1987-07-07,Right,Two-Handed,185.0,viola mat
+milos-raonic,2008,216,1990-12-27,Right,Two-Handed,196.0,raonic mil
+diego-schwartzman,2010,141,1992-08-16,Right,Two-Handed,170.0,schwartzman die
+benjamin-becker,2005,158,1981-06-16,Right,Two-Handed,178.0,becker ben
+go-soeda,2003,160,1984-09-05,Right,Two-Handed,178.0,soeda go
+kyle-edmund,2012,183,1995-01-08,Right,Two-Handed,188.0,edmund kyl
+yen-hsun-lu,2001,163,1983-08-14,Right,Two-Handed,180.0,lu yen
+jan-lennard-struff,2009,202,1990-04-25,Right,Two-Handed,193.0,struff jan
+vincent-millot,2007,165,1986-01-30,Left,Two-Handed,173.0,millot vin
+wayne-odesnik,2004,170,1985-11-21,Left,Two-Handed,180.0,odesnik way
+nick-kyrgios,2013,187,1995-04-27,Right,Two-Handed,193.0,kyrgios nic
+gilles-muller,2001,196,1983-05-09,Left,Two-Handed,193.0,muller gil
+joao-souza,2006,203,1988-05-27,Right,Two-Handed,193.0,souza joa
+grigor-dimitrov,2008,179,1991-05-16,Right,One-Handed,191.0,dimitrov gri
+stan-wawrinka,2002,179,1985-03-28,Right,One-Handed,183.0,wawrinka sta
+carlos-berlocq,2001,178,1983-02-03,Right,One-Handed,183.0,berlocq car
+bradley-klahn,2012,165,1990-08-20,Left,Two-Handed,183.0,klahn bra
+hyeon-chung,2014,196,1996-05-19,Right,Two-Handed,188.0,chung hye
+radu-albot,2008,152,1989-11-11,Right,Two-Handed,175.0,albot rad
+denys-molchanov,"
+",187,1987-05-16,Right,Two-Handed,188.0,molchanov den
+aljaz-bedene,2008,161,1989-07-18,Right,Two-Handed,183.0,bedene alj
+andreas-haider-maurer,2005,196,1987-03-22,Right,Two-Handed,191.0,maurer and
+andreas-seppi,2002,172,1984-02-21,Right,Two-Handed,191.0,seppi and
+kei-nishikori,2007,161,1989-12-29,Right,Two-Handed,178.0,nishikori kei
+joao-sousa,2008,163,1989-03-30,Right,Two-Handed,185.0,sousa joa
+ze-zhang,2008,187,1990-07-04,Right,Two-Handed,188.0,zhang ze
+igor-sijsling,2006,187,1987-08-18,Right,One-Handed,191.0,sijsling igo
+alex-kuznetsov,2004,172,1987-02-05,Right,Two-Handed,183.0,kuznetsov ale
+jarmere-jenkins,"
+",170,1990-11-25,Right,Two-Handed,183.0,jenkins jar
+john-millman,2006,174,1989-06-14,Right,Two-Handed,183.0,millman joh
+victor-estrella-burgos,2002,170,1980-08-02,Right,One-Handed,170.0,burgos vic
+marton-fucsovics,2010,181,1992-02-08,Right,Two-Handed,188.0,fucsovics mar
+liam-broady,2014,172,1994-01-04,Left,Two-Handed,183.0,broady lia
+lleyton-hewitt,1998,170,1981-02-24,Right,Two-Handed,178.0,hewitt lle
+damir-dzumhur,2011,150,1992-05-20,Right,Two-Handed,175.0,dzumhur dam
+roberto-bautista-agut,2005,165,1988-04-14,Right,Two-Handed,183.0,agut rob
+adrian-menendez-maceiras,2005,165,1985-10-28,Right,Two-Handed,183.0,maceiras adr
+borna-coric,2013,187,1996-11-14,Right,Two-Handed,188.0,coric bor
+roberto-carballes-baena,2011,170,1993-03-23,Right,Two-Handed,183.0,baena rob
+juan-martin-del-potro,2005,214,1988-09-23,Right,Two-Handed,198.0,potro jua
+jiri-vesely,2009,207,1993-07-10,Left,Two-Handed,198.0,vesely jir
+taro-daniel,2010,185,1993-01-27,Right,Two-Handed,191.0,daniel tar
+jimmy-wang,2001,162,1985-02-08,Right,Two-Handed,180.0,wang jim
+malek-jaziri,2003,182,1984-01-20,Right,Two-Handed,185.0,jaziri mal
+steve-johnson,2012,190,1989-12-24,Right,Two-Handed,188.0,johnson ste
+dusan-lajovic,2007,183,1990-06-30,Right,One-Handed,183.0,lajovic dus
+aleksandr-nedovyesov,2005,176,1987-02-15,Right,Two-Handed,188.0,nedovyesov ale
+mikhail-kukushkin,2006,159,1987-12-26,Right,Two-Handed,183.0,kukushkin mik
+pablo-cuevas,2004,173,1986-01-01,Right,One-Handed,180.0,cuevas pab
+pere-riba,2004,173,1988-04-07,Right,Two-Handed,183.0,riba per
+rafael-nadal,2001,187,1986-06-03,Left,Two-Handed,185.0,nadal raf
+edouard-roger-vasselin,2002,173,1983-11-28,Right,Two-Handed,185.0,vasselin edo
+kevin-anderson,2007,208,1986-05-18,Right,Two-Handed,203.0,anderson kev
+andrey-kuznetsov,2008,154,1991-02-22,Right,Two-Handed,183.0,kuznetsov and
+florian-mayer,2001,180,1983-10-05,Right,Two-Handed,191.0,mayer flo
+santiago-giraldo,2004,166,1987-11-27,Right,Two-Handed,188.0,giraldo san
+roger-federer,1998,187,1981-08-08,Right,One-Handed,185.0,federer rog
+jarkko-nieminen,2000,172,1981-07-23,Left,Two-Handed,185.0,nieminen jar
+albert-ramos-vinolas,2007,168,1988-01-17,Left,Two-Handed,188.0,vinolas alb
+gerald-melzer,2007,176,1990-07-13,Left,Two-Handed,188.0,melzer ger
+marcos-baghdatis,2003,181,1985-06-17,Right,Two-Handed,178.0,baghdatis mar
+david-goffin,2009,154,1990-12-07,Right,Two-Handed,180.0,goffin dav
+stefano-travaglia,2008,176,1991-12-28,Right,Two-Handed,185.0,travaglia ste
+tobias-kamke,2004,167,1986-05-21,Right,Two-Handed,178.0,kamke tob
+blaz-kavcic,2005,172,1987-03-05,Right,Two-Handed,188.0,kavcic bla
+jack-sock,2011,195,1992-09-24,Right,Two-Handed,191.0,sock jac
+federico-delbonis,2007,198,1990-10-05,Left,Two-Handed,193.0,delbonis fed
+bernard-tomic,2008,201,1992-10-21,Right,Two-Handed,196.0,tomic ber
+tim-puetz,2011,171,1987-11-19,Right,Two-Handed,185.0,puetz tim
+mate-delic,"
+",189,1993-04-29,Right,Two-Handed,196.0,delic mat
+peter-polansky,2007,176,1988-06-15,Right,Two-Handed,183.0,polansky pet
+thomaz-bellucci,2005,181,1987-12-30,Left,Two-Handed,188.0,bellucci tho
+jeremy-chardy,2005,165,1987-02-12,Right,Two-Handed,188.0,chardy jer
+sam-groth,2006,220,1987-10-19,Right,One-Handed,193.0,groth sam
+tatsuma-ito,2006,165,1988-05-18,Right,Two-Handed,180.0,ito tat
+benoit-paire,2007,176,1989-05-08,Right,Two-Handed,196.0,paire ben
+somdev-devvarman,2008,160,1985-02-13,Right,Two-Handed,180.0,devvarman som
+gastao-elias,2008,167,1990-11-24,Right,Two-Handed,180.0,elias gas
+matthias-bachinger,2005,190,1987-04-02,Right,Two-Handed,188.0,bachinger mat
+marco-cecchinato,2010,171,1992-09-30,Right,One-Handed,185.0,cecchinato mar
+michael-berrer,1999,220,1980-07-01,Left,One-Handed,193.0,berrer mic
+farrukh-dustov,2003,194,1986-05-22,Right,Unknown,193.0,dustov far
+guillermo-garcia-lopez,2002,176,1983-06-04,Right,One-Handed,185.0,lopez gui
+alex-bolt,2011,407,1993-01-05,Left,Two-Handed,71.0,bolt ale
+david-guez,"
+",165,1982-12-08,Right,Unknown,185.0,guez dav
+marcel-granollers,2003,176,1986-04-12,Right,Two-Handed,191.0,granollers mar
+maxime-authom,0,0,1987-03-29,Right,Unknown,0.0,authom max
+elias-ymer,2014,171,1996-04-10,Right,Two-Handed,185.0,ymer eli
+james-mcgee,"
+",176,1987-06-10,Right,Two-Handed,183.0,mcgee jam
+marius-copil,2008,191,1990-10-17,Right,One-Handed,191.0,copil mar
+niels-desein,2007,187,1987-06-09,Right,Unknown,191.0,desein nie
+daniel-munoz-de-la-nava,1999,165,1982-01-29,Left,Two-Handed,175.0,nava dan
+nicolas-jarry,2014,198,1995-10-11,Right,Two-Handed,198.0,jarry nic
+marco-trungelliti,2008,176,1990-01-31,Right,Two-Handed,178.0,trungelliti mar
+bjorn-fratangelo,2012,175,1993-07-19,Right,Two-Handed,183.0,fratangelo bjo
+jared-donaldson,2014,165,1996-10-09,Right,Two-Handed,188.0,donaldson jar
+renzo-olivo,2009,160,1992-03-15,Right,Two-Handed,178.0,olivo ren
+mirza-basic,2012,193,1991-07-12,Right,Two-Handed,188.0,basic mir
+konstantin-kravchuk,2004,176,1985-02-23,Right,Two-Handed,191.0,kravchuk kon
+guilherme-clezar,2009,169,1992-12-31,Right,Two-Handed,180.0,clezar gui
+roberto-marcora,2009,187,1989-08-30,Right,One-Handed,193.0,marcora rob
+aslan-karatsev,2011,187,1993-09-04,Right,Two-Handed,185.0,karatsev asl
+dennis-novikov,2013,200,1993-11-06,Right,Two-Handed,193.0,novikov den
+ruben-ramirez-hidalgo,1998,163,1978-01-06,Right,Two-Handed,183.0,hidalgo rub
+ti-chen,2002,162,1983-10-03,Right,Unknown,178.0,chen ti
+thomas-fabbiano,2005,154,1989-05-26,Right,Two-Handed,173.0,fabbiano tho
+filippo-volandri,1997,161,1981-09-05,Right,One-Handed,183.0,volandri fil
+jason-jung,2011,152,1989-06-15,Right,Two-Handed,180.0,jung jas
+yuki-bhambri,2008,165,1992-07-04,Right,Two-Handed,185.0,bhambri yuk
+inigo-cervantes,2009,171,1989-11-30,Right,Two-Handed,180.0,cervantes ini
+mathias-bourgue,"
+",183,1994-01-18,Right,Two-Handed,188.0,bourgue mat
+christian-lindell,"
+",191,1991-11-20,Right,Two-Handed,193.0,lindell chr
+giovanni-lapentti,2002,201,1983-01-25,Right,Two-Handed,193.0,lapentti gio
+adam-pavlasek,2012,168,1994-10-08,Right,Two-Handed,185.0,pavlasek ada
+jose-hernandez-fernandez,"
+",170,1990-03-13,Right,Two-Handed,183.0,fernandez jos
+matthew-ebden,2006,176,1987-11-26,Right,Two-Handed,188.0,ebden mat
+saketh-myneni,2012,187,1987-10-19,Right,Two-Handed,193.0,myneni sak
+brydan-klein,2007,183,1989-12-31,Right,Two-Handed,188.0,klein bry
+nicolas-kicker,2009,165,1992-08-16,Right,One-Handed,178.0,kicker nic
+germain-gigounon,"
+",161,1989-04-20,Right,Unknown,178.0,gigounon ger
+laslo-djere,2013,181,1995-06-02,Right,Two-Handed,188.0,djere las
+karen-khachanov,2013,192,1996-05-21,Right,Two-Handed,198.0,khachanov kar
+darian-king,2010,170,1992-04-26,Right,Two-Handed,188.0,king dar
+daniel-nguyen,2013,160,1990-10-16,Right,Two-Handed,173.0,nguyen dan
+matteo-donati,2013,163,1995-02-28,Right,Two-Handed,185.0,donati mat
+uladzimir-ignatik,2007,181,1990-07-14,Right,Unknown,183.0,ignatik ula
+andrey-rublev,2014,165,1997-10-20,Right,Two-Handed,188.0,rublev and
+yannick-mertens,2006,156,1987-06-25,Right,Two-Handed,185.0,mertens yan
+gianluca-naso,"
+",198,1987-01-06,Right,One-Handed,193.0,naso gia
+tristan-lamasine,2010,152,1993-03-05,Right,Two-Handed,183.0,lamasine tri
+oriol-roca-batalla,"
+",165,1993-04-30,Right,One-Handed,175.0,batalla ori
+rogerio-dutra-silva,2003,161,1984-02-05,Right,One-Handed,178.0,silva rog
+calvin-hemery,2013,184,1995-01-28,Right,Two-Handed,191.0,hemery cal
+jordan-thompson,2013,181,1994-04-20,Right,Two-Handed,183.0,thompson jor
+alexander-sarkissian,2014,175,1990-04-03,Right,Two-Handed,191.0,sarkissian ale
+pedro-cachin,2013,169,1995-04-12,Right,Two-Handed,185.0,cachin ped
+daniel-brands,2005,203,1987-07-17,Right,One-Handed,196.0,brands dan
+quentin-halys,2012,187,1996-10-26,Right,Two-Handed,191.0,halys que
+nils-langer,"
+",170,1990-01-25,Right,One-Handed,193.0,langer nil
+grega-zemlja,2004,179,1986-09-29,Right,Two-Handed,183.0,zemlja gre
+franko-skugor,"
+",211,1987-09-20,Right,Two-Handed,196.0,skugor fra
+jan-mertl,2002,185,1982-01-03,Right,Two-Handed,191.0,mertl jan
+mischa-zverev,2005,195,1987-08-22,Left,Two-Handed,191.0,zverev mis
+frances-tiafoe,2015,190,1998-01-20,Right,Two-Handed,188.0,tiafoe fra
+daniel-evans,2006,165,1990-05-23,Right,One-Handed,175.0,evans dan
+henri-laaksonen,2009,172,1992-03-31,Right,Two-Handed,185.0,laaksonen hen
+dennis-novak,2011,178,1993-08-28,Right,Two-Handed,183.0,novak den
+egor-gerasimov,2010,190,1992-11-11,Right,Two-Handed,196.0,gerasimov ego
+taylor-fritz,2015,190,1997-10-28,Right,Two-Handed,196.0,fritz tay
+aldin-setkic,"
+",189,1987-12-21,Right,Two-Handed,191.0,setkic ald
+marco-chiudinelli,2000,187,1981-09-10,Right,Two-Handed,185.0,chiudinelli mar
+di-wu,2009,143,1991-09-14,Right,Two-Handed,173.0,wu di
+yan-bai,"
+",176,1989-05-21,Right,Two-Handed,185.0,bai yan
+alessandro-giannessi,2008,180,1990-05-30,Left,Two-Handed,185.0,giannessi ale
+amir-weintraub,2005,176,1986-09-16,Right,One-Handed,185.0,weintraub ami
+noah-rubin,2015,155,1996-02-21,Right,Two-Handed,175.0,rubin noa
+thiago-monteiro,2011,172,1994-05-31,Left,Two-Handed,183.0,monteiro thi
+tommy-paul,2015,180,1997-05-17,Right,Two-Handed,185.0,paul tom
+pedja-krstin,2012,176,1994-09-03,Right,Two-Handed,183.0,krstin ped
+arthur-de-greef,2010,161,1992-03-27,Right,Two-Handed,183.0,greef art
+gonzalo-lama,2011,181,1993-04-27,Right,Two-Handed,180.0,lama gon
+stefan-kozlov,2013,174,1998-02-01,Right,Two-Handed,183.0,kozlov ste
+ramkumar-ramanathan,2009,178,1994-11-08,Right,Two-Handed,188.0,ramanathan ram
+marko-tepavac,"
+",198,1994-04-05,Right,Two-Handed,193.0,tepavac mar
+miljan-zekic,"
+",174,1988-07-12,Right,Two-Handed,185.0,zekic mil
+steven-diez,2009,167,1991-03-17,Right,Two-Handed,175.0,diez ste
+duckhee-lee,2013,165,1998-05-29,Right,Two-Handed,175.0,lee duc
+matthew-barton,2009,187,1991-12-18,Right,Two-Handed,191.0,barton mat
+enrique-lopez-perez,2009,168,1991-06-03,Right,Two-Handed,180.0,perez enr
+gregoire-barrere,2012,176,1994-02-16,Right,Two-Handed,183.0,barrere gre
+constant-lestienne,2012,170,1992-05-23,Right,Two-Handed,180.0,lestienne con
+daniil-medvedev,2014,182,1996-02-11,Right,Two-Handed,198.0,medvedev dan
+ilya-ivashka,2013,191,1994-02-24,Right,Two-Handed,193.0,ivashka ily
+federico-gaio,2009,187,1992-03-05,Right,One-Handed,178.0,gaio fed
+andrew-whittington,"
+",181,1993-08-11,Right,Two-Handed,188.0,whittington and
+marcelo-arevalo,2012,190,1990-10-17,Right,Two-Handed,193.0,arevalo mar
+jan-satral,2010,184,1990-07-24,Right,Two-Handed,185.0,satral jan
+ernesto-escobedo,2014,180,1996-07-04,Right,Two-Handed,185.0,escobedo ern
+maximilian-marterer,2015,171,1995-06-15,Left,Two-Handed,188.0,marterer max
+joris-de-loore,2011,190,1993-04-21,Right,Two-Handed,191.0,loore jor
+mohamed-safwat,2008,182,1990-09-19,Right,Two-Handed,180.0,safwat moh
+janko-tipsarevic,2002,176,1984-06-22,Right,Two-Handed,180.0,tipsarevic jan
+pedro-sousa,2007,154,1988-05-27,Right,Two-Handed,180.0,sousa ped
+lorenzo-giustino,2007,176,1991-09-10,Right,Two-Handed,180.0,giustino lor
+stefanos-tsitsipas,2016,198,1998-08-12,Right,One-Handed,193.0,tsitsipas ste
+cristian-garin,2011,187,1996-05-30,Right,Two-Handed,185.0,garin cri
+michael-mmoh,2016,198,1998-01-10,Right,Two-Handed,188.0,mmoh mic
+stefano-napolitano,2012,198,1995-04-11,Right,Two-Handed,196.0,napolitano ste
+tennys-sandgren,2011,195,1991-07-22,Right,Two-Handed,188.0,sandgren ten
+reilly-opelka,2015,225,1997-08-28,Right,Two-Handed,211.0,opelka rei
+jeremy-jahn,"
+",161,1990-04-05,Right,One-Handed,178.0,jahn jer
+alexander-bublik,2016,180,1997-06-17,Right,Two-Handed,196.0,bublik ale
+nikola-milojevic,2013,168,1995-06-19,Right,Two-Handed,188.0,milojevic nik
+yasutaka-uchiyama,2011,172,1992-08-05,Right,Two-Handed,183.0,uchiyama yas
+casper-ruud,2015,178,1998-12-22,Right,Two-Handed,183.0,ruud cas
+akira-santillan,2013,172,1997-05-22,Right,One-Handed,180.0,santillan aki
+dmitry-popko,2011,192,1996-10-24,Right,Two-Handed,191.0,popko dmi
+mitchell-krueger,2012,180,1994-01-12,Right,Two-Handed,188.0,krueger mit
+salvatore-caruso,2010,176,1992-12-15,Right,Two-Handed,185.0,caruso sal
+marc-polmans,2015,172,1997-05-02,Right,Two-Handed,188.0,polmans mar
+denis-shapovalov,2017,165,1999-04-15,Left,One-Handed,185.0,shapovalov den
+vaclav-safranek,2012,180,1994-05-20,Right,Two-Handed,183.0,safranek vac
+oscar-otte,2011,174,1993-07-16,Right,Two-Handed,193.0,otte osc
+soonwoo-kwon,2015,159,1997-12-02,Right,Two-Handed,180.0,kwon soo
+yannick-hanfmann,2015,190,1991-11-13,Right,Two-Handed,193.0,hanfmann yan
+cedrik-marcel-stebe,2010,154,1990-10-09,Left,Two-Handed,180.0,stebe ced
+attila-balazs,2006,172,1988-09-27,Right,Two-Handed,180.0,balazs att
+sebastian-ofner,2015,179,1996-05-12,Right,Two-Handed,191.0,ofner seb
+benjamin-bonzi,2015,180,1996-06-09,Right,Two-Handed,183.0,bonzi ben
+yannick-maden,2013,155,1989-10-28,Right,Two-Handed,185.0,maden yan
+gleb-sakharov,2005,176,1988-06-10,Right,Two-Handed,185.0,sakharov gle
+matteo-berrettini,2015,209,1996-04-12,Right,Two-Handed,196.0,berrettini mat
+alexey-vatutin,"
+",152,1992-10-27,Right,Two-Handed,178.0,vatutin ale
+brayden-schnur,2016,186,1995-07-04,Right,Two-Handed,193.0,schnur bra
+alex-de-minaur,2015,152,1999-02-17,Right,Two-Handed,183.0,minaur ale
+cameron-norrie,2017,181,1995-08-23,Left,Two-Handed,188.0,norrie cam
+mackenzie-mcdonald,2016,160,1995-04-16,Right,Two-Handed,178.0,mcdonald mac
+jaume-munar,2014,168,1997-05-05,Right,Two-Handed,183.0,munar jau
+ricardo-ojeda-lara,2010,165,1993-01-26,Right,Two-Handed,178.0,lara ric
+felix-auger-aliassime,2017,194,2000-08-08,Right,Two-Handed,193.0,aliassime fel
+carlos-taberner,2015,172,1997-08-08,Right,Two-Handed,183.0,taberner car
+lloyd-harris,2015,176,1997-02-24,Right,Two-Handed,193.0,harris llo
+corentin-moutet,2016,156,1999-04-19,Left,Two-Handed,180.0,moutet cor
+evan-king,2013,175,1992-03-25,Left,Two-Handed,185.0,king eva
+kamil-majchrzak,2013,173,1996-01-13,Right,Two-Handed,180.0,majchrzak kam
+filip-peliwo,2013,167,1994-01-30,Right,Two-Handed,180.0,peliwo fil
+viktor-galovic,2011,194,1990-09-19,Right,Two-Handed,193.0,galovic vik
+goncalo-oliveira,2012,174,1995-02-17,Left,Two-Handed,185.0,oliveira gon
+mats-moraing,2013,185,1992-06-20,Left,Two-Handed,198.0,moraing mat
+kevin-king,2013,190,1991-02-28,Left,Two-Handed,191.0,king kev
+lorenzo-sonego,2013,168,1995-05-11,Right,Two-Handed,191.0,sonego lor
+hubert-hurkacz,2015,179,1997-02-11,Right,Two-Handed,196.0,hurkacz hub
+miomir-kecmanovic,2017,165,1999-08-31,Right,Two-Handed,183.0,kecmanovic mio
+nicola-kuhn,2015,176,2000-03-20,Right,Two-Handed,185.0,kuhn nic
+hugo-dellien,2009,165,1993-06-16,Right,Two-Handed,180.0,dellien hug
+prajnesh-gunneswaran,2010,176,1989-11-12,Left,Two-Handed,188.0,gunneswaran pra
+nino-serdarusic,2014,187,1996-12-13,Right,Two-Handed,191.0,serdarusic nin
+christopher-eubanks,2017,180,1996-05-05,Right,One-Handed,201.0,eubanks chr
+juan-ignacio-londero,2010,154,1993-08-15,Right,Two-Handed,180.0,londero jua
+gianluigi-quinzi,2010,185,1996-02-01,Left,Two-Handed,191.0,quinzi gia
+pedro-martinez,2016,168,1997-04-26,Right,Two-Handed,185.0,martinez ped
+daniel-elahi-galan,2015,159,1996-06-18,Right,Two-Handed,191.0,galan dan
+christian-harrison,2007,170,1994-05-29,Right,Two-Handed,180.0,harrison chr
+tallon-griekspoor,2015,187,1996-07-02,Right,Two-Handed,188.0,griekspoor tal
+ugo-humbert,2016,160,1998-06-26,Left,Two-Handed,188.0,humbert ugo
+filip-horansky,2012,170,1993-01-07,Right,Two-Handed,191.0,horansky fil
+jay-clarke,2016,184,1998-07-27,Right,Two-Handed,183.0,clarke jay
+dominik-koepfer,2016,175,1994-04-29,Left,Two-Handed,180.0,koepfer dom
+alexei-popyrin,2017,172,1999-08-05,Right,Two-Handed,196.0,popyrin ale
+antoine-hoang,2016,168,1995-11-04,Right,Two-Handed,183.0,hoang ant
+rudolf-molleker,2017,180,2000-10-26,Right,Two-Handed,188.0,molleker rud
+roberto-quiroz,2014,193,1992-02-23,Left,Two-Handed,193.0,quiroz rob
+yosuke-watanuki,2016,154,1998-04-12,Right,Two-Handed,180.0,watanuki yos
+filippo-baldi,2012,176,1996-01-10,Right,Two-Handed,180.0,baldi fil
+maxime-janvier,2014,187,1996-10-18,Right,Two-Handed,196.0,janvier max
+jurij-rodionov,2017,184,1999-05-16,Left,Two-Handed,191.0,rodionov jur
+mikael-ymer,2015,165,1998-09-09,Right,Two-Handed,183.0,ymer mik
+gianluca-mager,2013,170,1994-12-01,Right,Two-Handed,188.0,mager gia
+marcos-giron,2014,170,1993-07-24,Right,Two-Handed,180.0,giron mar
+emilio-gomez,2013,179,1991-11-28,Right,Two-Handed,185.0,gomez emi
+alejandro-davidovich-fokina,2017,173,1999-06-05,Right,Two-Handed,183.0,fokina ale
+federico-coria,2010,161,1992-03-09,Right,Two-Handed,180.0,coria fed
+mikael-torpegaard,2018,185,1994-05-08,Right,Two-Handed,193.0,torpegaard mik
+enzo-couacaud,2013,172,1995-03-01,Right,Two-Handed,183.0,couacaud enz
+jannik-sinner,2018,167,2001-08-16,Right,Two-Handed,188.0,sinner jan
+sumit-nagal,2015,152,1997-08-16,Right,Two-Handed,178.0,nagal sum
+emil-ruusuvuori,2018,174,1999-04-02,Right,Two-Handed,188.0,ruusuvuori emi
+joao-menezes,2014,185,1996-12-17,Right,Two-Handed,185.0,menezes joa
+mario-vilella-martinez,"
+",163,1995-07-03,Right,Two-Handed,178.0,martinez mar
+andrew-harris,"
+",179,1994-03-07,Right,One-Handed,183.0,harris and
+danilo-petrovic,"
+",190,1992-01-24,Right,Two-Handed,203.0,petrovic dan
+facundo-mena,"
+",178,1992-09-22,Right,Two-Handed,183.0,mena fac
+christopher-o'connell,2011,172,1994-06-03,Right,One-Handed,183.0,connell chr
+zhizhen-zhang,2012,192,1996-10-16,Right,Two-Handed,193.0,zhang zhi
+thai-son-kwiatkowski,2017,179,1995-02-13,Right,Two-Handed,188.0,kwiatkowski tha
+juan-pablo-varillas,2013,170,1995-10-06,Right,Two-Handed,185.0,varillas jua
+andrea-collarini,2010,171,1992-01-31,Left,Two-Handed,183.0,collarini and
+zhe-li,2004,176,1986-09-20,Right,Two-Handed,183.0,li zhe
+maxime-cressy,2019,187,1997-05-08,Right,Two-Handed,201.0,cressy max
+botic-van-de-zandschulp,2016,187,1995-10-04,Right,Two-Handed,191.0,zandschulp bot
+frederico-ferreira-silva,2013,163,1995-03-18,Left,Two-Handed,178.0,silva fre
+j.j.-wolf,2019,170,1998-12-21,Right,Two-Handed,183.0,wolf jj
+roman-safiullin,2015,165,1997-08-07,Right,Two-Handed,185.0,safiullin rom
+alejandro-tabilo,2015,165,1997-06-02,Left,Two-Handed,188.0,tabilo ale
+bernabe-zapata-miralles,2015,174,1997-01-12,Right,Two-Handed,183.0,miralles ber
+cem-ilkel,2013,179,1995-08-21,Right,Two-Handed,185.0,ilkel cem
+elliot-benchetrit,2016,194,1998-10-02,Right,Two-Handed,193.0,benchetrit ell
+thiago-seyboth-wild,2018,176,2000-03-10,Right,Two-Handed,185.0,wild thi
+juan-pablo-ficovich,2015,173,1997-01-24,Right,Two-Handed,188.0,ficovich jua
+aleksandar-vukic,2018,187,1996-04-06,Right,Two-Handed,188.0,vukic ale
+carlos-alcaraz,2018,163,2003-05-05,Right,Two-Handed,183.0,alcaraz car
+arthur-rinderknech,2018,193,1995-07-23,Right,Two-Handed,196.0,rinderknech art
+daniel-altmaier,2014,176,1998-09-12,Right,One-Handed,188.0,altmaier dan
+brandon-nakashima,2019,183,2001-08-03,Right,Two-Handed,188.0,nakashima bra
+marc-andrea-huesler,2016,189,1996-06-24,Left,Two-Handed,196.0,huesler mar
+lorenzo-musetti,2019,172,2002-03-03,Right,One-Handed,185.0,musetti lor
+hugo-gaston,2018,149,2000-09-26,Left,Two-Handed,173.0,gaston hug
+tomas-machac,2017,163,2000-10-13,Right,Two-Handed,183.0,machac tom
+francisco-cerundolo,2018,176,1998-08-13,Right,Two-Handed,185.0,cerundolo fra
+jenson-brooksby,2021,183,2000-10-26,Right,Two-Handed,193.0,brooksby jen
+alexandre-muller,2014,165,1997-02-01,Right,Two-Handed,183.0,muller ale
+sebastian-korda,2018,180,2000-07-05,Right,Two-Handed,196.0,korda seb
+juan-manuel-cerundolo,2018,167,2001-11-15,Left,Two-Handed,183.0,cerundolo jua
+kacper-zuk,2016,169,1999-01-21,Right,Two-Handed,183.0,zuk kac
+sebastian-baez,2018,154,2000-12-28,Right,Two-Handed,170.0,baez seb
+alex-molcan,2015,160,1997-12-01,Left,Two-Handed,178.0,molcan ale
+tomas-martin-etcheverry,2017,180,1999-07-18,Right,Two-Handed,196.0,etcheverry tom
+tomas-barrios-vera,2019,194,1997-12-10,Right,Two-Handed,191.0,vera tom
+altug-celikbilek,2015,162,1996-09-07,Right,Two-Handed,183.0,celikbilek alt
+zizou-bergs,2018,187,1999-06-03,Right,Two-Handed,185.0,bergs ziz
+max-purcell,2016,176,1998-04-03,Right,Two-Handed,185.0,purcell max
+hugo-grenier,2013,187,1996-03-23,Right,Two-Handed,196.0,grenier hug
+dimitar-kuzmanov,2009,170,1993-07-28,Right,Two-Handed,183.0,kuzmanov dim
+gian-marco-moroni,2018,179,1998-02-13,Right,One-Handed,185.0,moroni gia
+jiri-lehecka,2020,179,2001-11-08,Right,Two-Handed,185.0,lehecka jir
+zdenek-kolar,2014,174,1996-10-09,Right,Two-Handed,183.0,kolar zde
+holger-rune,2020,169,2003-04-29,Right,Two-Handed,188.0,rune hol
+felipe-meligeni-alves,2016,182,1998-02-19,Right,Two-Handed,185.0,alves fel
+flavio-cobolli,2020,156,2002-05-06,Right,Two-Handed,173.0,cobolli fla
+vit-kopriva,2015,152,1997-06-15,Right,Two-Handed,178.0,kopriva vit
+chun-hsin-tseng,2019,143,2001-08-08,Right,Two-Handed,175.0,tseng chu
+camilo-ugo-carabelli,2016,182,1999-06-17,Right,Two-Handed,185.0,carabelli cam
+nuno-borges,2019,171,1997-02-19,Right,Two-Handed,185.0,borges nun
+franco-agamenone,2010,176,1993-04-15,Right,Two-Handed,191.0,agamenone fra
+pavel-kotov,2016,196,1998-11-18,Right,Two-Handed,191.0,kotov pav
+daniel-masur,2013,172,1994-11-06,Right,Two-Handed,183.0,masur dan
+dominic-stricker,2020,176,2002-08-16,Left,Two-Handed,183.0,stricker dom
+jesper-de-jong,"
+",154,2000-05-31,Right,Two-Handed,180.0,jong jes
+tim-van-rijthoven,2015,195,1997-04-24,Right,One-Handed,188.0,rijthoven tim
+jack-draper,2018,187,2001-12-22,Left,Two-Handed,193.0,draper jac
+manuel-guinard,2016,181,1995-11-15,Right,Two-Handed,198.0,guinard man
+timofey-skatov,2019,159,2001-01-21,Right,Two-Handed,175.0,skatov tim
+thiago-agustin-tirante,2016,178,2001-04-10,Right,Two-Handed,185.0,tirante thi
+andrea-pellegrino,2016,179,1997-03-23,Right,Two-Handed,185.0,pellegrino and
+luca-nardi,"
+",176,2003-08-06,Right,Two-Handed,185.0,nardi luc
+zsombor-piros,2016,150,1999-10-13,Right,Two-Handed,180.0,piros zso
+dalibor-svrcina,"
+",149,2002-10-02,Right,Two-Handed,178.0,svrcina dal
+ryan-peniston,"
+",165,1995-11-10,Left,Two-Handed,180.0,peniston rya
+geoffrey-blancaneaux,2016,165,1998-08-08,Right,Two-Handed,180.0,blancaneaux geo
+borna-gojo,2020,198,1998-02-27,Right,Two-Handed,196.0,gojo bor
+santiago-rodriguez-taverna,2016,181,1999-07-16,Right,Two-Handed,191.0,taverna san
+giulio-zeppieri,2019,180,2001-12-07,Left,Two-Handed,183.0,zeppieri giu
+alexander-ritschard,2018,180,1994-03-24,Right,Two-Handed,193.0,ritschard ale
+riccardo-bonadio,"
+",173,1993-07-13,Right,One-Handed,180.0,bonadio ric
+filip-misolic,2019,165,2001-08-08,Right,Two-Handed,180.0,misolic fil
+tung-lin-wu,2016,179,1998-05-12,Right,Two-Handed,188.0,wu tun
+alexander-shevchenko,2018,165,2000-11-29,Right,Two-Handed,185.0,shevchenko ale
+francesco-passaro,2019,178,2001-01-07,Right,Two-Handed,180.0,passaro fra
+gijs-brouwer,2016,161,1996-03-14,Left,Two-Handed,191.0,brouwer gij
+antoine-escoffier,"
+",173,1992-02-29,Right,Two-Handed,185.0,escoffier ant
+luciano-darderi,"
+",180,2002-02-14,Right,Two-Handed,183.0,darderi luc
+andrea-vavassori,2014,176,1995-05-05,Right,One-Handed,191.0,vavassori and
+emilio-nava,2018,174,2001-12-02,Right,Two-Handed,185.0,nava emi
+antoine-bellier,2014,184,1996-10-18,Left,One-Handed,196.0,bellier ant
+matteo-arnaldi,2019,157,2001-02-22,Right,Two-Handed,185.0,arnaldi mat
+yibing-wu,2017,176,1999-10-14,Right,Two-Handed,183.0,wu yib
+rinky-hijikata,2021,159,2001-02-23,Right,Two-Handed,178.0,hijikata rin
+ben-shelton,2022,195,2002-10-09,Left,Two-Handed,193.0,shelton ben
+jelle-sels,"
+",183,1995-08-10,Right,One-Handed,188.0,sels jel
+fabian-marozsan,2017,165,1999-10-08,Right,Two-Handed,193.0,marozsan fab
+paul-jubb,2020,158,1999-10-31,Right,Two-Handed,180.0,jubb pau
+francesco-maestrelli,2020,172,2002-12-21,Right,Two-Handed,196.0,maestrelli fra
+juncheng--shang,2021,162,2005-02-02,Left,Two-Handed,180.0,shang jun
+raul-brancaccio,"
+",162,1997-05-04,Right,Two-Handed,185.0,brancaccio rau
+nerman-fatic,2014,193,1994-10-24,Right,Two-Handed,191.0,fatic ner
+aleksandar-kovacevic,2021,174,1998-08-29,Right,One-Handed,183.0,kovacevic ale
+matheus-pucinelli-de-almeida,"
+",171,2001-04-01,Right,Two-Handed,183.0,almeida mat
+evan-furness,"
+",145,1998-08-13,Right,Two-Handed,173.0,furness eva
+laurent-lokoli,"
+",171,1994-10-18,Right,Two-Handed,188.0,lokoli lau
+lukas-klein,"
+",187,1998-03-22,Right,Unknown,193.0,klein luk
+facundo-diaz-acosta,2018,165,2000-12-15,Left,Two-Handed,183.0,acosta fac
+mattia-bellucci,"
+",158,2001-06-01,Left,Two-Handed,178.0,bellucci mat
+li-tu,"
+",182,1996-05-27,Right,One-Handed,180.0,tu li
+luca-van-assche,2021,158,2004-05-11,Right,Two-Handed,178.0,assche luc
+otto-virtanen,2018,180,2001-06-21,Right,Two-Handed,193.0,virtanen ott
+genaro-alberto-olivieri,2016,161,1998-08-04,Right,Two-Handed,175.0,olivieri gen
+adrian-andreev,2016,145,2001-05-12,Right,Two-Handed,180.0,andreev adr
+arthur-fils,2021,182,2004-06-12,Right,Two-Handed,185.0,fils art
+oleksii-krutykh,"
+",173,2000-03-10,Right,Two-Handed,185.0,krutykh ole
+leandro-riedi,"
+",171,2002-01-27,Right,Two-Handed,191.0,riedi lea
+yu-hsiou-hsu,2016,165,1999-04-02,Right,Two-Handed,178.0,hsu yu
+brandon-holt,2020,180,1998-04-06,Right,Two-Handed,185.0,holt bra
+matteo-gigante,"
+",149,2002-01-04,Left,Two-Handed,180.0,gigante mat
+hamad-medjedovic,2021,190,2003-07-18,Right,Two-Handed,188.0,medjedovic ham
+nicolas-moreno-de-alboran,2019,180,1997-07-14,Right,Two-Handed,185.0,alboran nic
+gabriel-diallo,2023,198,2001-09-24,Right,Two-Handed,203.0,diallo gab
+ivan-gakhov,"
+",182,1996-11-04,Left,Two-Handed,191.0,gakhov iva
+jan-choinski,"
+",193,1996-06-10,Right,Two-Handed,196.0,choinski jan
+yunchaokete-bu,"
+",181,2002-01-19,Right,Two-Handed,185.0,bu yun
+harold-mayot,2020,171,2002-02-04,Right,Two-Handed,178.0,mayot har
+arthur-cazaux,2020,162,2002-08-23,Right,Two-Handed,183.0,cazaux art
+seongchan-hong,"
+",143,1997-06-30,Right,Two-Handed,175.0,hong seo
+sho-shimabukuro,2016,173,1997-07-30,Right,Two-Handed,180.0,shimabukuro sho
+francisco-comesana,"
+",158,2000-10-06,Right,Two-Handed,178.0,comesana fra
+nicholas-david-ionel,"
+",160,2002-10-12,Right,Two-Handed,185.0,ionel nic
+mariano-navone,"
+",160,2001-02-27,Right,Two-Handed,178.0,navone mar
+shintaro-mochizuki,2019,154,2003-06-02,Right,Two-Handed,175.0,mochizuki shi
+vitaliy-sachko,"
+",162,1997-07-14,Right,Two-Handed,188.0,sachko vit
+pablo-llamas-ruiz,"
+",176,2002-10-13,Right,Two-Handed,188.0,ruiz pab
+dragos-nicolae-madaras,"
+",187,1997-09-12,Left,Two-Handed,191.0,madaras dra
+alex-michelsen,2023,175,2004-08-25,Right,Two-Handed,193.0,michelsen ale
+titouan-droguet,2018,176,2001-06-15,Right,Two-Handed,191.0,droguet tit
+jakub-mensik,2022,184,2005-09-01,Right,Two-Handed,193.0,mensik jak
+benjamin-hassan,"
+",187,1995-02-04,Right,Two-Handed,183.0,hassan ben
+dino-prizmic,"
+",176,2005-08-05,Right,Two-Handed,188.0,prizmic din
+alexis-galarneau,"
+",175,1999-03-02,Right,Two-Handed,180.0,galarneau ale
+gauthier-onclin,"
+",169,2001-02-26,Right,Two-Handed,180.0,onclin gau
+adam-walton,"
+",170,1999-04-17,Right,Two-Handed,183.0,walton ada
+terence-atmane,"
+",176,2002-01-09,Left,Two-Handed,193.0,atmane ter
+zachary-svajda,2019,145,2002-11-29,Right,Two-Handed,175.0,svajda zac
+ugo-blanchet,"
+",149,1999-01-05,Right,Two-Handed,175.0,blanchet ugo
+daniel-rincon,"
+",187,2003-01-07,Left,Two-Handed,185.0,rincon dan
+duje-ajdukovic,2018,171,2001-02-05,Right,Two-Handed,188.0,ajdukovic duj
+giovanni-mpetshi-perricard,2021,216,2003-07-08,Right,One-Handed,203.0,perricard gio
