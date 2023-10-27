@@ -32,10 +32,12 @@ jobs:
       - name: Execute Notebook
         run: |
           jupyter nbconvert --to notebook --execute clean_table.ipynb
+          jupyter nbconvert --to notebook --execute merge_tables.ipynb
 
       - name: Discard Local Changes
-        run: git checkout "clean_table.nbconvert.ipynb"
-          
+        run: |
+          git checkout "clean_table.nbconvert.ipynb"
+          git checkout "merge_tables.nbconvert.ipynb"
 
 
       - name: Pull Remote Changes
@@ -50,11 +52,12 @@ jobs:
             git config --global user.name "jeanbouteiller-ds"
             git add "data/clean_datasets/df_betting_clean.csv"
             git add "data/clean_datasets/df_ranking_clean.csv"
-            git add "df_player_fixed.csv"
             git add "data/clean_datasets/df_fixed_table_clean.csv"
             git add "data/clean_datasets/df_matchs_clean.csv"
             git add "data/clean_datasets/df_tournaments_clean.csv"
+            git add "data/clean_datasets/df_all_merged.csv"
             git add "clean_table.nbconvert.ipynb"
+            git add "merge_tables.nbconvert.ipynb"
             git commit -m "Update files"
             git push
           else
