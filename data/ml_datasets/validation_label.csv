@@ -169,7 +169,6 @@ rafael nadal//damir dzumhur//melbourne//2018.01.15,1
 roger federer//richard gasquet//melbourne//2018.01.15,0
 grigor dimitrov//andrey rublev//melbourne//2018.01.15,0
 hyeon chung//alexander zverev//melbourne//2018.01.15,0
-hyeon chung//alexander zverev//melbourne//2018.01.15,0
 dominic thiem//adrian mannarino//melbourne//2018.01.15,0
 andreas seppi//corentin moutet//melbourne//2018.01.15,1
 pablo carreno busta//gilles muller//melbourne//2018.01.15,1
@@ -184,7 +183,6 @@ damir dzumhur//paolo lorenzi//melbourne//2018.01.15,0
 richard gasquet//blaz kavcic//melbourne//2018.01.15,1
 andrey rublev//david ferrer//melbourne//2018.01.15,0
 pablo cuevas//mikhail youzhny//melbourne//2018.01.15,0
-hyeon chung//mischa zverev//melbourne//2018.01.15,0
 hyeon chung//mischa zverev//melbourne//2018.01.15,0
 marcos baghdatis//yuki bhambri//melbourne//2018.01.15,0
 nikoloz basilashvili//gerald melzer//melbourne//2018.01.15,1
@@ -499,7 +497,6 @@ nicolas jarry//horacio zeballos//sao paulo//2018.02.26,1
 fabio fognini//nicolas jarry//sao paulo//2018.02.26,1
 fabio fognini//pablo cuevas//sao paulo//2018.02.26,0
 juan martin del potro//mischa zverev//acapulco//2018.02.26,1
-juan martin del potro//mischa zverev//acapulco//2018.02.26,1
 fabio fognini//guillermo garcia-lopez//sao paulo//2018.02.26,1
 pablo cuevas//leonardo mayer//sao paulo//2018.02.26,1
 diego schwartzman//fernando verdasco//acapulco//2018.02.26,0
@@ -583,7 +580,6 @@ alexander zverev//ryan harrison//acapulco//2018.02.26,0
 alexander zverev//peter gojowczyk//acapulco//2018.02.26,0
 juan martin del potro//kevin anderson//acapulco//2018.02.26,1
 juan martin del potro//alexander zverev//acapulco//2018.02.26,1
-juan martin del potro//alexander zverev//acapulco//2018.02.26,0
 kevin anderson//jared donaldson//acapulco//2018.02.26,0
 mischa zverev//mikhail kukushkin//indian wells//2018.03.08,0
 horacio zeballos//yuichi sugita//indian wells//2018.03.08,0
@@ -1779,7 +1775,6 @@ lukas lacko//prajnesh gunneswaran//atlanta//2018.07.23,1
 john millman//jan-lennard struff//hamburg//2018.07.23,0
 john isner//matthew ebden//atlanta//2018.07.23,1
 thiago monteiro//fernando verdasco//hamburg//2018.07.23,0
-jozef kovalik//thiago monteiro//hamburg//2018.07.23,0
 ryan harrison//lukas lacko//atlanta//2018.07.23,0
 thiago monteiro//gilles simon//hamburg//2018.07.23,0
 rudolf molleker//david ferrer//hamburg//2018.07.23,0
@@ -2201,7 +2196,6 @@ matthias bachinger//jaume munar//metz//2018.09.17,1
 matthias bachinger//kei nishikori//metz//2018.09.17,0
 ricardas berankis//maximilian marterer//metz//2018.09.17,0
 gilles simon//jiri vesely//metz//2018.09.17,1
-matthias bachinger//yannick maden//metz//2018.09.17,1
 peter gojowczyk//jo-wilfried tsonga//metz//2018.09.17,1
 benoit paire//quentin halys//metz//2018.09.17,1
 yannick maden//mischa zverev//metz//2018.09.17,1
@@ -2430,7 +2424,6 @@ john millman//alexei popyrin//stockholm//2018.10.15,1
 mackenzie mcdonald//nicolas jarry//antwerp//2018.10.15,1
 fabio fognini//hyeon chung//stockholm//2018.10.15,1
 elias ymer//maximilian marterer//stockholm//2018.10.15,0
-oscar otte//jurgen zopp//stockholm//2018.10.15,1
 lukas lacko//taro daniel//stockholm//2018.10.15,1
 denis kudla//guillermo garcia-lopez//stockholm//2018.10.15,1
 philipp kohlschreiber//alex de minaur//stockholm//2018.10.15,1
@@ -2544,7 +2537,6 @@ kevin anderson//borna coric//vienna//2018.10.22,0
 kevin anderson//fernando verdasco//vienna//2018.10.22,0
 borna coric//albert ramos-vinolas//vienna//2018.10.22,1
 kyle edmund//diego schwartzman//vienna//2018.10.22,0
-mikhail kukushkin//andrey rublev//vienna//2018.10.22,1
 fernando verdasco//pierre-hugues herbert//vienna//2018.10.22,1
 karen khachanov//dennis novak//vienna//2018.10.22,1
 gael monfils//steve johnson//vienna//2018.10.22,0
@@ -2704,7 +2696,6 @@ denis shapovalov//taro daniel//melbourne//2019.01.14,0
 fernando verdasco//radu albot//melbourne//2019.01.14,1
 alex de minaur//henri laaksonen//melbourne//2019.01.14,0
 lucas pouille//maximilian marterer//melbourne//2019.01.14,0
-daniil medvedev//ryan harrison//melbourne//2019.01.14,1
 daniil medvedev//ryan harrison//melbourne//2019.01.14,1
 alex bolt//gilles simon//melbourne//2019.01.14,1
 diego schwartzman//denis kudla//melbourne//2019.01.14,0
@@ -5226,7 +5217,6 @@ tennys sandgren//fabio fognini//melbourne//2020.01.20,1
 milos raonic//marin cilic//melbourne//2020.01.20,1
 rafael nadal//pablo carreno busta//melbourne//2020.01.20,0
 novak djokovic//yoshihito nishioka//melbourne//2020.01.20,0
-novak djokovic//yoshihito nishioka//melbourne//2020.01.20,1
 roger federer//john millman//melbourne//2020.01.20,1
 daniil medvedev//alexei popyrin//melbourne//2020.01.20,0
 dominic thiem//taylor fritz//melbourne//2020.01.20,0
@@ -5533,7 +5523,6 @@ marin cilic//ilya ivashka//marseille//2020.02.17,0
 cristian garin//federico coria//rio de janeiro//2020.02.17,0
 thiago seyboth wild//alejandro davidovich fokina//rio de janeiro//2020.02.17,0
 pedro martinez//pablo andujar//rio de janeiro//2020.02.17,0
-gianluca mager//attila balazs//rio de janeiro//2020.02.17,0
 aljaz bedene//karen khachanov//marseille//2020.02.17,1
 gilles simon//aljaz bedene//marseille//2020.02.17,1
 vasek pospisil//hubert hurkacz//marseille//2020.02.17,0
@@ -5550,7 +5539,6 @@ benoit paire//gregoire barrere//marseille//2020.02.17,0
 lorenzo sonego//leonardo mayer//rio de janeiro//2020.02.17,1
 stefanos tsitsipas//alexander bublik//marseille//2020.02.17,1
 stefanos tsitsipas//felix auger-aliassime//marseille//2020.02.17,0
-joao domingues//federico gaio//rio de janeiro//2020.02.17,0
 felix auger-aliassime//gilles simon//marseille//2020.02.17,1
 casper ruud//federico delbonis//santiago//2020.02.24,0
 thiago seyboth wild//cristian garin//santiago//2020.02.24,0
@@ -5558,7 +5546,7 @@ thiago seyboth wild//renzo olivo//santiago//2020.02.24,0
 thiago seyboth wild//casper ruud//santiago//2020.02.24,0
 casper ruud//albert ramos-vinolas//santiago//2020.02.24,0
 albert ramos-vinolas//thiago monteiro//santiago//2020.02.24,0
-renzo olivo//pablo cuevas//santiago//2020.02.24,1
+thiago seyboth wild//juan ignacio londero//santiago//2020.02.24,1
 soonwoo kwon//taro daniel//acapulco//2020.02.24,1
 cristian garin//alejandro davidovich fokina//santiago//2020.02.24,0
 tommy paul//mackenzie mcdonald//acapulco//2020.02.24,0
@@ -5587,7 +5575,7 @@ juan ignacio londero//federico coria//santiago//2020.02.24,1
 thiago monteiro//roberto carballes baena//santiago//2020.02.24,1
 federico delbonis//salvatore caruso//santiago//2020.02.24,0
 hugo dellien//tomas barrios vera//santiago//2020.02.24,1
-thiago seyboth wild//juan ignacio londero//santiago//2020.02.24,0
+renzo olivo//pablo cuevas//santiago//2020.02.24,0
 renzo olivo//pedro sousa//santiago//2020.02.24,0
 federico delbonis//martin klizan//santiago//2020.02.24,0
 john isner//mischa zverev//acapulco//2020.02.24,1
@@ -6048,7 +6036,6 @@ marco cecchinato//albert ramos-vinolas//sardinia//2020.10.12,1
 alejandro davidovich fokina//emil ruusuvuori//cologne//2020.10.12,0
 laslo djere//lorenzo musetti//sardinia//2020.10.12,0
 radu albot//oscar otte//cologne//2020.10.12,1
-mischa zverev//john millman//cologne//2020.10.12,0
 mischa zverev//john millman//cologne//2020.10.12,0
 fernando verdasco//andy murray//cologne//2020.10.12,0
 gilles simon//marton fucsovics//cologne//2020.10.12,0
