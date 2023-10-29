@@ -1028,7 +1028,7 @@ dominic stricker//radu albot//stuttgart//2021.06.08,1
 yannick hanfmann//jeremy chardy//stuttgart//2021.06.08,1
 peter gojowczyk//ilya ivashka//stuttgart//2021.06.08,0
 jurij rodionov//dominik koepfer//stuttgart//2021.06.08,0
-denis shapovalov//feliciano lopez//stuttgart//2021.06.08,1
+felix auger-aliassime//lloyd harris//stuttgart//2021.06.08,1
 james duckworth//adrian mannarino//stuttgart//2021.06.08,0
 sam querrey//dominic stricker//stuttgart//2021.06.08,1
 marin cilic//felix auger-aliassime//stuttgart//2021.06.08,1
@@ -1036,9 +1036,9 @@ felix auger-aliassime//sam querrey//stuttgart//2021.06.08,0
 marin cilic//jurij rodionov//stuttgart//2021.06.08,1
 felix auger-aliassime//ugo humbert//stuttgart//2021.06.08,1
 jurij rodionov//alex de minaur//stuttgart//2021.06.08,0
-sam querrey//james duckworth//stuttgart//2021.06.08,0
+denis shapovalov//feliciano lopez//stuttgart//2021.06.08,0
 marin cilic//denis shapovalov//stuttgart//2021.06.08,1
-felix auger-aliassime//lloyd harris//stuttgart//2021.06.08,0
+sam querrey//james duckworth//stuttgart//2021.06.08,0
 ugo humbert//yannick hanfmann//stuttgart//2021.06.08,1
 alex de minaur//jordan thompson//stuttgart//2021.06.08,0
 marin cilic//nikoloz basilashvili//stuttgart//2021.06.08,1
@@ -2288,7 +2288,7 @@ rafael nadal//maxime cressy//melbourne//2022.01.04,1
 botic van de zandschulp//mackenzie mcdonald//melbourne//2022.01.04,1
 jaume munar//henri laaksonen//melbourne//2022.01.04,0
 aslan karatsev//lorenzo sonego//sydney//2022.01.10,1
-daniel evans//pedro martinez//sydney//2022.01.10,0
+andy murray//nikoloz basilashvili//sydney//2022.01.10,0
 lorenzo sonego//hugo gaston//sydney//2022.01.10,1
 david goffin//denis kudla//sydney//2022.01.10,0
 maxime cressy//dusan lajovic//sydney//2022.01.10,1
@@ -2301,8 +2301,8 @@ andy murray//reilly opelka//sydney//2022.01.10,1
 aslan karatsev//daniel evans//sydney//2022.01.10,1
 aslan karatsev//andy murray//sydney//2022.01.10,1
 reilly opelka//brandon nakashima//sydney//2022.01.10,0
-andy murray//nikoloz basilashvili//sydney//2022.01.10,0
 aslan karatsev//miomir kecmanovic//sydney//2022.01.10,0
+daniel evans//pedro martinez//sydney//2022.01.10,0
 andy murray//david goffin//sydney//2022.01.10,1
 brandon nakashima//fabio fognini//sydney//2022.01.10,0
 dusan lajovic//alejandro davidovich fokina//sydney//2022.01.10,1
@@ -3270,7 +3270,7 @@ camilo ugo carabelli//aslan karatsev//paris//2022.05.22,1
 mikael ymer//james duckworth//paris//2022.05.22,0
 bernabe zapata miralles//michael mmoh//paris//2022.05.22,0
 albert ramos-vinolas//thanasi kokkinakis//paris//2022.05.22,0
-gregoire barrere//taro daniel//paris//2022.05.22,1
+alexander bublik//arthur rinderknech//paris//2022.05.22,1
 felix auger-aliassime//camilo ugo carabelli//paris//2022.05.22,0
 diego schwartzman//jaume munar//paris//2022.05.22,1
 andrey rublev//jannik sinner//paris//2022.05.22,1
@@ -3336,8 +3336,8 @@ cristian garin//tommy paul//paris//2022.05.22,0
 pablo cuevas//jenson brooksby//paris//2022.05.22,0
 lorenzo sonego//peter gojowczyk//paris//2022.05.22,0
 sebastian baez//dusan lajovic//paris//2022.05.22,1
-hugo gaston//alex de minaur//paris//2022.05.22,1
-alexander bublik//arthur rinderknech//paris//2022.05.22,0
+gregoire barrere//taro daniel//paris//2022.05.22,1
+hugo gaston//alex de minaur//paris//2022.05.22,0
 pedro cachin//norbert gombos//paris//2022.05.22,1
 roberto carballes baena//oscar otte//paris//2022.05.22,0
 marco cecchinato//pablo andujar//paris//2022.05.22,0
@@ -4524,8 +4524,8 @@ alex molcan//mackenzie mcdonald//basel//2022.10.24,0
 arthur rinderknech//marin cilic//basel//2022.10.24,0
 felix auger-aliassime//marc-andrea huesler//basel//2022.10.24,0
 stan wawrinka//casper ruud//basel//2022.10.24,1
-stan wawrinka//brandon nakashima//basel//2022.10.24,1
-holger rune//ugo humbert//basel//2022.10.24,0
+carlos alcaraz//jack draper//basel//2022.10.24,1
+stan wawrinka//brandon nakashima//basel//2022.10.24,0
 arthur rinderknech//alex molcan//basel//2022.10.24,0
 carlos alcaraz//botic van de zandschulp//basel//2022.10.24,1
 pablo carreno busta//dominic stricker//basel//2022.10.24,1
@@ -4550,8 +4550,8 @@ andy murray//roman safiullin//basel//2022.10.24,0
 miomir kecmanovic//alejandro davidovich fokina//basel//2022.10.24,1
 alexander bublik//aslan karatsev//basel//2022.10.24,0
 pablo carreno busta//sebastian baez//basel//2022.10.24,0
-carlos alcaraz//jack draper//basel//2022.10.24,0
-daniil medvedev//jannik sinner//vienna//2022.10.24,0
+holger rune//ugo humbert//basel//2022.10.24,0
+grigor dimitrov//marcos giron//vienna//2022.10.24,0
 cameron norrie//pedro cachin//vienna//2022.10.24,1
 grigor dimitrov//andrey rublev//vienna//2022.10.24,0
 hubert hurkacz//frances tiafoe//vienna//2022.10.24,0
@@ -4565,8 +4565,8 @@ daniil medvedev//grigor dimitrov//vienna//2022.10.24,0
 taylor fritz//yoshihito nishioka//vienna//2022.10.24,0
 daniil medvedev//dominic thiem//vienna//2022.10.24,1
 denis shapovalov//daniel evans//vienna//2022.10.24,1
-grigor dimitrov//marcos giron//vienna//2022.10.24,1
-borna coric//hubert hurkacz//vienna//2022.10.24,0
+borna coric//hubert hurkacz//vienna//2022.10.24,1
+daniil medvedev//jannik sinner//vienna//2022.10.24,0
 denis shapovalov//borna coric//vienna//2022.10.24,0
 daniil medvedev//denis shapovalov//vienna//2022.10.24,1
 borna coric//stefanos tsitsipas//vienna//2022.10.24,0
@@ -4574,9 +4574,9 @@ jannik sinner//francisco cerundolo//vienna//2022.10.24,0
 andrey rublev//diego schwartzman//vienna//2022.10.24,0
 jannik sinner//cristian garin//vienna//2022.10.24,1
 francisco cerundolo//filip misolic//vienna//2022.10.24,1
-grigor dimitrov//thiago monteiro//vienna//2022.10.24,0
-daniel evans//oscar otte//vienna//2022.10.24,1
 marcos giron//tallon griekspoor//vienna//2022.10.24,0
+grigor dimitrov//thiago monteiro//vienna//2022.10.24,1
+daniel evans//oscar otte//vienna//2022.10.24,0
 borna coric//quentin halys//vienna//2022.10.24,0
 karen khachanov//j.j. wolf//vienna//2022.10.24,1
 emil ruusuvuori//lorenzo sonego//vienna//2022.10.24,1
@@ -4653,24 +4653,24 @@ stefanos tsitsipas//daniil medvedev//turin//2022.11.13,1
 taylor fritz//felix auger-aliassime//turin//2022.11.13,1
 novak djokovic//taylor fritz//turin//2022.11.13,0
 roman safiullin//mikael ymer//adelaide//2023.01.01,1
+marcos giron//richard gasquet//adelaide//2023.01.01,0
 quentin halys//jordan thompson//adelaide//2023.01.01,0
 thanasi kokkinakis//maxime cressy//adelaide//2023.01.01,0
 sebastian korda//andy murray//adelaide//2023.01.01,0
-mackenzie mcdonald//daniel elahi galan//adelaide//2023.01.01,0
+mackenzie mcdonald//daniel elahi galan//adelaide//2023.01.01,1
 denis shapovalov//rinky hijikata//adelaide//2023.01.01,1
-karen khachanov//pedro cachin//adelaide//2023.01.01,1
-jack draper//soonwoo kwon//adelaide//2023.01.01,0
-denis shapovalov//roman safiullin//adelaide//2023.01.01,1
-novak djokovic//sebastian korda//adelaide//2023.01.01,0
+karen khachanov//pedro cachin//adelaide//2023.01.01,0
+jack draper//soonwoo kwon//adelaide//2023.01.01,1
+denis shapovalov//roman safiullin//adelaide//2023.01.01,0
+novak djokovic//sebastian korda//adelaide//2023.01.01,1
 jannik sinner//kyle edmund//adelaide//2023.01.01,1
-sebastian korda//yoshihito nishioka//adelaide//2023.01.01,1
-novak djokovic//denis shapovalov//adelaide//2023.01.01,0
-daniil medvedev//karen khachanov//adelaide//2023.01.01,1
+sebastian korda//yoshihito nishioka//adelaide//2023.01.01,0
+novak djokovic//denis shapovalov//adelaide//2023.01.01,1
+daniil medvedev//karen khachanov//adelaide//2023.01.01,0
 sebastian korda//jannik sinner//adelaide//2023.01.01,0
-yoshihito nishioka//alexei popyrin//adelaide//2023.01.01,0
+yoshihito nishioka//alexei popyrin//adelaide//2023.01.01,1
 novak djokovic//quentin halys//adelaide//2023.01.01,1
-daniil medvedev//miomir kecmanovic//adelaide//2023.01.01,1
-marcos giron//richard gasquet//adelaide//2023.01.01,0
+daniil medvedev//miomir kecmanovic//adelaide//2023.01.01,0
 novak djokovic//daniil medvedev//adelaide//2023.01.01,0
 karen khachanov//jack draper//adelaide//2023.01.01,1
 sebastian korda//roberto bautista agut//adelaide//2023.01.01,1
@@ -5135,23 +5135,23 @@ novak djokovic//ivan gakhov//monte carlo//2023.04.09,0
 andrey rublev//jaume munar//monte carlo//2023.04.09,0
 andrey rublev//alex molcan//banja luka//2023.04.17,0
 dusan lajovic//miomir kecmanovic//banja luka//2023.04.17,0
-andrey rublev//damir dzumhur//banja luka//2023.04.17,0
-luca van assche//stan wawrinka//banja luka//2023.04.17,1
+damir dzumhur//liam broady//banja luka//2023.04.17,0
+andrey rublev//damir dzumhur//banja luka//2023.04.17,1
 dusan lajovic//andrey rublev//banja luka//2023.04.17,1
 abdullah shelbayh//elias ymer//banja luka//2023.04.17,0
-novak djokovic//luca van assche//banja luka//2023.04.17,1
+laslo djere//borna coric//banja luka//2023.04.17,1
 alex molcan//taro daniel//banja luka//2023.04.17,0
-damir dzumhur//liam broady//banja luka//2023.04.17,1
+luca van assche//stan wawrinka//banja luka//2023.04.17,1
 miomir kecmanovic//abdullah shelbayh//banja luka//2023.04.17,0
 miomir kecmanovic//jiri lehecka//banja luka//2023.04.17,0
 alex molcan//laslo djere//banja luka//2023.04.17,0
-laslo djere//borna coric//banja luka//2023.04.17,1
+novak djokovic//luca van assche//banja luka//2023.04.17,1
 jiri lehecka//radu albot//banja luka//2023.04.17,1
 radu albot//federico coria//banja luka//2023.04.17,0
 laslo djere//roman safiullin//banja luka//2023.04.17,0
+dusan lajovic//novak djokovic//banja luka//2023.04.17,1
 alex molcan//alexei popyrin//banja luka//2023.04.17,1
-alexei popyrin//tallon griekspoor//banja luka//2023.04.17,1
-dusan lajovic//novak djokovic//banja luka//2023.04.17,0
+alexei popyrin//tallon griekspoor//banja luka//2023.04.17,0
 jiri lehecka//gael monfils//banja luka//2023.04.17,0
 richard gasquet//dino prizmic//banja luka//2023.04.17,0
 gregoire barrere//hamad medjedovic//banja luka//2023.04.17,1
@@ -5252,33 +5252,33 @@ casper ruud//arthur rinderknech//rome//2023.05.10,0
 borna coric//thiago monteiro//rome//2023.05.10,0
 marton fucsovics//alex de minaur//rome//2023.05.10,0
 stefanos tsitsipas//nuno borges//rome//2023.05.10,1
+lucas pouille//jurij rodionov//paris//2023.05.28,1
 luca van assche//marco cecchinato//paris//2023.05.28,1
 juan pablo varillas//juncheng shang//paris//2023.05.28,1
 stan wawrinka//albert ramos-vinolas//paris//2023.05.28,1
-giulio zeppieri//alexander bublik//paris//2023.05.28,1
+giulio zeppieri//alexander bublik//paris//2023.05.28,0
 zhizhen zhang//dusan lajovic//paris//2023.05.28,0
-lucas pouille//jurij rodionov//paris//2023.05.28,0
 alexander shevchenko//oscar otte//paris//2023.05.28,0
-sebastian korda//mackenzie mcdonald//paris//2023.05.28,0
+diego schwartzman//nuno borges//paris//2023.05.28,0
 tallon griekspoor//pedro martinez//paris//2023.05.28,0
-max purcell//jordan thompson//paris//2023.05.28,0
-genaro alberto olivieri//andrea vavassori//paris//2023.05.28,1
+fabio fognini//jason kubler//paris//2023.05.28,0
+max purcell//jordan thompson//paris//2023.05.28,1
+genaro alberto olivieri//andrea vavassori//paris//2023.05.28,0
 sebastian ofner//fabio fognini//paris//2023.05.28,0
 alexander zverev//frances tiafoe//paris//2023.05.28,0
 novak djokovic//marton fucsovics//paris//2023.05.28,0
-casper ruud//giulio zeppieri//paris//2023.05.28,0
-stefanos tsitsipas//roberto carballes baena//paris//2023.05.28,1
-holger rune//gael monfils//paris//2023.05.28,0
+casper ruud//giulio zeppieri//paris//2023.05.28,1
+stefanos tsitsipas//roberto carballes baena//paris//2023.05.28,0
+holger rune//gael monfils//paris//2023.05.28,1
 andrey rublev//corentin moutet//paris//2023.05.28,1
-daniel altmaier//jannik sinner//paris//2023.05.28,1
+daniel altmaier//jannik sinner//paris//2023.05.28,0
 taylor fritz//arthur rinderknech//paris//2023.05.28,0
-karen khachanov//radu albot//paris//2023.05.28,0
-hubert hurkacz//tallon griekspoor//paris//2023.05.28,1
+karen khachanov//radu albot//paris//2023.05.28,1
+hubert hurkacz//tallon griekspoor//paris//2023.05.28,0
 nicolas jarry//marcos giron//paris//2023.05.28,0
 borna coric//pedro cachin//paris//2023.05.28,0
-lorenzo musetti//alexander shevchenko//paris//2023.05.28,0
-tomas martin etcheverry//alex de minaur//paris//2023.05.28,1
-juan pablo varillas//roberto bautista agut//paris//2023.05.28,0
+lorenzo musetti//alexander shevchenko//paris//2023.05.28,1
+tomas martin etcheverry//alex de minaur//paris//2023.05.28,0
 alexander zverev//alex molcan//paris//2023.05.28,1
 francisco cerundolo//yannick hanfmann//paris//2023.05.28,1
 sebastian ofner//sebastian korda//paris//2023.05.28,1
@@ -5286,21 +5286,22 @@ denis shapovalov//matteo arnaldi//paris//2023.05.28,0
 yoshihito nishioka//max purcell//paris//2023.05.28,1
 grigor dimitrov//emil ruusuvuori//paris//2023.05.28,0
 alejandro davidovich fokina//luca van assche//paris//2023.05.28,1
-fabio fognini//jason kubler//paris//2023.05.28,0
+cameron norrie//lucas pouille//paris//2023.05.28,0
 marcos giron//jiri lehecka//paris//2023.05.28,0
-cameron norrie//lucas pouille//paris//2023.05.28,1
-yoshihito nishioka//thiago seyboth wild//paris//2023.05.28,1
-holger rune//francisco cerundolo//paris//2023.05.28,1
+nicolas jarry//tommy paul//paris//2023.05.28,1
+alexander zverev//grigor dimitrov//paris//2023.05.28,1
+emil ruusuvuori//gregoire barrere//paris//2023.05.28,1
+holger rune//francisco cerundolo//paris//2023.05.28,0
 arthur rinderknech//richard gasquet//paris//2023.05.28,0
 novak djokovic//casper ruud//paris//2023.05.28,0
-grigor dimitrov//daniel altmaier//paris//2023.05.28,0
-novak djokovic//karen khachanov//paris//2023.05.28,1
+grigor dimitrov//daniel altmaier//paris//2023.05.28,1
+novak djokovic//karen khachanov//paris//2023.05.28,0
 casper ruud//holger rune//paris//2023.05.28,0
 alexander zverev//tomas martin etcheverry//paris//2023.05.28,0
-novak djokovic//juan pablo varillas//paris//2023.05.28,0
+novak djokovic//juan pablo varillas//paris//2023.05.28,1
 casper ruud//nicolas jarry//paris//2023.05.28,1
-stefanos tsitsipas//sebastian ofner//paris//2023.05.28,1
-tomas martin etcheverry//borna coric//paris//2023.05.28,0
+stefanos tsitsipas//sebastian ofner//paris//2023.05.28,0
+tomas martin etcheverry//borna coric//paris//2023.05.28,1
 casper ruud//alexander zverev//paris//2023.05.28,1
 stefanos tsitsipas//diego schwartzman//paris//2023.05.28,1
 karen khachanov//lorenzo sonego//paris//2023.05.28,1
@@ -5309,48 +5310,47 @@ novak djokovic//alejandro davidovich fokina//paris//2023.05.28,1
 casper ruud//zhizhen zhang//paris//2023.05.28,1
 holger rune//genaro alberto olivieri//paris//2023.05.28,1
 lorenzo sonego//andrey rublev//paris//2023.05.28,1
-francisco cerundolo//taylor fritz//paris//2023.05.28,1
+francisco cerundolo//taylor fritz//paris//2023.05.28,0
 karen khachanov//thanasi kokkinakis//paris//2023.05.28,0
-juan pablo varillas//hubert hurkacz//paris//2023.05.28,0
+juan pablo varillas//hubert hurkacz//paris//2023.05.28,1
 thanasi kokkinakis//stan wawrinka//paris//2023.05.28,1
 lorenzo musetti//cameron norrie//paris//2023.05.28,1
-alexander zverev//grigor dimitrov//paris//2023.05.28,1
-emil ruusuvuori//gregoire barrere//paris//2023.05.28,1
+yoshihito nishioka//thiago seyboth wild//paris//2023.05.28,1
 frances tiafoe//aslan karatsev//paris//2023.05.28,0
-nicolas jarry//tommy paul//paris//2023.05.28,1
+juan pablo varillas//roberto bautista agut//paris//2023.05.28,1
 alejandro davidovich fokina//arthur fils//paris//2023.05.28,0
+lorenzo sonego//ben shelton//paris//2023.05.28,0
 andrea vavassori//miomir kecmanovic//paris//2023.05.28,0
 diego schwartzman//bernabe zapata miralles//paris//2023.05.28,0
 radu albot//patrick kypson//paris//2023.05.28,0
 daniel altmaier//marc-andrea huesler//paris//2023.05.28,0
-matteo arnaldi//daniel elahi galan//paris//2023.05.28,0
+matteo arnaldi//daniel elahi galan//paris//2023.05.28,1
 nuno borges//john isner//paris//2023.05.28,1
-pedro cachin//dominic thiem//paris//2023.05.28,1
+lorenzo sonego//ugo humbert//paris//2023.05.28,0
+roberto carballes baena//emilio nava//paris//2023.05.28,1
 tomas martin etcheverry//jack draper//paris//2023.05.28,0
 marton fucsovics//hugo grenier//paris//2023.05.28,1
-diego schwartzman//nuno borges//paris//2023.05.28,0
-marcos giron//hamad medjedovic//paris//2023.05.28,1
+marcos giron//hamad medjedovic//paris//2023.05.28,0
 yannick hanfmann//thiago monteiro//paris//2023.05.28,0
-nicolas jarry//hugo dellien//paris//2023.05.28,0
-aslan karatsev//alexei popyrin//paris//2023.05.28,1
-jason kubler//facundo diaz acosta//paris//2023.05.28,0
-alex molcan//hugo gaston//paris//2023.05.28,1
-gael monfils//sebastian baez//paris//2023.05.28,0
+nicolas jarry//hugo dellien//paris//2023.05.28,1
+aslan karatsev//alexei popyrin//paris//2023.05.28,0
+jason kubler//facundo diaz acosta//paris//2023.05.28,1
+alex molcan//hugo gaston//paris//2023.05.28,0
+gael monfils//sebastian baez//paris//2023.05.28,1
+corentin moutet//arthur cazaux//paris//2023.05.28,1
 sebastian ofner//maxime cressy//paris//2023.05.28,1
-genaro alberto olivieri//giovanni mpetshi perricard//paris//2023.05.28,1
 guido pella//quentin halys//paris//2023.05.28,1
-grigor dimitrov//timofey skatov//paris//2023.05.28,1
+grigor dimitrov//timofey skatov//paris//2023.05.28,0
 yoshihito nishioka//j.j. wolf//paris//2023.05.28,0
-lorenzo sonego//ugo humbert//paris//2023.05.28,0
-lorenzo sonego//ben shelton//paris//2023.05.28,1
-ugo humbert//adrian mannarino//paris//2023.05.28,0
-roberto carballes baena//emilio nava//paris//2023.05.28,0
-denis shapovalov//brandon nakashima//paris//2023.05.28,1
+ugo humbert//adrian mannarino//paris//2023.05.28,1
+thiago agustin tirante//botic van de zandschulp//paris//2023.05.28,0
+pedro cachin//dominic thiem//paris//2023.05.28,0
+thiago seyboth wild//guido pella//paris//2023.05.28,1
 zhizhen zhang//thiago agustin tirante//paris//2023.05.28,1
 thiago seyboth wild//daniil medvedev//paris//2023.05.28,0
 novak djokovic//aleksandar kovacevic//paris//2023.05.28,1
 stefanos tsitsipas//jiri vesely//paris//2023.05.28,1
-thiago agustin tirante//botic van de zandschulp//paris//2023.05.28,1
+denis shapovalov//brandon nakashima//paris//2023.05.28,1
 andrey rublev//laslo djere//paris//2023.05.28,0
 jannik sinner//alexandre muller//paris//2023.05.28,1
 taylor fritz//michael mmoh//paris//2023.05.28,0
@@ -5358,38 +5358,38 @@ fabio fognini//felix auger-aliassime//paris//2023.05.28,1
 karen khachanov//constant lestienne//paris//2023.05.28,0
 casper ruud//elias ymer//paris//2023.05.28,1
 hubert hurkacz//david goffin//paris//2023.05.28,1
-frances tiafoe//filip krajinovic//paris//2023.05.28,1
-holger rune//christopher eubanks//paris//2023.05.28,0
+holger rune//christopher eubanks//paris//2023.05.28,1
+borna coric//federico coria//paris//2023.05.28,0
 cameron norrie//benoit paire//paris//2023.05.28,0
-alexander zverev//lloyd harris//paris//2023.05.28,0
-thanasi kokkinakis//daniel evans//paris//2023.05.28,0
-roberto bautista agut//yibing wu//paris//2023.05.28,1
+tommy paul//dominic stricker//paris//2023.05.28,0
+lorenzo musetti//mikael ymer//paris//2023.05.28,0
+genaro alberto olivieri//giovanni mpetshi perricard//paris//2023.05.28,1
 jiri lehecka//jan-lennard struff//paris//2023.05.28,1
 alex de minaur//ilya ivashka//paris//2023.05.28,0
-lorenzo musetti//mikael ymer//paris//2023.05.28,0
-tommy paul//dominic stricker//paris//2023.05.28,0
-borna coric//federico coria//paris//2023.05.28,0
-corentin moutet//arthur cazaux//paris//2023.05.28,0
+thanasi kokkinakis//daniel evans//paris//2023.05.28,0
+alexander zverev//lloyd harris//paris//2023.05.28,0
 francisco cerundolo//jaume munar//paris//2023.05.28,0
-thiago seyboth wild//guido pella//paris//2023.05.28,1
+frances tiafoe//filip krajinovic//paris//2023.05.28,0
+roberto bautista agut//yibing wu//paris//2023.05.28,0
+sebastian korda//mackenzie mcdonald//paris//2023.05.28,1
 alexander zverev//alex molcan//hamburg//2023.07.24,0
 yannick hanfmann//francisco cerundolo//hamburg//2023.07.24,0
 laslo djere//tomas martin etcheverry//hamburg//2023.07.24,0
-alexander zverev//maximilian marterer//hamburg//2023.07.24,1
-dusan lajovic//miomir kecmanovic//hamburg//2023.07.24,0
+alejandro davidovich fokina//pedro cachin//hamburg//2023.07.24,1
+andrey rublev//bernabe zapata miralles//hamburg//2023.07.24,0
 daniel altmaier//richard gasquet//hamburg//2023.07.24,1
 lorenzo musetti//elias ymer//hamburg//2023.07.24,1
 cristian garin//hugo dellien//hamburg//2023.07.24,0
-alejandro davidovich fokina//pedro cachin//hamburg//2023.07.24,1
+dusan lajovic//miomir kecmanovic//hamburg//2023.07.24,1
 jozef kovalik//thiago seyboth wild//hamburg//2023.07.24,0
-zhizhen zhang//daniel altmaier//hamburg//2023.07.24,1
-andrey rublev//bernabe zapata miralles//hamburg//2023.07.24,0
-casper ruud//cristian garin//hamburg//2023.07.24,0
 daniel altmaier//andrey rublev//hamburg//2023.07.24,1
+zhizhen zhang//yannick hanfmann//hamburg//2023.07.24,0
+arthur fils//dusan lajovic//hamburg//2023.07.24,0
+luca van assche//alejandro davidovich fokina//hamburg//2023.07.24,1
+alexander zverev//maximilian marterer//hamburg//2023.07.24,0
 lorenzo musetti//jozef kovalik//hamburg//2023.07.24,0
-luca van assche//alejandro davidovich fokina//hamburg//2023.07.24,0
-arthur fils//dusan lajovic//hamburg//2023.07.24,1
-zhizhen zhang//yannick hanfmann//hamburg//2023.07.24,1
+casper ruud//cristian garin//hamburg//2023.07.24,1
+zhizhen zhang//daniel altmaier//hamburg//2023.07.24,1
 laslo djere//lorenzo musetti//hamburg//2023.07.24,0
 casper ruud//sebastian baez//hamburg//2023.07.24,1
 alexander zverev//luca van assche//hamburg//2023.07.24,0
@@ -5397,36 +5397,36 @@ laslo djere//guido pella//hamburg//2023.07.24,1
 arthur fils//casper ruud//hamburg//2023.07.24,1
 arthur fils//daniel elahi galan//hamburg//2023.07.24,1
 zhizhen zhang//jan choinski//hamburg//2023.07.24,0
-maximilian marterer//rudolf molleker//hamburg//2023.07.24,0
+guido pella//thiago monteiro//hamburg//2023.07.24,0
 alexander zverev//laslo djere//hamburg//2023.07.24,0
 alexander zverev//arthur fils//hamburg//2023.07.24,0
-guido pella//thiago monteiro//hamburg//2023.07.24,0
+maximilian marterer//rudolf molleker//hamburg//2023.07.24,0
 luca van assche//alexandre muller//hamburg//2023.07.24,1
 laslo djere//zhizhen zhang//hamburg//2023.07.24,0
-thiago seyboth wild//dennis novak//kitzbuhel//2023.07.31,1
-sebastian baez//tomas martin etcheverry//kitzbuhel//2023.07.31,1
+laslo djere//pedro cachin//kitzbuhel//2023.07.31,1
+sebastian baez//dominic thiem//kitzbuhel//2023.07.31,1
 dominic thiem//laslo djere//kitzbuhel//2023.07.31,1
-laslo djere//pedro cachin//kitzbuhel//2023.07.31,0
-arthur rinderknech//juan manuel cerundolo//kitzbuhel//2023.07.31,1
-dominic thiem//facundo bagnis//kitzbuhel//2023.07.31,0
+sebastian baez//tomas martin etcheverry//kitzbuhel//2023.07.31,0
+dominic thiem//facundo bagnis//kitzbuhel//2023.07.31,1
 albert ramos-vinolas//juan pablo varillas//kitzbuhel//2023.07.31,0
-sebastian baez//dominic thiem//kitzbuhel//2023.07.31,0
-tomas martin etcheverry//daniel elahi galan//kitzbuhel//2023.07.31,0
-sebastian baez//roberto carballes baena//kitzbuhel//2023.07.31,1
-sebastian baez//hamad medjedovic//kitzbuhel//2023.07.31,0
-sebastian baez//alex molcan//kitzbuhel//2023.07.31,1
-dominic thiem//arthur rinderknech//kitzbuhel//2023.07.31,1
-tomas martin etcheverry//guido andreozzi//kitzbuhel//2023.07.31,0
-arthur rinderknech//yannick hanfmann//kitzbuhel//2023.07.31,1
-pedro cachin//albert ramos-vinolas//kitzbuhel//2023.07.31,1
-laslo djere//thiago seyboth wild//kitzbuhel//2023.07.31,1
 alex molcan//sebastian ofner//kitzbuhel//2023.07.31,0
-daniel elahi galan//daniel altmaier//kitzbuhel//2023.07.31,1
-dominic thiem//zhizhen zhang//kitzbuhel//2023.07.31,0
+thiago seyboth wild//dennis novak//kitzbuhel//2023.07.31,0
+daniel elahi galan//daniel altmaier//kitzbuhel//2023.07.31,0
+pedro cachin//albert ramos-vinolas//kitzbuhel//2023.07.31,1
+arthur rinderknech//yannick hanfmann//kitzbuhel//2023.07.31,0
+sebastian baez//hamad medjedovic//kitzbuhel//2023.07.31,1
+dominic thiem//arthur rinderknech//kitzbuhel//2023.07.31,1
+sebastian baez//alex molcan//kitzbuhel//2023.07.31,0
+alex molcan//luca van assche//kitzbuhel//2023.07.31,1
+tomas martin etcheverry//guido andreozzi//kitzbuhel//2023.07.31,1
+sebastian baez//roberto carballes baena//kitzbuhel//2023.07.31,1
+laslo djere//thiago seyboth wild//kitzbuhel//2023.07.31,0
+dominic thiem//zhizhen zhang//kitzbuhel//2023.07.31,1
 zhizhen zhang//dusan lajovic//kitzbuhel//2023.07.31,0
 daniel altmaier//marc-andrea huesler//kitzbuhel//2023.07.31,0
 guido andreozzi//filip misolic//kitzbuhel//2023.07.31,0
-alex molcan//luca van assche//kitzbuhel//2023.07.31,1
+tomas martin etcheverry//daniel elahi galan//kitzbuhel//2023.07.31,0
+arthur rinderknech//juan manuel cerundolo//kitzbuhel//2023.07.31,1
 daniel elahi galan//marco cecchinato//kitzbuhel//2023.07.31,1
 roberto carballes baena//guido pella//kitzbuhel//2023.07.31,1
 jordan thompson//john isner//cincinnati//2023.08.13,0
@@ -5435,55 +5435,55 @@ lorenzo sonego//alexander shevchenko//cincinnati//2023.08.13,0
 ben shelton//christopher eubanks//cincinnati//2023.08.13,1
 emil ruusuvuori//corentin moutet//cincinnati//2023.08.13,0
 max purcell//lloyd harris//cincinnati//2023.08.13,0
-dusan lajovic//francisco cerundolo//cincinnati//2023.08.13,0
-lorenzo musetti//daniel evans//cincinnati//2023.08.13,0
-adrian mannarino//richard gasquet//cincinnati//2023.08.13,1
-nicolas jarry//roman safiullin//cincinnati//2023.08.13,0
-hubert hurkacz//thanasi kokkinakis//cincinnati//2023.08.13,1
-mackenzie mcdonald//yannick hanfmann//cincinnati//2023.08.13,1
-yoshihito nishioka//gregoire barrere//cincinnati//2023.08.13,1
-alex de minaur//j.j. wolf//cincinnati//2023.08.13,0
 alexei popyrin//daniel altmaier//cincinnati//2023.08.13,0
+yoshihito nishioka//gregoire barrere//cincinnati//2023.08.13,0
+lorenzo musetti//daniel evans//cincinnati//2023.08.13,1
+adrian mannarino//richard gasquet//cincinnati//2023.08.13,0
+dusan lajovic//francisco cerundolo//cincinnati//2023.08.13,1
+nicolas jarry//roman safiullin//cincinnati//2023.08.13,1
+hubert hurkacz//thanasi kokkinakis//cincinnati//2023.08.13,1
+mackenzie mcdonald//yannick hanfmann//cincinnati//2023.08.13,0
+ugo humbert//arthur fils//cincinnati//2023.08.13,0
 alejandro davidovich fokina//tomas martin etcheverry//cincinnati//2023.08.13,0
-ugo humbert//arthur fils//cincinnati//2023.08.13,1
-borna coric//sebastian korda//cincinnati//2023.08.13,0
-alexander zverev//daniil medvedev//cincinnati//2023.08.13,0
-novak djokovic//gael monfils//cincinnati//2023.08.13,1
-carlos alcaraz//jordan thompson//cincinnati//2023.08.13,0
-max purcell//stan wawrinka//cincinnati//2023.08.13,1
+alex de minaur//j.j. wolf//cincinnati//2023.08.13,1
+novak djokovic//gael monfils//cincinnati//2023.08.13,0
+tommy paul//ugo humbert//cincinnati//2023.08.13,0
+stefanos tsitsipas//ben shelton//cincinnati//2023.08.13,1
+max purcell//stan wawrinka//cincinnati//2023.08.13,0
 alexei popyrin//emil ruusuvuori//cincinnati//2023.08.13,1
+adrian mannarino//mackenzie mcdonald//cincinnati//2023.08.13,1
 taylor fritz//dusan lajovic//cincinnati//2023.08.13,1
 hubert hurkacz//stefanos tsitsipas//cincinnati//2023.08.13,0
-stefanos tsitsipas//ben shelton//cincinnati//2023.08.13,0
-daniil medvedev//lorenzo musetti//cincinnati//2023.08.13,1
-carlos alcaraz//tommy paul//cincinnati//2023.08.13,1
-alexander zverev//adrian mannarino//cincinnati//2023.08.13,0
+daniil medvedev//lorenzo musetti//cincinnati//2023.08.13,0
+alexander zverev//daniil medvedev//cincinnati//2023.08.13,1
+carlos alcaraz//jordan thompson//cincinnati//2023.08.13,1
+hubert hurkacz//alexei popyrin//cincinnati//2023.08.13,0
 carlos alcaraz//max purcell//cincinnati//2023.08.13,0
 novak djokovic//alexander zverev//cincinnati//2023.08.13,1
 carlos alcaraz//hubert hurkacz//cincinnati//2023.08.13,1
 novak djokovic//carlos alcaraz//cincinnati//2023.08.13,1
+borna coric//sebastian korda//cincinnati//2023.08.13,0
+carlos alcaraz//tommy paul//cincinnati//2023.08.13,1
 novak djokovic//taylor fritz//cincinnati//2023.08.13,0
-adrian mannarino//mackenzie mcdonald//cincinnati//2023.08.13,1
-felix auger-aliassime//matteo berrettini//cincinnati//2023.08.13,0
-hubert hurkacz//alexei popyrin//cincinnati//2023.08.13,1
+alexander zverev//adrian mannarino//cincinnati//2023.08.13,1
 max purcell//casper ruud//cincinnati//2023.08.13,0
-novak djokovic//alejandro davidovich fokina//cincinnati//2023.08.13,1
+alexander zverev//yoshihito nishioka//cincinnati//2023.08.13,1
 tommy paul//miomir kecmanovic//cincinnati//2023.08.13,0
 gael monfils//cameron norrie//cincinnati//2023.08.13,0
-taylor fritz//jiri lehecka//cincinnati//2023.08.13,0
+frances tiafoe//tallon griekspoor//cincinnati//2023.08.13,0
 alexei popyrin//nicolas jarry//cincinnati//2023.08.13,0
 gael monfils//alex de minaur//cincinnati//2023.08.13,0
-alexander zverev//yoshihito nishioka//cincinnati//2023.08.13,0
-tommy paul//ugo humbert//cincinnati//2023.08.13,1
-frances tiafoe//tallon griekspoor//cincinnati//2023.08.13,1
+felix auger-aliassime//matteo berrettini//cincinnati//2023.08.13,0
 adrian mannarino//felix auger-aliassime//cincinnati//2023.08.13,1
-stan wawrinka//frances tiafoe//cincinnati//2023.08.13,0
+taylor fritz//jiri lehecka//cincinnati//2023.08.13,1
+stan wawrinka//frances tiafoe//cincinnati//2023.08.13,1
 taylor fritz//lorenzo sonego//cincinnati//2023.08.13,0
-dusan lajovic//jannik sinner//cincinnati//2023.08.13,1
-emil ruusuvuori//andrey rublev//cincinnati//2023.08.13,0
-alexander zverev//grigor dimitrov//cincinnati//2023.08.13,0
-hubert hurkacz//borna coric//cincinnati//2023.08.13,1
-mackenzie mcdonald//holger rune//cincinnati//2023.08.13,1
+dusan lajovic//jannik sinner//cincinnati//2023.08.13,0
+alexander zverev//grigor dimitrov//cincinnati//2023.08.13,1
+hubert hurkacz//borna coric//cincinnati//2023.08.13,0
+mackenzie mcdonald//holger rune//cincinnati//2023.08.13,0
+emil ruusuvuori//andrey rublev//cincinnati//2023.08.13,1
+novak djokovic//alejandro davidovich fokina//cincinnati//2023.08.13,1
 dominic stricker//alexei popyrin//new york//2023.08.28,1
 jiri vesely//enzo couacaud//new york//2023.08.28,1
 stan wawrinka//yoshihito nishioka//new york//2023.08.28,1
@@ -5492,63 +5492,63 @@ bernabe zapata miralles//ethan quinn//new york//2023.08.28,1
 zhizhen zhang//j.j. wolf//new york//2023.08.28,0
 juan pablo varillas//miomir kecmanovic//new york//2023.08.28,0
 botic van de zandschulp//jordan thompson//new york//2023.08.28,0
-stan wawrinka//tomas martin etcheverry//new york//2023.08.28,0
+alexander zverev//grigor dimitrov//new york//2023.08.28,0
 jakub mensik//titouan droguet//new york//2023.08.28,1
-borna gojo//mackenzie mcdonald//new york//2023.08.28,0
-rinky hijikata//marton fucsovics//new york//2023.08.28,0
+ben shelton//aslan karatsev//new york//2023.08.28,0
 dominic stricker//benjamin bonzi//new york//2023.08.28,0
 carlos alcaraz//lloyd harris//new york//2023.08.28,0
-novak djokovic//bernabe zapata miralles//new york//2023.08.28,1
-zhizhen zhang//casper ruud//new york//2023.08.28,0
-jannik sinner//lorenzo sonego//new york//2023.08.28,1
+novak djokovic//bernabe zapata miralles//new york//2023.08.28,0
+zhizhen zhang//casper ruud//new york//2023.08.28,1
+jannik sinner//lorenzo sonego//new york//2023.08.28,0
 dominic stricker//stefanos tsitsipas//new york//2023.08.28,1
-andrey rublev//gael monfils//new york//2023.08.28,0
-taylor fritz//juan pablo varillas//new york//2023.08.28,1
-alex de minaur//yibing wu//new york//2023.08.28,0
+andrey rublev//gael monfils//new york//2023.08.28,1
+taylor fritz//juan pablo varillas//new york//2023.08.28,0
 alexander zverev//daniel altmaier//new york//2023.08.28,1
+rinky hijikata//marton fucsovics//new york//2023.08.28,0
+borna gojo//mackenzie mcdonald//new york//2023.08.28,1
 rinky hijikata//zhizhen zhang//new york//2023.08.28,1
-tommy paul//roman safiullin//new york//2023.08.28,1
+jack draper//hubert hurkacz//new york//2023.08.28,1
 grigor dimitrov//andy murray//new york//2023.08.28,0
 jiri vesely//francisco cerundolo//new york//2023.08.28,0
 alejandro davidovich fokina//juan manuel cerundolo//new york//2023.08.28,0
 adrian mannarino//fabian marozsan//new york//2023.08.28,0
 nicolas jarry//alex michelsen//new york//2023.08.28,1
 benjamin bonzi//christopher eubanks//new york//2023.08.28,0
-ben shelton//aslan karatsev//new york//2023.08.28,1
+stan wawrinka//tomas martin etcheverry//new york//2023.08.28,1
 laslo djere//hugo gaston//new york//2023.08.28,1
 matteo arnaldi//arthur fils//new york//2023.08.28,1
 sebastian baez//felipe meligeni alves//new york//2023.08.28,1
 cameron norrie//yu hsiou hsu//new york//2023.08.28,1
+tommy paul//roman safiullin//new york//2023.08.28,1
 borna gojo//jiri vesely//new york//2023.08.28,1
-jack draper//hubert hurkacz//new york//2023.08.28,1
-matteo arnaldi//cameron norrie//new york//2023.08.28,1
-lorenzo sonego//nicolas moreno de alboran//new york//2023.08.28,1
-alexander zverev//jannik sinner//new york//2023.08.28,1
+alex de minaur//yibing wu//new york//2023.08.28,1
+andrey rublev//jack draper//new york//2023.08.28,1
 daniil medvedev//alex de minaur//new york//2023.08.28,1
-novak djokovic//borna gojo//new york//2023.08.28,0
-carlos alcaraz//matteo arnaldi//new york//2023.08.28,1
-ben shelton//frances tiafoe//new york//2023.08.28,0
+novak djokovic//borna gojo//new york//2023.08.28,1
+carlos alcaraz//matteo arnaldi//new york//2023.08.28,0
+ben shelton//frances tiafoe//new york//2023.08.28,1
+daniil medvedev//andrey rublev//new york//2023.08.28,0
 carlos alcaraz//alexander zverev//new york//2023.08.28,0
-novak djokovic//taylor fritz//new york//2023.08.28,1
 novak djokovic//ben shelton//new york//2023.08.28,1
 daniil medvedev//carlos alcaraz//new york//2023.08.28,1
+alexander zverev//jannik sinner//new york//2023.08.28,1
+novak djokovic//daniil medvedev//new york//2023.08.28,1
+novak djokovic//taylor fritz//new york//2023.08.28,0
+matteo arnaldi//cameron norrie//new york//2023.08.28,0
 jack draper//michael mmoh//new york//2023.08.28,1
-novak djokovic//daniil medvedev//new york//2023.08.28,0
 frances tiafoe//rinky hijikata//new york//2023.08.28,0
-daniil medvedev//andrey rublev//new york//2023.08.28,1
-taylor fritz//jakub mensik//new york//2023.08.28,0
 ben shelton//tommy paul//new york//2023.08.28,1
 carlos alcaraz//daniel evans//new york//2023.08.28,1
 novak djokovic//laslo djere//new york//2023.08.28,1
 daniil medvedev//sebastian baez//new york//2023.08.28,0
 jannik sinner//stan wawrinka//new york//2023.08.28,0
 andrey rublev//arthur rinderknech//new york//2023.08.28,0
+frances tiafoe//adrian mannarino//new york//2023.08.28,1
+alex de minaur//nicolas jarry//new york//2023.08.28,0
+tommy paul//alejandro davidovich fokina//new york//2023.08.28,1
 taylor fritz//dominic stricker//new york//2023.08.28,1
-frances tiafoe//adrian mannarino//new york//2023.08.28,0
-alexander zverev//grigor dimitrov//new york//2023.08.28,1
-alex de minaur//nicolas jarry//new york//2023.08.28,1
-tommy paul//alejandro davidovich fokina//new york//2023.08.28,0
-andrey rublev//jack draper//new york//2023.08.28,1
+lorenzo sonego//nicolas moreno de alboran//new york//2023.08.28,0
+taylor fritz//jakub mensik//new york//2023.08.28,1
 frances tiafoe//sebastian ofner//new york//2023.08.28,1
 daniel evans//botic van de zandschulp//new york//2023.08.28,1
 christopher eubanks//soonwoo kwon//new york//2023.08.28,1
@@ -5558,7 +5558,7 @@ marton fucsovics//sebastian korda//new york//2023.08.28,1
 laslo djere//brandon nakashima//new york//2023.08.28,1
 daniel altmaier//constant lestienne//new york//2023.08.28,0
 matteo arnaldi//jason kubler//new york//2023.08.28,1
-alexander zverev//aleksandar vukic//new york//2023.08.28,1
+aslan karatsev//roberto carballes baena//new york//2023.08.28,1
 juan manuel cerundolo//ilya ivashka//new york//2023.08.28,0
 jack draper//radu albot//new york//2023.08.28,1
 hugo gaston//sho shimabukuro//new york//2023.08.28,0
@@ -5567,7 +5567,7 @@ lloyd harris//guido pella//new york//2023.08.28,0
 rinky hijikata//pavel kotov//new york//2023.08.28,1
 yu hsiou hsu//thanasi kokkinakis//new york//2023.08.28,0
 john isner//facundo diaz acosta//new york//2023.08.28,0
-aslan karatsev//roberto carballes baena//new york//2023.08.28,1
+ben shelton//pedro cachin//new york//2023.08.28,1
 fabian marozsan//richard gasquet//new york//2023.08.28,1
 felipe meligeni alves//james duckworth//new york//2023.08.28,0
 jakub mensik//gregoire barrere//new york//2023.08.28,1
@@ -5581,7 +5581,7 @@ sebastian baez//borna coric//new york//2023.08.28,1
 daniel evans//daniel elahi galan//new york//2023.08.28,0
 aslan karatsev//jiri lehecka//new york//2023.08.28,0
 benjamin bonzi//quentin halys//new york//2023.08.28,0
-ben shelton//pedro cachin//new york//2023.08.28,0
+alexander zverev//aleksandar vukic//new york//2023.08.28,0
 michael mmoh//john isner//new york//2023.08.28,1
 arthur rinderknech//matteo berrettini//new york//2023.08.28,0
 ben shelton//dominic thiem//new york//2023.08.28,0
@@ -5597,8 +5597,8 @@ frances tiafoe//learner tien//new york//2023.08.28,1
 dominic thiem//alexander bublik//new york//2023.08.28,0
 novak djokovic//alexandre muller//new york//2023.08.28,0
 nicolas jarry//luca van assche//new york//2023.08.28,0
-alex de minaur//timofey skatov//new york//2023.08.28,1
-daniil medvedev//attila balazs//new york//2023.08.28,0
+daniil medvedev//attila balazs//new york//2023.08.28,1
+alex de minaur//timofey skatov//new york//2023.08.28,0
 tommy paul//stefano travaglia//new york//2023.08.28,0
 cameron norrie//alexander shevchenko//new york//2023.08.28,0
 hubert hurkacz//marc-andrea huesler//new york//2023.08.28,0
@@ -5610,25 +5610,25 @@ adrian mannarino//yosuke watanuki//new york//2023.08.28,1
 michael mmoh//karen khachanov//new york//2023.08.28,1
 titouan droguet//lorenzo musetti//new york//2023.08.28,0
 maximilian marterer//hugo gaston//antwerp//2023.10.16,1
-alexander bublik//arthur fils//antwerp//2023.10.16,1
-arthur fils//stefanos tsitsipas//antwerp//2023.10.16,0
+arthur fils//juan pablo varillas//antwerp//2023.10.16,1
+stefanos tsitsipas//yannick hanfmann//antwerp//2023.10.16,0
 alexander bublik//maximilian marterer//antwerp//2023.10.16,1
 stefanos tsitsipas//botic van de zandschulp//antwerp//2023.10.16,0
 alexander bublik//giovanni mpetshi perricard//antwerp//2023.10.16,1
 hugo gaston//jan-lennard struff//antwerp//2023.10.16,0
 arthur fils//mark lajal//antwerp//2023.10.16,1
 alexander shevchenko//benjamin bonzi//antwerp//2023.10.16,0
-stefanos tsitsipas//yannick hanfmann//antwerp//2023.10.16,0
-mark lajal//jaume munar//antwerp//2023.10.16,1
-arthur fils//juan pablo varillas//antwerp//2023.10.16,0
+arthur fils//stefanos tsitsipas//antwerp//2023.10.16,0
+david goffin//quentin halys//antwerp//2023.10.16,1
+alexander bublik//arthur fils//antwerp//2023.10.16,0
 juan pablo varillas//fabian marozsan//antwerp//2023.10.16,0
 hugo gaston//arthur rinderknech//antwerp//2023.10.16,1
-david goffin//quentin halys//antwerp//2023.10.16,0
 alexander bublik//gregoire barrere//antwerp//2023.10.16,0
-nuno borges//dominik koepfer//antwerp//2023.10.16,1
+nuno borges//dominik koepfer//antwerp//2023.10.16,0
 botic van de zandschulp//dominic stricker//antwerp//2023.10.16,1
 gregoire barrere//daniel elahi galan//antwerp//2023.10.16,1
 giovanni mpetshi perricard//david goffin//antwerp//2023.10.16,1
+mark lajal//jaume munar//antwerp//2023.10.16,1
 giovanni mpetshi perricard//roberto carballes baena//antwerp//2023.10.16,1
 yannick hanfmann//alexander blockx//antwerp//2023.10.16,1
 maximilian marterer//nuno borges//antwerp//2023.10.16,0
@@ -6558,15 +6558,15 @@ tommy paul//christopher o'connell//paris//2021.05.30,0
 matteo berrettini//roger federer//paris//2021.05.30,0
 james duckworth//luke saville//stuttgart//2021.06.08,0
 peter gojowczyk//sergiy stakhovsky//stuttgart//2021.06.08,0
-gregoire barrere//marcos giron//stuttgart//2021.06.08,1
+radu albot//emil ruusuvuori//stuttgart//2021.06.08,1
 james duckworth//ilya ivashka//stuttgart//2021.06.08,0
-altug celikbilek//dennis novak//stuttgart//2021.06.08,0
+gregoire barrere//marcos giron//stuttgart//2021.06.08,0
 peter gojowczyk//gregoire barrere//stuttgart//2021.06.08,1
 ilya ivashka//daniel masur//stuttgart//2021.06.08,1
 radu albot//christopher o'connell//stuttgart//2021.06.08,0
 altug celikbilek//lucas pouille//stuttgart//2021.06.08,0
 dennis novak//jiri vesely//stuttgart//2021.06.08,1
-radu albot//emil ruusuvuori//stuttgart//2021.06.08,1
+altug celikbilek//dennis novak//stuttgart//2021.06.08,1
 emil ruusuvuori//joao sousa//stuttgart//2021.06.08,1
 arthur rinderknech//sergiy stakhovsky//halle//2021.06.14,1
 illya marchenko//james ward//london//2021.06.14,1
@@ -7213,7 +7213,7 @@ altug celikbilek//norbert gombos//melbourne//2022.01.04,1
 maxime cressy//andrea vavassori//melbourne//2022.01.04,1
 sebastian baez//marc polmans//melbourne//2022.01.04,0
 ricardas berankis//tomas martin etcheverry//melbourne//2022.01.04,1
-steve johnson//thiago monteiro//adelaide//2022.01.10,0
+luke saville//thomas fancutt//adelaide//2022.01.10,0
 aleksandar vukic//steve johnson//adelaide//2022.01.10,0
 arthur rinderknech//corentin moutet//adelaide//2022.01.10,1
 thanasi kokkinakis//arthur rinderknech//adelaide//2022.01.10,0
@@ -7242,14 +7242,14 @@ steve johnson//oscar otte//adelaide//2022.01.10,1
 yoshihito nishioka//aaron addison//adelaide//2022.01.10,0
 steve johnson//alex bolt//adelaide//2022.01.10,1
 roberto carballes baena//john-patrick smith//adelaide//2022.01.10,0
-egor gerasimov//hugo nys//adelaide//2022.01.10,0
+steve johnson//thiago monteiro//adelaide//2022.01.10,0
 yoshihito nishioka//luke saville//adelaide//2022.01.10,0
 corentin moutet//roberto carballes baena//adelaide//2022.01.10,0
 thanasi kokkinakis//benoit paire//adelaide//2022.01.10,0
 jaume munar//john millman//adelaide//2022.01.10,0
 corentin moutet//jan-lennard struff//adelaide//2022.01.10,0
 thiago monteiro//yoshihito nishioka//adelaide//2022.01.10,1
-luke saville//thomas fancutt//adelaide//2022.01.10,0
+egor gerasimov//hugo nys//adelaide//2022.01.10,0
 marin cilic//jaume munar//adelaide//2022.01.10,1
 corentin moutet//marton fucsovics//adelaide//2022.01.10,1
 harri heliovaara//rubin statham//sydney//2022.01.10,1
@@ -7991,9 +7991,9 @@ bernabe zapata miralles//dudi sela//paris//2022.05.22,0
 ramkumar ramanathan//yannick hanfmann//paris//2022.05.22,1
 norbert gombos//constant lestienne//paris//2022.05.22,0
 chun-hsin tseng//arthur cazaux//paris//2022.05.22,0
-sebastian ofner//jay clarke//paris//2022.05.22,0
+juan pablo varillas//tung-lin wu//paris//2022.05.22,0
 nino serdarusic//stefan kozlov//paris//2022.05.22,0
-daniel masur//jack sock//paris//2022.05.22,1
+sebastian ofner//jay clarke//paris//2022.05.22,1
 alessandro giannessi//mats moraing//paris//2022.05.22,0
 dimitar kuzmanov//marc-andrea huesler//paris//2022.05.22,0
 juan manuel cerundolo//luca van assche//paris//2022.05.22,1
@@ -8015,7 +8015,7 @@ timofey skatov//mitchell krueger//paris//2022.05.22,0
 duje ajdukovic//roman safiullin//paris//2022.05.22,0
 geoffrey blancaneaux//mirza basic//paris//2022.05.22,1
 gian marco moroni//feliciano lopez//paris//2022.05.22,1
-juan pablo varillas//tung-lin wu//paris//2022.05.22,1
+daniel masur//jack sock//paris//2022.05.22,1
 aljaz bedene//christopher o'connell//paris//2022.05.22,1
 felix auger-aliassime//juan pablo varillas//paris//2022.05.22,0
 gilles simon//goncalo oliveira//s hertogenbosch//2022.06.06,1
@@ -8680,9 +8680,9 @@ laslo djere//taro daniel//basel//2022.10.24,0
 laslo djere//jerome kym//basel//2022.10.24,0
 ugo humbert//bernabe zapata miralles//basel//2022.10.24,0
 constant lestienne//antoine bellier//basel//2022.10.24,0
-roman safiullin//jan-lennard struff//basel//2022.10.24,1
 taro daniel//pedro martinez//basel//2022.10.24,1
-jaume munar//alexei popyrin//basel//2022.10.24,0
+jaume munar//alexei popyrin//basel//2022.10.24,1
+roman safiullin//jan-lennard struff//basel//2022.10.24,0
 arthur rinderknech//constant lestienne//basel//2022.10.24,0
 ugo humbert//aslan karatsev//basel//2022.10.24,1
 roman safiullin//jaume munar//basel//2022.10.24,0
@@ -8720,18 +8720,18 @@ marc-andrea huesler//laslo djere//paris//2022.10.31,0
 fabio fognini//daniel elahi galan//paris//2022.10.31,0
 quentin halys//thiago monteiro//paris//2022.10.31,1
 alexei popyrin//zhizhen zhang//adelaide//2023.01.01,0
-miomir kecmanovic//christopher o'connell//adelaide//2023.01.01,1
 soonwoo kwon//taro daniel//adelaide//2023.01.01,1
-yibing wu//ugo humbert//adelaide//2023.01.01,0
+yibing wu//ugo humbert//adelaide//2023.01.01,1
 alexei popyrin//yibing wu//adelaide//2023.01.01,0
 soonwoo kwon//dominic thiem//adelaide//2023.01.01,0
-roman safiullin//yannick hanfmann//adelaide//2023.01.01,1
+roman safiullin//yannick hanfmann//adelaide//2023.01.01,0
 rinky hijikata//gregoire barrere//adelaide//2023.01.01,1
 taro daniel//edward winter//adelaide//2023.01.01,1
 james duckworth//ben shelton//adelaide//2023.01.01,1
 vasek pospisil//john millman//adelaide//2023.01.01,1
-roman safiullin//vasek pospisil//adelaide//2023.01.01,0
+roman safiullin//vasek pospisil//adelaide//2023.01.01,1
 rinky hijikata//james duckworth//adelaide//2023.01.01,0
+miomir kecmanovic//christopher o'connell//adelaide//2023.01.01,0
 alejandro davidovich fokina//john millman//adelaide//2023.01.09,0
 jack draper//tommy paul//adelaide//2023.01.09,0
 john millman//christopher o'connell//adelaide//2023.01.09,0
@@ -9041,8 +9041,8 @@ dimitar kuzmanov//luca nardi//banja luka//2023.04.17,0
 juan pablo varillas//hugo gaston//banja luka//2023.04.17,0
 elias ymer//nerman fatic//banja luka//2023.04.17,1
 elias ymer//francesco maestrelli//banja luka//2023.04.17,1
-radu albot//aldin setkic//banja luka//2023.04.17,0
-dino prizmic//liam broady//banja luka//2023.04.17,1
+dino prizmic//liam broady//banja luka//2023.04.17,0
+radu albot//aldin setkic//banja luka//2023.04.17,1
 liam broady//valentin vacherot//banja luka//2023.04.17,1
 abdullah shelbayh//fabian marozsan//banja luka//2023.04.17,0
 lukas klein//arthur cazaux//banja luka//2023.04.17,1
@@ -9087,35 +9087,35 @@ juan manuel cerundolo//jelle sels//rome//2023.05.10,0
 yannick hanfmann//hugo grenier//rome//2023.05.10,0
 fabian marozsan//felipe meligeni alves//rome//2023.05.10,0
 stefano napolitano//aleksandar kovacevic//rome//2023.05.10,1
-adrian andreev//juan pablo ficovich//paris//2023.05.28,0
+jesper de jong//norbert gombos//paris//2023.05.28,0
+flavio cobolli//lukas klein//paris//2023.05.28,0
 juncheng shang//fabian marozsan//paris//2023.05.28,0
-facundo diaz acosta//oleksii krutykh//paris//2023.05.28,0
-emilio nava//liam broady//paris//2023.05.28,0
+michael geerts//pavel kotov//paris//2023.05.28,0
+frederico ferreira silva//zizou bergs//paris//2023.05.28,0
 jurij rodionov//dennis novak//paris//2023.05.28,0
 andrea vavassori//filip misolic//paris//2023.05.28,0
-nicolas moreno de alboran//aleksandar vukic//paris//2023.05.28,0
-pedro martinez//dan added//paris//2023.05.28,1
+nicolas moreno de alboran//aleksandar vukic//paris//2023.05.28,1
+pedro martinez//dan added//paris//2023.05.28,0
 facundo bagnis//matteo gigante//paris//2023.05.28,0
-jesper de jong//norbert gombos//paris//2023.05.28,0
-flavio cobolli//lukas klein//paris//2023.05.28,1
-frederico ferreira silva//zizou bergs//paris//2023.05.28,1
-renzo olivo//andrea collarini//paris//2023.05.28,0
-geoffrey blancaneaux//riccardo bonadio//paris//2023.05.28,1
+emilio nava//liam broady//paris//2023.05.28,1
+facundo diaz acosta//oleksii krutykh//paris//2023.05.28,1
+genaro alberto olivieri//michael geerts//paris//2023.05.28,0
+thiago agustin tirante//gauthier onclin//paris//2023.05.28,1
+geoffrey blancaneaux//riccardo bonadio//paris//2023.05.28,0
 dominik koepfer//federico delbonis//paris//2023.05.28,0
-felipe meligeni alves//tomas barrios vera//paris//2023.05.28,0
-genaro alberto olivieri//michael geerts//paris//2023.05.28,1
-lucas pouille//chun-hsin tseng//paris//2023.05.28,1
-thiago seyboth wild//ricardas berankis//paris//2023.05.28,0
+felipe meligeni alves//tomas barrios vera//paris//2023.05.28,1
+renzo olivo//andrea collarini//paris//2023.05.28,1
+lucas pouille//chun-hsin tseng//paris//2023.05.28,0
+thiago seyboth wild//ricardas berankis//paris//2023.05.28,1
 camilo ugo carabelli//sascha gueymard wayenburg//paris//2023.05.28,1
 elias ymer//marc polmans//paris//2023.05.28,1
-yannick hanfmann//mattia bellucci//paris//2023.05.28,1
-giulio zeppieri//santiago rodriguez taverna//paris//2023.05.28,1
-borna gojo//damir dzumhur//paris//2023.05.28,1
 sebastian ofner//jan choinski//paris//2023.05.28,1
-thiago agustin tirante//gauthier onclin//paris//2023.05.28,1
+yannick hanfmann//mattia bellucci//paris//2023.05.28,1
+borna gojo//damir dzumhur//paris//2023.05.28,1
+adrian andreev//juan pablo ficovich//paris//2023.05.28,1
+sebastian ofner//facundo diaz acosta//paris//2023.05.28,0
 dominic stricker//dalibor svrcina//paris//2023.05.28,0
-flavio cobolli//laurent lokoli//paris//2023.05.28,0
-michael geerts//pavel kotov//paris//2023.05.28,0
+giulio zeppieri//santiago rodriguez taverna//paris//2023.05.28,0
 otto virtanen//antoine escoffier//paris//2023.05.28,1
 elias ymer//yannick hanfmann//paris//2023.05.28,0
 radu albot//camilo ugo carabelli//paris//2023.05.28,0
@@ -9123,11 +9123,11 @@ thiago agustin tirante//dominic stricker//paris//2023.05.28,0
 giulio zeppieri//frederico ferreira silva//paris//2023.05.28,1
 juan manuel cerundolo//zachary svajda//paris//2023.05.28,1
 pedro martinez//facundo bagnis//paris//2023.05.28,1
+flavio cobolli//laurent lokoli//paris//2023.05.28,1
 hamad medjedovic//jesper de jong//paris//2023.05.28,1
 emilio nava//geoffrey blancaneaux//paris//2023.05.28,1
-genaro alberto olivieri//adrian andreev//paris//2023.05.28,1
-thiago seyboth wild//dominik koepfer//paris//2023.05.28,0
-juncheng shang//renzo olivo//paris//2023.05.28,1
+genaro alberto olivieri//adrian andreev//paris//2023.05.28,0
+thiago seyboth wild//dominik koepfer//paris//2023.05.28,1
 timofey skatov//felipe meligeni alves//paris//2023.05.28,0
 andrea vavassori//alejandro tabilo//paris//2023.05.28,1
 yannick hanfmann//zdenek kolar//paris//2023.05.28,1
@@ -9141,7 +9141,7 @@ frederico ferreira silva//lorenzo giustino//paris//2023.05.28,0
 yosuke watanuki//andrea pellegrino//paris//2023.05.28,0
 matteo gigante//seongchan hong//paris//2023.05.28,1
 nick hardt//gabriel debru//paris//2023.05.28,1
-andrea collarini//joris de loore//paris//2023.05.28,0
+gauthier onclin//nicholas david ionel//paris//2023.05.28,0
 oleksii krutykh//alex bolt//paris//2023.05.28,1
 laurent lokoli//egor gerasimov//paris//2023.05.28,1
 hamad medjedovic//ivan gakhov//paris//2023.05.28,0
@@ -9149,136 +9149,136 @@ felipe meligeni alves//tung-lin wu//paris//2023.05.28,0
 nicolas moreno de alboran//yu hsiou hsu//paris//2023.05.28,0
 emilio nava//dimitar kuzmanov//paris//2023.05.28,0
 dennis novak//shintaro mochizuki//paris//2023.05.28,0
-genaro alberto olivieri//henri laaksonen//paris//2023.05.28,0
 zdenek kolar//terence atmane//paris//2023.05.28,0
+chun-hsin tseng//alexander ritschard//paris//2023.05.28,0
 camilo ugo carabelli//kaichi uchida//paris//2023.05.28,0
-marc polmans//harold mayot//paris//2023.05.28,0
-santiago rodriguez taverna//joao sousa//paris//2023.05.28,0
-thiago seyboth wild//antoine bellier//paris//2023.05.28,1
+alejandro tabilo//luca nardi//paris//2023.05.28,0
+dalibor svrcina//leandro riedi//paris//2023.05.28,0
+andrea vavassori//titouan droguet//paris//2023.05.28,1
 juncheng shang//pablo cuevas//paris//2023.05.28,0
 timofey skatov//gabriel diallo//paris//2023.05.28,1
-dalibor svrcina//leandro riedi//paris//2023.05.28,0
-alejandro tabilo//luca nardi//paris//2023.05.28,1
-chun-hsin tseng//alexander ritschard//paris//2023.05.28,1
-andrea vavassori//titouan droguet//paris//2023.05.28,1
-ryan peniston//altug celikbilek//paris//2023.05.28,0
+santiago rodriguez taverna//joao sousa//paris//2023.05.28,0
+marc polmans//harold mayot//paris//2023.05.28,1
+ryan peniston//altug celikbilek//paris//2023.05.28,1
+genaro alberto olivieri//henri laaksonen//paris//2023.05.28,1
+thiago seyboth wild//antoine bellier//paris//2023.05.28,0
+jesper de jong//maximilian neuchrist//paris//2023.05.28,0
 geoffrey blancaneaux//cem ilkel//paris//2023.05.28,0
-federico delbonis//nicolas mejia//paris//2023.05.28,0
-gauthier onclin//nicholas david ionel//paris//2023.05.28,1
-lucas pouille//tomas machac//paris//2023.05.28,0
-flavio cobolli//mathys erhard//paris//2023.05.28,0
-radu albot//vit kopriva//paris//2023.05.28,1
-dominic stricker//jelle sels//paris//2023.05.28,1
-renzo olivo//emilio gomez//paris//2023.05.28,0
-giulio zeppieri//nikoloz basilashvili//paris//2023.05.28,0
-dominik koepfer//zsombor piros//paris//2023.05.28,1
-sebastian ofner//rio noguchi//paris//2023.05.28,0
+federico delbonis//nicolas mejia//paris//2023.05.28,1
 facundo bagnis//luciano darderi//paris//2023.05.28,0
-elias ymer//francesco passaro//paris//2023.05.28,1
-aleksandar vukic//raphael collignon//paris//2023.05.28,1
-juan pablo ficovich//gijs brouwer//paris//2023.05.28,0
-filip misolic//enzo couacaud//paris//2023.05.28,0
-zizou bergs//steve johnson//paris//2023.05.28,1
-sebastian ofner//facundo diaz acosta//paris//2023.05.28,1
-jurij rodionov//brandon holt//paris//2023.05.28,0
-facundo diaz acosta//franco agamenone//paris//2023.05.28,0
-lukas klein//mariano navone//paris//2023.05.28,1
-sascha gueymard wayenburg//denis kudla//paris//2023.05.28,0
-liam broady//arthur gea//paris//2023.05.28,1
-thiago agustin tirante//rinky hijikata//paris//2023.05.28,0
+andrea collarini//joris de loore//paris//2023.05.28,0
+jan choinski//nicolas kicker//paris//2023.05.28,1
+radu albot//vit kopriva//paris//2023.05.28,1
+dominic stricker//jelle sels//paris//2023.05.28,0
+renzo olivo//emilio gomez//paris//2023.05.28,0
+giulio zeppieri//nikoloz basilashvili//paris//2023.05.28,1
+dominik koepfer//zsombor piros//paris//2023.05.28,0
+sebastian ofner//rio noguchi//paris//2023.05.28,0
+fabian marozsan//li tu//paris//2023.05.28,1
+lucas pouille//tomas machac//paris//2023.05.28,1
+elias ymer//francesco passaro//paris//2023.05.28,0
+aleksandar vukic//raphael collignon//paris//2023.05.28,0
+juan pablo ficovich//gijs brouwer//paris//2023.05.28,1
+juncheng shang//renzo olivo//paris//2023.05.28,1
+zizou bergs//steve johnson//paris//2023.05.28,0
+norbert gombos//antoine ghibaudo//paris//2023.05.28,0
+facundo diaz acosta//franco agamenone//paris//2023.05.28,1
+lukas klein//mariano navone//paris//2023.05.28,0
+sascha gueymard wayenburg//denis kudla//paris//2023.05.28,1
+liam broady//arthur gea//paris//2023.05.28,0
+thiago agustin tirante//rinky hijikata//paris//2023.05.28,1
 ricardas berankis//raul brancaccio//paris//2023.05.28,1
 tomas barrios vera//jozef kovalik//paris//2023.05.28,1
 pedro martinez//kimmer coppejans//paris//2023.05.28,1
 dan added//maximilian marterer//paris//2023.05.28,1
 adrian andreev//francesco maestrelli//paris//2023.05.28,1
-fabian marozsan//li tu//paris//2023.05.28,1
-jan choinski//nicolas kicker//paris//2023.05.28,0
-norbert gombos//antoine ghibaudo//paris//2023.05.28,1
-jesper de jong//maximilian neuchrist//paris//2023.05.28,0
+flavio cobolli//mathys erhard//paris//2023.05.28,0
+jurij rodionov//brandon holt//paris//2023.05.28,1
+filip misolic//enzo couacaud//paris//2023.05.28,0
 taro daniel//christopher o'connell//paris//2023.05.28,0
 cristian garin//kimmer coppejans//hamburg//2023.07.24,1
 daniel elahi galan//max hans rehberg//hamburg//2023.07.24,1
 elias ymer//ivan gakhov//hamburg//2023.07.24,0
 kimmer coppejans//thiago agustin tirante//hamburg//2023.07.24,1
-jozef kovalik//pavel kotov//hamburg//2023.07.24,1
-thiago seyboth wild//thiago monteiro//hamburg//2023.07.24,0
-elias ymer//jozef kovalik//hamburg//2023.07.24,1
-jan choinski//marvin moeller//hamburg//2023.07.24,1
-cristian garin//marko topo//hamburg//2023.07.24,1
-thiago seyboth wild//andrea collarini//hamburg//2023.07.24,1
 thiago monteiro//renzo olivo//hamburg//2023.07.24,1
+thiago seyboth wild//andrea collarini//hamburg//2023.07.24,0
+cristian garin//marko topo//hamburg//2023.07.24,1
+jozef kovalik//pavel kotov//hamburg//2023.07.24,1
+elias ymer//jozef kovalik//hamburg//2023.07.24,1
+thiago seyboth wild//thiago monteiro//hamburg//2023.07.24,1
+jan choinski//marvin moeller//hamburg//2023.07.24,1
 jan choinski//daniel elahi galan//hamburg//2023.07.24,0
 lukas neumayer//federico coria//kitzbuhel//2023.07.31,1
 juan manuel cerundolo//francesco maestrelli//kitzbuhel//2023.07.31,0
-hamad medjedovic//lukas neumayer//kitzbuhel//2023.07.31,1
-dennis novak//thiago monteiro//kitzbuhel//2023.07.31,0
+guido andreozzi//jesper de jong//kitzbuhel//2023.07.31,1
+hamad medjedovic//lukas neumayer//kitzbuhel//2023.07.31,0
 facundo bagnis//ivan gakhov//kitzbuhel//2023.07.31,1
 thiago monteiro//lukas rosol//kitzbuhel//2023.07.31,1
 facundo bagnis//maximilian neuchrist//kitzbuhel//2023.07.31,1
 hamad medjedovic//lucas miedler//kitzbuhel//2023.07.31,1
+ivan gakhov//kilian feldbausch//kitzbuhel//2023.07.31,0
 guido andreozzi//juan manuel cerundolo//kitzbuhel//2023.07.31,0
-dennis novak//joel josef schwärzler//kitzbuhel//2023.07.31,0
-ivan gakhov//kilian feldbausch//kitzbuhel//2023.07.31,1
-guido andreozzi//jesper de jong//kitzbuhel//2023.07.31,0
+dennis novak//joel josef schwärzler//kitzbuhel//2023.07.31,1
+dennis novak//thiago monteiro//kitzbuhel//2023.07.31,0
 laslo djere//christopher o'connell//kitzbuhel//2023.07.31,0
-arthur fils//zhizhen zhang//cincinnati//2023.08.13,0
 jordan thompson//marc-andrea huesler//cincinnati//2023.08.13,0
 corentin moutet//daniel altmaier//cincinnati//2023.08.13,0
 alexei popyrin//ilya ivashka//cincinnati//2023.08.13,0
-thanasi kokkinakis//laslo djere//cincinnati//2023.08.13,0
-zhizhen zhang//maxime cressy//cincinnati//2023.08.13,1
-max purcell//alexei popyrin//cincinnati//2023.08.13,1
-jason kubler//hugo gaston//cincinnati//2023.08.13,0
-marc-andrea huesler//aslan karatsev//cincinnati//2023.08.13,0
-diego schwartzman//marcos giron//cincinnati//2023.08.13,0
-max purcell//luca van assche//cincinnati//2023.08.13,1
-daniel elahi galan//nuno borges//cincinnati//2023.08.13,0
-dusan lajovic//jason kubler//cincinnati//2023.08.13,1
-dusan lajovic//rinky hijikata//cincinnati//2023.08.13,1
-corentin moutet//matteo arnaldi//cincinnati//2023.08.13,0
 alexander shevchenko//marton fucsovics//cincinnati//2023.08.13,0
+dusan lajovic//jason kubler//cincinnati//2023.08.13,0
+jason kubler//hugo gaston//cincinnati//2023.08.13,1
+marc-andrea huesler//aslan karatsev//cincinnati//2023.08.13,1
+corentin moutet//matteo arnaldi//cincinnati//2023.08.13,0
+diego schwartzman//marcos giron//cincinnati//2023.08.13,0
+max purcell//luca van assche//cincinnati//2023.08.13,0
+daniel elahi galan//nuno borges//cincinnati//2023.08.13,1
+dusan lajovic//rinky hijikata//cincinnati//2023.08.13,0
+thanasi kokkinakis//laslo djere//cincinnati//2023.08.13,1
 jordan thompson//alexandre muller//cincinnati//2023.08.13,1
-daniel altmaier//christopher o'connell//cincinnati//2023.08.13,1
-arthur fils//brandon holt//cincinnati//2023.08.13,1
-alexander shevchenko//diego schwartzman//cincinnati//2023.08.13,0
-thanasi kokkinakis//daniel elahi galan//cincinnati//2023.08.13,0
-lukas klein//maximilian marterer//new york//2023.08.28,1
-arthur cazaux//shintaro mochizuki//new york//2023.08.28,0
-tomas machac//kevin anderson//new york//2023.08.28,1
+daniel altmaier//christopher o'connell//cincinnati//2023.08.13,0
+arthur fils//brandon holt//cincinnati//2023.08.13,0
+alexander shevchenko//diego schwartzman//cincinnati//2023.08.13,1
+thanasi kokkinakis//daniel elahi galan//cincinnati//2023.08.13,1
+zhizhen zhang//maxime cressy//cincinnati//2023.08.13,1
+max purcell//alexei popyrin//cincinnati//2023.08.13,0
+arthur fils//zhizhen zhang//cincinnati//2023.08.13,0
+arthur cazaux//shintaro mochizuki//new york//2023.08.28,1
+tomas machac//kevin anderson//new york//2023.08.28,0
 yu hsiou hsu//benoit paire//new york//2023.08.28,1
 dominic stricker//pablo llamas ruiz//new york//2023.08.28,1
-nicolas moreno de alboran//aziz dougaz//new york//2023.08.28,0
-eliot spizzirri//aleksandar kovacevic//new york//2023.08.28,1
-felipe meligeni alves//facundo bagnis//new york//2023.08.28,1
-giulio zeppieri//alessandro giannessi//new york//2023.08.28,0
-kimmer coppejans//filip misolic//new york//2023.08.28,1
-otto virtanen//michael zheng//new york//2023.08.28,1
 timofey skatov//raul brancaccio//new york//2023.08.28,1
-francisco comesana//federico gaio//new york//2023.08.28,1
+nicolas moreno de alboran//aziz dougaz//new york//2023.08.28,0
+felipe meligeni alves//facundo bagnis//new york//2023.08.28,1
+giulio zeppieri//alessandro giannessi//new york//2023.08.28,1
+lukas klein//maximilian marterer//new york//2023.08.28,0
+otto virtanen//michael zheng//new york//2023.08.28,1
+eliot spizzirri//aleksandar kovacevic//new york//2023.08.28,1
+kimmer coppejans//filip misolic//new york//2023.08.28,1
 zachary svajda//vasek pospisil//new york//2023.08.28,1
+enzo couacaud//mikhail kukushkin//new york//2023.08.28,1
 titouan droguet//tennys sandgren//new york//2023.08.28,1
 aidan mayo//giovanni mpetshi perricard//new york//2023.08.28,1
 jakub mensik//leandro riedi//new york//2023.08.28,1
 marc polmans//dennis novak//new york//2023.08.28,1
 juncheng shang//patrick kypson//new york//2023.08.28,0
 sho shimabukuro//gauthier onclin//new york//2023.08.28,0
-emilio nava//andrea vavassori//new york//2023.08.28,1
-thiago agustin tirante//brandon holt//new york//2023.08.28,0
-stefano travaglia//john millman//new york//2023.08.28,0
+thiago agustin tirante//brandon holt//new york//2023.08.28,1
 enzo couacaud//jaume munar//new york//2023.08.28,0
 joris de loore//maxime cressy//new york//2023.08.28,0
-enzo couacaud//mikhail kukushkin//new york//2023.08.28,0
-titouan droguet//cristian garin//new york//2023.08.28,1
-borna gojo//tomas machac//new york//2023.08.28,1
+emilio nava//andrea vavassori//new york//2023.08.28,0
+francisco comesana//federico gaio//new york//2023.08.28,0
+titouan droguet//cristian garin//new york//2023.08.28,0
+sho shimabukuro//liam broady//new york//2023.08.28,1
 stefano travaglia//arthur cazaux//new york//2023.08.28,1
-taro daniel//sumit nagal//new york//2023.08.28,0
+zdenek kolar//thiago seyboth wild//new york//2023.08.28,1
 federico coria//camilo ugo carabelli//new york//2023.08.28,0
 felipe meligeni alves//federico coria//new york//2023.08.28,0
 taro daniel//francisco comesana//new york//2023.08.28,0
 hugo gaston//lukas klein//new york//2023.08.28,0
-sho shimabukuro//liam broady//new york//2023.08.28,1
+borna gojo//tomas machac//new york//2023.08.28,0
+taro daniel//sumit nagal//new york//2023.08.28,1
 nicolas moreno de alboran//joris de loore//new york//2023.08.28,1
-james duckworth//terence atmane//new york//2023.08.28,0
+timofey skatov//james duckworth//new york//2023.08.28,0
 dominic stricker//thiago agustin tirante//new york//2023.08.28,0
 otto virtanen//juncheng shang//new york//2023.08.28,0
 enzo couacaud//giulio zeppieri//new york//2023.08.28,0
@@ -9286,14 +9286,14 @@ titouan droguet//kimmer coppejans//new york//2023.08.28,0
 yu hsiou hsu//aidan mayo//new york//2023.08.28,0
 emilio nava//eliot spizzirri//new york//2023.08.28,1
 zachary svajda//marc polmans//new york//2023.08.28,1
-zdenek kolar//thiago seyboth wild//new york//2023.08.28,1
+federico coria//martin damm//new york//2023.08.28,1
 taro daniel//seongchan hong//new york//2023.08.28,1
 hugo gaston//yuta shimizu//new york//2023.08.28,1
 borna gojo//adrian andreev//new york//2023.08.28,0
 liam broady//jesper de jong//new york//2023.08.28,1
-timofey skatov//james duckworth//new york//2023.08.28,0
+james duckworth//terence atmane//new york//2023.08.28,0
 jakub mensik//zdenek kolar//new york//2023.08.28,1
-jakub mensik//fabio fognini//new york//2023.08.28,1
+timofey skatov//kaichi uchida//new york//2023.08.28,1
 patrick kypson//jurij rodionov//new york//2023.08.28,1
 jesper de jong//tristan boyer//new york//2023.08.28,0
 joris de loore//pierre-hugues herbert//new york//2023.08.28,0
@@ -9320,8 +9320,8 @@ marc polmans//nicholas david ionel//new york//2023.08.28,1
 gauthier onclin//marco trungelliti//new york//2023.08.28,0
 shintaro mochizuki//egor gerasimov//new york//2023.08.28,0
 juncheng shang//genaro alberto olivieri//new york//2023.08.28,1
-dennis novak//david goffin//new york//2023.08.28,1
-michael zheng//franco agamenone//new york//2023.08.28,1
+jakub mensik//fabio fognini//new york//2023.08.28,1
+felipe meligeni alves//dalibor svrcina//new york//2023.08.28,1
 maxime cressy//vit kopriva//new york//2023.08.28,1
 terence atmane//mate valkusz//new york//2023.08.28,0
 borna gojo//hamad medjedovic//new york//2023.08.28,1
@@ -9329,7 +9329,7 @@ thiago seyboth wild//dimitar kuzmanov//new york//2023.08.28,1
 liam broady//jelle sels//new york//2023.08.28,0
 john millman//alejandro tabilo//new york//2023.08.28,1
 james duckworth//trevor svajda//new york//2023.08.28,0
-filip misolic//mark lajal//new york//2023.08.28,1
+michael zheng//franco agamenone//new york//2023.08.28,1
 giovanni mpetshi perricard//thiago monteiro//new york//2023.08.28,1
 thiago agustin tirante//luca nardi//new york//2023.08.28,0
 emilio nava//tomas barrios vera//new york//2023.08.28,0
@@ -9339,7 +9339,7 @@ tomas machac//laurent lokoli//new york//2023.08.28,1
 benoit paire//geoffrey blancaneaux//new york//2023.08.28,0
 sho shimabukuro//jan choinski//new york//2023.08.28,0
 dominic stricker//alexis galarneau//new york//2023.08.28,0
-timofey skatov//kaichi uchida//new york//2023.08.28,1
+dennis novak//david goffin//new york//2023.08.28,1
 maximilian marterer//maximilian neuchrist//new york//2023.08.28,0
 nicolas moreno de alboran//elias ymer//new york//2023.08.28,1
 vasek pospisil//pedro martinez//new york//2023.08.28,0
@@ -9352,9 +9352,9 @@ federico gaio//hugo grenier//new york//2023.08.28,0
 kevin anderson//oleksii krutykh//new york//2023.08.28,0
 adrian andreev//nerman fatic//new york//2023.08.28,1
 hugo gaston//antoine escoffier//new york//2023.08.28,1
-federico coria//martin damm//new york//2023.08.28,0
+stefano travaglia//john millman//new york//2023.08.28,0
 daniil medvedev//christopher o'connell//new york//2023.08.28,1
-felipe meligeni alves//dalibor svrcina//new york//2023.08.28,1
+filip misolic//mark lajal//new york//2023.08.28,1
 christopher o'connell//max purcell//new york//2023.08.28,0
 egor gerasimov//alexandre muller//astana//2023.09.27,0
 sho shimabukuro//roberto carballes baena//astana//2023.09.27,0
@@ -9367,15 +9367,15 @@ jiri lehecka//egor gerasimov//astana//2023.09.27,0
 egor gerasimov//zizou bergs//astana//2023.09.27,0
 alexandre muller//timur maulenov//astana//2023.09.27,1
 alibek kachmazov//fabian marozsan//astana//2023.09.27,0
+jurij rodionov//evgeny donskoy//astana//2023.09.27,0
 sho shimabukuro//saba purtseladze//astana//2023.09.27,0
-damir dzumhur//dominik palan//astana//2023.09.27,0
 rubin statham//kimmer coppejans//astana//2023.09.27,1
 alibek kachmazov//damir dzumhur//astana//2023.09.27,1
 jurij rodionov//rubin statham//astana//2023.09.27,0
 alibek kachmazov//corentin moutet//astana//2023.09.27,0
 taro daniel//stefano napolitano//astana//2023.09.27,0
 egor gerasimov//bernabe zapata miralles//astana//2023.09.27,1
-hamad medjedovic//alexander shevchenko//astana//2023.09.27,1
+adrian mannarino//arthur rinderknech//astana//2023.09.27,1
 marcos giron//stan wawrinka//astana//2023.09.27,0
 adrian mannarino//sebastian korda//astana//2023.09.27,0
 tallon griekspoor//sho shimabukuro//astana//2023.09.27,0
@@ -9385,12 +9385,12 @@ sebastian korda//tallon griekspoor//astana//2023.09.27,1
 hamad medjedovic//jiri lehecka//astana//2023.09.27,0
 sebastian ofner//dominic thiem//astana//2023.09.27,1
 jurij rodionov//sebastian baez//astana//2023.09.27,0
-jurij rodionov//evgeny donskoy//astana//2023.09.27,1
+damir dzumhur//dominik palan//astana//2023.09.27,1
 hamad medjedovic//laslo djere//astana//2023.09.27,0
 sebastian korda//nuno borges//astana//2023.09.27,0
 adrian mannarino//alibek kachmazov//astana//2023.09.27,0
-sebastian korda//alexei popyrin//astana//2023.09.27,0
-adrian mannarino//arthur rinderknech//astana//2023.09.27,1
+hamad medjedovic//alexander shevchenko//astana//2023.09.27,0
+sebastian korda//alexei popyrin//astana//2023.09.27,1
 sebastian ofner//alexander bublik//astana//2023.09.27,0
 nuno borges//mikhail kukushkin//astana//2023.09.27,1
 adrian mannarino//jurij rodionov//astana//2023.09.27,1
@@ -9404,72 +9404,76 @@ maximilian marterer//gijs brouwer//antwerp//2023.10.16,0
 gauthier onclin//maxime cressy//antwerp//2023.10.16,0
 alexander blockx//hamad medjedovic//antwerp//2023.10.16,1
 giovanni mpetshi perricard//gauthier onclin//antwerp//2023.10.16,1
-benjamin bonzi//giulio zeppieri//antwerp//2023.10.16,0
 maximilian marterer//titouan droguet//antwerp//2023.10.16,0
+benjamin bonzi//giulio zeppieri//antwerp//2023.10.16,0
 alexander blockx//gilles arnaud bailly//antwerp//2023.10.16,0
-lorenzo sonego//francisco cerundolo//vienna//2023.10.23,1
-nicolas jarry//adrian mannarino//basel//2023.10.23,1
-gael monfils//daniel altmaier//vienna//2023.10.23,1
-borna gojo//aslan karatsev//vienna//2023.10.23,1
-alexander shevchenko//stan wawrinka//basel//2023.10.23,0
-ugo humbert//marcos giron//basel//2023.10.23,1
-hubert hurkacz//jan-lennard struff//basel//2023.10.23,0
-alexander zverev//cameron norrie//vienna//2023.10.23,1
-jannik sinner//ben shelton//vienna//2023.10.23,1
-karen khachanov//jiri lehecka//vienna//2023.10.23,0
-felix auger-aliassime//leandro riedi//basel//2023.10.23,0
-grigor dimitrov//lorenzo musetti//vienna//2023.10.23,1
-alexander zverev//sebastian ofner//vienna//2023.10.23,1
-daniil medvedev//arthur fils//vienna//2023.10.23,0
-dominic stricker//casper ruud//basel//2023.10.23,1
-andrey rublev//alexander zverev//vienna//2023.10.23,1
-stefanos tsitsipas//dominic thiem//vienna//2023.10.23,1
-taylor fritz//max purcell//basel//2023.10.23,0
-borna gojo//tommy paul//vienna//2023.10.23,1
-felix auger-aliassime//botic van de zandschulp//basel//2023.10.23,0
-tallon griekspoor//alex de minaur//basel//2023.10.23,1
 alex de minaur//diego schwartzman//basel//2023.10.23,1
-holger rune//tomas martin etcheverry//basel//2023.10.23,1
-ugo humbert//dominic stricker//basel//2023.10.23,0
-stefanos tsitsipas//borna gojo//vienna//2023.10.23,0
-holger rune//sebastian baez//basel//2023.10.23,0
-hubert hurkacz//tallon griekspoor//basel//2023.10.23,0
-daniil medvedev//karen khachanov//vienna//2023.10.23,1
-frances tiafoe//gael monfils//vienna//2023.10.23,0
-jannik sinner//lorenzo sonego//vienna//2023.10.23,1
-holger rune//miomir kecmanovic//basel//2023.10.23,0
+borna gojo//tommy paul//vienna//2023.10.23,1
+andrey rublev//matteo arnaldi//vienna//2023.10.23,1
+tomas martin etcheverry//andy murray//basel//2023.10.23,1
+alexander zverev//cameron norrie//vienna//2023.10.23,0
+felix auger-aliassime//leandro riedi//basel//2023.10.23,1
+karen khachanov//jiri lehecka//vienna//2023.10.23,0
+alexander shevchenko//stan wawrinka//basel//2023.10.23,1
+gael monfils//daniel altmaier//vienna//2023.10.23,1
+ugo humbert//marcos giron//basel//2023.10.23,0
+taylor fritz//max purcell//basel//2023.10.23,0
+borna gojo//aslan karatsev//vienna//2023.10.23,1
 casper ruud//alexander bublik//basel//2023.10.23,1
-alexandre muller//lloyd harris//vienna//2023.10.23,1
-albert ramos-vinolas//fabian marozsan//vienna//2023.10.23,1
-tomas martin etcheverry//andy murray//basel//2023.10.23,0
-emil ruusuvuori//alexander erler//vienna//2023.10.23,1
-fabian marozsan//timofey skatov//vienna//2023.10.23,0
-filip misolic//juan pablo varillas//vienna//2023.10.23,0
-albert ramos-vinolas//dino prizmic//vienna//2023.10.23,1
-andrea vavassori//damir dzumhur//vienna//2023.10.23,0
-tomas machac//jurij rodionov//vienna//2023.10.23,0
-dominic stricker//benjamin hassan//basel//2023.10.23,1
-hubert hurkacz//dusan lajovic//basel//2023.10.23,0
-andrey rublev//matteo arnaldi//vienna//2023.10.23,0
+nicolas jarry//adrian mannarino//basel//2023.10.23,0
+hubert hurkacz//jan-lennard struff//basel//2023.10.23,1
+holger rune//sebastian baez//basel//2023.10.23,1
+tallon griekspoor//alex de minaur//basel//2023.10.23,1
+grigor dimitrov//lorenzo musetti//vienna//2023.10.23,0
+frances tiafoe//gael monfils//vienna//2023.10.23,1
 daniil medvedev//grigor dimitrov//vienna//2023.10.23,0
-lorenzo sonego//vitaliy sachko//vienna//2023.10.23,1
-alexander shevchenko//taylor fritz//basel//2023.10.23,0
-andy murray//yannick hanfmann//basel//2023.10.23,1
-stefanos tsitsipas//tomas machac//vienna//2023.10.23,1
-filip misolic//andrea vavassori//vienna//2023.10.23,0
-tomas machac//emil ruusuvuori//vienna//2023.10.23,1
-alexandre muller//lorenzo sonego//vienna//2023.10.23,1
+stefanos tsitsipas//borna gojo//vienna//2023.10.23,1
+holger rune//miomir kecmanovic//basel//2023.10.23,1
+jannik sinner//andrey rublev//vienna//2023.10.23,1
+daniil medvedev//stefanos tsitsipas//vienna//2023.10.23,0
+lorenzo sonego//francisco cerundolo//vienna//2023.10.23,0
+daniil medvedev//arthur fils//vienna//2023.10.23,0
+holger rune//tomas martin etcheverry//basel//2023.10.23,0
+andrey rublev//alexander zverev//vienna//2023.10.23,1
+ugo humbert//dominic stricker//basel//2023.10.23,0
+alexander shevchenko//taylor fritz//basel//2023.10.23,1
+hubert hurkacz//tallon griekspoor//basel//2023.10.23,0
+felix auger-aliassime//botic van de zandschulp//basel//2023.10.23,1
+jannik sinner//frances tiafoe//vienna//2023.10.23,1
+jannik sinner//ben shelton//vienna//2023.10.23,1
+alexandre muller//lloyd harris//vienna//2023.10.23,0
+tomas machac//aleksandar vukic//vienna//2023.10.23,1
+stefanos tsitsipas//tomas machac//vienna//2023.10.23,0
+albert ramos-vinolas//fabian marozsan//vienna//2023.10.23,0
+ugo humbert//nicolas jarry//basel//2023.10.23,1
+daniil medvedev//karen khachanov//vienna//2023.10.23,0
+stefanos tsitsipas//dominic thiem//vienna//2023.10.23,0
+hubert hurkacz//dusan lajovic//basel//2023.10.23,1
+andrea vavassori//damir dzumhur//vienna//2023.10.23,0
+andy murray//yannick hanfmann//basel//2023.10.23,0
+tomas machac//jurij rodionov//vienna//2023.10.23,0
+filip misolic//juan pablo varillas//vienna//2023.10.23,1
+fabian marozsan//timofey skatov//vienna//2023.10.23,0
+emil ruusuvuori//alexander erler//vienna//2023.10.23,1
+filip misolic//andrea vavassori//vienna//2023.10.23,1
+felix auger-aliassime//alexander shevchenko//basel//2023.10.23,0
+albert ramos-vinolas//dino prizmic//vienna//2023.10.23,1
+jannik sinner//lorenzo sonego//vienna//2023.10.23,1
+tomas machac//emil ruusuvuori//vienna//2023.10.23,0
 jiri lehecka//j.j. wolf//vienna//2023.10.23,0
 karen khachanov//roman safiullin//vienna//2023.10.23,0
-matteo arnaldi//albert ramos-vinolas//vienna//2023.10.23,0
-jannik sinner//frances tiafoe//vienna//2023.10.23,1
+matteo arnaldi//albert ramos-vinolas//vienna//2023.10.23,1
+hubert hurkacz//ugo humbert//basel//2023.10.23,0
+lorenzo sonego//vitaliy sachko//vienna//2023.10.23,0
+frances tiafoe//daniel evans//vienna//2023.10.23,1
+dominic stricker//benjamin hassan//basel//2023.10.23,0
 tallon griekspoor//thiago seyboth wild//basel//2023.10.23,0
-andrey rublev//alexei popyrin//vienna//2023.10.23,0
-tommy paul//alexandre muller//vienna//2023.10.23,1
-frances tiafoe//daniel evans//vienna//2023.10.23,0
-tomas martin etcheverry//sebastian korda//basel//2023.10.23,0
-cameron norrie//filip misolic//vienna//2023.10.23,0
-botic van de zandschulp//roberto bautista agut//basel//2023.10.23,1
-ugo humbert//nicolas jarry//basel//2023.10.23,0
-tomas machac//aleksandar vukic//vienna//2023.10.23,1
-felix auger-aliassime//alexander shevchenko//basel//2023.10.23,1
+alexander zverev//sebastian ofner//vienna//2023.10.23,0
+andrey rublev//alexei popyrin//vienna//2023.10.23,1
+tommy paul//alexandre muller//vienna//2023.10.23,0
+tomas martin etcheverry//sebastian korda//basel//2023.10.23,1
+cameron norrie//filip misolic//vienna//2023.10.23,1
+botic van de zandschulp//roberto bautista agut//basel//2023.10.23,0
+dominic stricker//casper ruud//basel//2023.10.23,0
+alexandre muller//lorenzo sonego//vienna//2023.10.23,0
+felix auger-aliassime//holger rune//basel//2023.10.23,0
