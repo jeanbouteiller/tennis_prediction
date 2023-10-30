@@ -33,8 +33,8 @@ jobs:
         run: |
           jupyter nbconvert --to notebook --execute workflow_notebooks/update_all_matchs.ipynb
 
-      # - name: Discard Local Changes
-      #   run: git checkout "update_all_matchs.nbconvert.ipynb"
+      - name: Discard Local Changes
+        run: git checkout "workflow_notebooks/update_all_matchs.nbconvert.ipynb"
           
 
 
@@ -49,7 +49,7 @@ jobs:
             git config --global user.email "jeanbouteiller.ds@gmail.com"
             git config --global user.name "jeanbouteiller-ds"
             git add "data/df_all_matchs.csv"
-            # git add "update_all_matchs.nbconvert.ipynb"
+            git add "workflow_notebooks/update_all_matchs.nbconvert.ipynb"
             git commit -m "Update files"
             git push
           else
