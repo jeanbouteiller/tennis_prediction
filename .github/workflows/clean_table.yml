@@ -36,8 +36,8 @@ jobs:
 
       - name: Discard Local Changes
         run: |
-          git checkout "clean_table.nbconvert.ipynb"
-          git checkout "merge_tables.nbconvert.ipynb"
+          git checkout "workflow_notebooks/clean_table.nbconvert.ipynb"
+          git checkout "workflow_notebooks/merge_tables.nbconvert.ipynb"
 
 
       - name: Pull Remote Changes
@@ -56,8 +56,8 @@ jobs:
             git add "data/clean_datasets/df_matchs_clean.csv"
             git add "data/clean_datasets/df_tournaments_clean.csv"
             git add "data/clean_datasets/df_all_merged.csv"
-            git add "clean_table.nbconvert.ipynb"
-            git add "merge_tables.nbconvert.ipynb"
+            git add "workflow_notebooks/clean_table.nbconvert.ipynb"
+            git add "workflow_notebooks/merge_tables.nbconvert.ipynb"
             git commit -m "Update files"
             git push
           else
