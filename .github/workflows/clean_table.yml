@@ -31,8 +31,8 @@ jobs:
 
       - name: Execute Notebook
         run: |
-          jupyter nbconvert --to notebook --execute clean_table.ipynb
-          jupyter nbconvert --to notebook --execute merge_tables.ipynb
+          jupyter nbconvert --to notebook --execute workflow_notebooks/clean_table.ipynb
+          jupyter nbconvert --to notebook --execute workflow_notebooks/merge_tables.ipynb
 
       - name: Discard Local Changes
         run: |
