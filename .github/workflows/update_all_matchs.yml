@@ -48,7 +48,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git config --global user.email "jeanbouteiller.ds@gmail.com"
             git config --global user.name "jeanbouteiller-ds"
-            git add "df_all_matchs.csv"
+            git add "data/df_all_matchs.csv"
             # git add "update_all_matchs.nbconvert.ipynb"
             git commit -m "Update files"
             git push
