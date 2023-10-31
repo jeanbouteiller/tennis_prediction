@@ -1,0 +1,2 @@
+404: Not Found,model_name,model_description,Model_group,Avg Accuracy,Min Accuracy,Max Accuracy,Avg % Return,% Negative Return,Min % Return,Max % Return
+,Bet on Best Rank,Always bet on the player with the best rank,Dummy Strategy,0.59,0.54,0.63,-0.08,-0.28,-0.28,0.07
