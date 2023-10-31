@@ -1,0 +1,2 @@
+model_name,model_description,Model_group,Avg Accuracy,Min Accuracy,Max Accuracy,Avg % Return,% Negative Return,Min % Return,Max % Return
+Best Ranking bet,Bet on the best player (atp ranking),Dummy Strategy,0.6,0.56,0.63,-0.09,-0.37,-0.37,0.19
