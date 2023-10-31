@@ -1,4 +1,4 @@
-# A Machine Learning approach of tennis gambling
+# A Machine Learning Approach of Tennis Gambling
 ## Past results
 
 A few years ago, I worked on a project to use ML models to predict the winner of a tennis game, and hence design a betting strategy. We used exisiting datasets (online csv files) and ran models locally. Based on tennis expertise, we created innovative features to consider past players performances, as well as games specific aspects. We then defined Machine Learning models to find the likelihood of player A winner agains player B. We used ensemble methods to combine the power of different models & features and to benetif from the group's different approaches. We finally used these odds to define a gambling strategy (based on the welsh ratio from the financial world). This lead to a theoretical profit of +40% per game (for 1$ invested, we make on average 1.4$ or revenue). Excited by theoretical results, I decided to move forward and to be confronted to the challenges of productionisation. 
