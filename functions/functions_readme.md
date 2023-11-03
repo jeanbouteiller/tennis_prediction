@@ -6,7 +6,6 @@ This file is made of python notebook that are defining different functions used 
 
 - find_matchs(tournament_row):
   - input:
-    - tournament_url:
-      - Type: string
-      - Functon: representing the tournament wihtout the date (ex: en/scores/current/paris/352)
-    - tournament_date: string corresponding to  
+    - tournament_url (string) - represents the tournament wihtout the date (ex: en/scores/current/paris/352)
+    - tournament_date (string) -  represents the date of the tournament (first week)
+  - 
