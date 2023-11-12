@@ -2084,8 +2084,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/tokyo/329/overview,"Tokyo, Japan",2019.09.30,32,Outdoor,Hard,"$2,046,340",tokyo//2019.09.30
 /en/tournaments/shanghai/5014/overview,"Shanghai, China",2019.10.06,56,Outdoor,Hard,"$8,322,885",shanghai//2019.10.06
 /en/tournaments/stockholm/429/overview,"Stockholm, Sweden",2019.10.14,28,Indoor,Hard,"€711,275",stockholm//2019.10.14
-/en/tournaments/moscow/438/overview,"Moscow, Russia",2019.10.14,28,Indoor,Hard,"$922,520",moscow//2019.10.14
 /en/tournaments/antwerp/7485/overview,"Antwerp, Belgium",2019.10.14,28,Indoor,Hard,"€711,275",antwerp//2019.10.14
+/en/tournaments/moscow/438/overview,"Moscow, Russia",2019.10.14,28,Indoor,Hard,"$922,520",moscow//2019.10.14
 /en/tournaments/vienna/337/overview,"Vienna, Austria",2019.10.21,32,Indoor,Hard,"€2,433,810",vienna//2019.10.21
 /en/tournaments/basel/328/overview,"Basel, Switzerland",2019.10.21,32,Indoor,Hard,"€2,219,975",basel//2019.10.21
 /en/tournaments/paris/352/overview,"Paris, France",2019.10.28,48,Indoor,Hard,"€5,791,280",paris//2019.10.28
@@ -2250,20 +2250,20 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/cordoba/9158/overview,"Cordoba, Argentina",2022.01.31,28,Outdoor,Clay,"$493,875",cordoba//2022.01.31
 /en/tournaments/pune/891/overview,"Pune, India",2022.01.31,28,Outdoor,Hard,"$493,875",pune//2022.01.31
 /en/tournaments/montpellier/375/overview,"Montpellier, France",2022.01.31,28,Indoor,Hard,"€490,990",montpellier//2022.01.31
-/en/tournaments/buenos-aires/506/overview,"Buenos Aires, Argentina",2022.02.07,28,Outdoor,Clay,"$686,700",buenos aires//2022.02.07
 /en/tournaments/rotterdam/407/overview,"Rotterdam, Netherlands",2022.02.07,32,Indoor,Hard,"€1,349,070",rotterdam//2022.02.07
 /en/tournaments/dallas/424/overview,"Dallas, United States",2022.02.07,28,Indoor,Hard,"$792,980",dallas//2022.02.07
-/en/tournaments/doha/451/overview,"Doha, Qatar",2022.02.14,28,Outdoor,Hard,"$1,176,595",doha//2022.02.14
-/en/tournaments/rio-de-janeiro/6932/overview,"Rio de Janeiro, Brazil",2022.02.14,28,Outdoor,Clay,"$1,815,115",rio de janeiro//2022.02.14
-/en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2022.02.14,28,Outdoor,Hard,"$664,275",delray beach//2022.02.14
+/en/tournaments/buenos-aires/506/overview,"Buenos Aires, Argentina",2022.02.07,28,Outdoor,Clay,"$686,700",buenos aires//2022.02.07
 /en/tournaments/marseille/496/overview,"Marseille, France",2022.02.14,28,Indoor,Hard,"€622,610",marseille//2022.02.14
+/en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2022.02.14,28,Outdoor,Hard,"$664,275",delray beach//2022.02.14
+/en/tournaments/rio-de-janeiro/6932/overview,"Rio de Janeiro, Brazil",2022.02.14,28,Outdoor,Clay,"$1,815,115",rio de janeiro//2022.02.14
+/en/tournaments/doha/451/overview,"Doha, Qatar",2022.02.14,28,Outdoor,Hard,"$1,176,595",doha//2022.02.14
 /en/tournaments/dubai/495/overview,"Dubai, United Arab Emirates",2022.02.21,32,Outdoor,Hard,"$2,949,665",dubai//2022.02.21
 /en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2022.02.21,32,Outdoor,Hard,"$1,832,890",acapulco//2022.02.21
 /en/tournaments/santiago/8996/overview,"Santiago, Chile",2022.02.21,28,Outdoor,Clay,"$546,340",santiago//2022.02.21
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2022.03.10,96,Outdoor,Hard,"$9,554,920",indian wells//2022.03.10
 /en/tournaments/miami/403/overview,"Miami, United States",2022.03.23,96,Outdoor,Hard,"$9,554,920",miami//2022.03.23
-/en/tournaments/marrakech/360/overview,"Marrakech, Morocco",2022.04.04,32,Outdoor,Clay,"€597,900",marrakech//2022.04.04
 /en/tournaments/houston/717/overview,"Houston, United States",2022.04.04,28,Outdoor,Clay,"$665,330",houston//2022.04.04
+/en/tournaments/marrakech/360/overview,"Marrakech, Morocco",2022.04.04,32,Outdoor,Clay,"€597,900",marrakech//2022.04.04
 /en/tournaments/monte-carlo/410/overview,"Monte Carlo, Monaco",2022.04.10,56,Outdoor,Clay,"€5,802,475",monte carlo//2022.04.10
 /en/tournaments/barcelona/425/overview,"Barcelona, Spain",2022.04.18,48,Outdoor,Clay,"€2,802,580",barcelona//2022.04.18
 /en/tournaments/belgrade/5053/overview,"Belgrade, Serbia",2022.04.18,28,Outdoor,Clay,"€597,900",belgrade//2022.04.18
@@ -2271,8 +2271,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/munich/308/overview,"Munich, Germany",2022.04.25,28,Outdoor,Clay,"€597,900",munich//2022.04.25
 /en/tournaments/madrid/1536/overview,"Madrid, Spain",2022.05.01,56,Outdoor,Clay,"€7,499,290",madrid//2022.05.01
 /en/tournaments/rome/416/overview,"Rome, Italy",2022.05.08,56,Outdoor,Clay,"€6,008,725",rome//2022.05.08
-/en/tournaments/geneva/322/overview,"Geneva, Switzerland",2022.05.15,28,Outdoor,Clay,"€597,900",geneva//2022.05.15
 /en/tournaments/lyon/7694/overview,"Lyon, France",2022.05.15,28,Outdoor,Clay,"€597,900",lyon//2022.05.15
+/en/tournaments/geneva/322/overview,"Geneva, Switzerland",2022.05.15,28,Outdoor,Clay,"€597,900",geneva//2022.05.15
 /en/tournaments/roland-garros/520/overview,"Paris, France",2022.05.22,128,Outdoor,Clay,"€21,256,800",paris//2022.05.22
 /en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2022.06.06,28,Outdoor,Grass,"€725,540",s hertogenbosch//2022.06.06
 /en/tournaments/stuttgart/321/overview,"Stuttgart, Germany",2022.06.06,28,Outdoor,Grass,"€769,645",stuttgart//2022.06.06
@@ -2281,15 +2281,15 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/mallorca/8994/overview,"Mallorca, Spain",2022.06.19,28,Outdoor,Grass,"€951,745",mallorca//2022.06.19
 /en/tournaments/eastbourne/741/overview,"Eastbourne, Great Britain",2022.06.20,28,Outdoor,Grass,"€760,750",eastbourne//2022.06.20
 /en/tournaments/wimbledon/540/overview,"London, Great Britain",2022.06.27,128,Outdoor,Grass,"£18,652,000",london//2022.06.27
-/en/tournaments/bastad/316/overview,"Bastad, Sweden",2022.07.11,28,Outdoor,Clay,"€597,900",bastad//2022.07.11
 /en/tournaments/newport/315/overview,"Newport, United States",2022.07.11,28,Outdoor,Grass,"$665,330",newport//2022.07.11
+/en/tournaments/bastad/316/overview,"Bastad, Sweden",2022.07.11,28,Outdoor,Clay,"€597,900",bastad//2022.07.11
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2022.07.18,32,Outdoor,Clay,"€1,911,620",hamburg//2022.07.18
 /en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2022.07.18,28,Outdoor,Clay,"€597,900",gstaad//2022.07.18
 /en/tournaments/atlanta/6116/overview,"Atlanta, United States",2022.07.25,28,Outdoor,Hard,"$792,980",atlanta//2022.07.25
 /en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2022.07.25,28,Outdoor,Clay,"€597,900",kitzbuhel//2022.07.25
 /en/tournaments/umag/439/overview,"Umag, Croatia",2022.07.25,28,Outdoor,Clay,"€597,900",umag//2022.07.25
-/en/tournaments/los-cabos/7480/overview,"Los Cabos, Mexico",2022.08.01,28,Outdoor,Hard,"$920,625",los cabos//2022.08.01
 /en/tournaments/washington/418/overview,"Washington, United States",2022.08.01,48,Outdoor,Hard,"$2,108,110",washington//2022.08.01
+/en/tournaments/los-cabos/7480/overview,"Los Cabos, Mexico",2022.08.01,28,Outdoor,Hard,"$920,625",los cabos//2022.08.01
 /en/tournaments/montreal/421/overview,"Montreal, Canada",2022.08.08,56,Outdoor,Hard,"$6,573,785",montreal//2022.08.08
 /en/tournaments/cincinnati/422/overview,"Cincinnati, United States",2022.08.14,56,Outdoor,Hard,"$6,971,275",cincinnati//2022.08.14
 /en/tournaments/winston-salem/6242/overview,"Winston-Salem, United States",2022.08.21,48,Outdoor,Hard,"$823,420",winston salem//2022.08.21
@@ -2298,9 +2298,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/metz/341/overview,"Metz, France",2022.09.19,28,Indoor,Hard,"€597,900",metz//2022.09.19
 /en/tournaments/nur-sultan/9410/overview,"Nur-Sultan, Kazakhstan",2022.09.20,28,Indoor,Hard,"$541,800",nur sultan//2022.09.20
 /en/tournaments/laver-cup/9210/overview,"London, Great Britain",2022.09.23,12,Indoor,Hard,,london//2022.09.23
+/en/tournaments/seoul/4140/overview,"Seoul, South Korea",2022.09.26,28,Outdoor,Hard,"$1,237,570",seoul//2022.09.26
 /en/tournaments/tel-aviv/4138/overview,"Tel Aviv, Israel",2022.09.26,28,Indoor,Hard,"$1,019,855",tel aviv//2022.09.26
 /en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2022.09.26,28,Indoor,Hard,"€597,900",sofia//2022.09.26
-/en/tournaments/seoul/4140/overview,"Seoul, South Korea",2022.09.26,28,Outdoor,Hard,"$1,237,570",seoul//2022.09.26
 /en/tournaments/astana/9410/overview,"Astana, Kazakhstan",2022.10.03,32,Indoor,Hard,"$2,054,825",astana//2022.10.03
 /en/tournaments/tokyo/329/overview,"Tokyo, Japan",2022.10.03,32,Outdoor,Hard,"$2,108,110",tokyo//2022.10.03
 /en/tournaments/gijon/2807/overview,"Gijon, Spain",2022.10.10,28,Indoor,Hard,"€675,345",gijon//2022.10.10
@@ -2356,8 +2356,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2023.07.17,28,Outdoor,Clay,"€630,705",gstaad//2023.07.17
 /en/tournaments/bastad/316/overview,"Bastad, Sweden",2023.07.17,28,Outdoor,Clay,"€630,705",bastad//2023.07.17
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2023.07.24,32,Outdoor,Clay,"€1,981,470",hamburg//2023.07.24
-/en/tournaments/umag/439/overview,"Umag, Croatia",2023.07.24,28,Outdoor,Clay,"€630,705",umag//2023.07.24
 /en/tournaments/atlanta/6116/overview,"Atlanta, United States",2023.07.24,28,Outdoor,Hard,"$822,175",atlanta//2023.07.24
+/en/tournaments/umag/439/overview,"Umag, Croatia",2023.07.24,28,Outdoor,Clay,"€630,705",umag//2023.07.24
 /en/tournaments/washington/418/overview,"Washington, United States",2023.07.31,48,Outdoor,Hard,"$2,178,980",washington//2023.07.31
 /en/tournaments/los-cabos/7480/overview,"Los Cabos, Mexico",2023.07.31,28,Outdoor,Hard,"$946,975",los cabos//2023.07.31
 /en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2023.07.31,28,Outdoor,Clay,"€630,705",kitzbuhel//2023.07.31
@@ -2380,3 +2380,4 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/paris/352/overview,"Paris, France",2023.10.30,56,Indoor,Hard,"€6,748,815",paris//2023.10.30
 /en/tournaments/metz/341/overview,"Metz, France",2023.11.05,28,Indoor,Hard,"€630,705",metz//2023.11.05
 /en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2023.11.05,28,Indoor,Hard,"€630,705",sofia//2023.11.05
+/en/tournaments/nitto-atp-finals/605/overview,"Turin, Italy",2023.11.12,8,Indoor,Hard,,turin//2023.11.12
