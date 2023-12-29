@@ -1765,28 +1765,28 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/memphis/424/overview,"Memphis, United States",2015.02.09,28,Indoor,Hard,"$659,070",memphis//2015.02.09
 /en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2015.02.09,28,Indoor,Clay,"$505,655",sao paulo//2015.02.09
 /en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2015.02.16,32,Outdoor,Hard,"$549,230",delray beach//2015.02.16
-/en/tournaments/marseille/496/overview,"Marseille, France",2015.02.16,28,Indoor,Hard,"€632,840",marseille//2015.02.16
 /en/tournaments/rio-de-janeiro/6932/overview,"Rio de Janeiro, Brazil",2015.02.16,32,Outdoor,Clay,"$1,548,755",rio de janeiro//2015.02.16
+/en/tournaments/marseille/496/overview,"Marseille, France",2015.02.16,28,Indoor,Hard,"€632,840",marseille//2015.02.16
+/en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2015.02.23,32,Outdoor,Hard,"$1,548,755",acapulco//2015.02.23
 /en/tournaments/buenos-aires/506/overview,"Buenos Aires, Argentina",2015.02.23,28,Outdoor,Clay,"$573,750",buenos aires//2015.02.23
 /en/tournaments/dubai/495/overview,"Dubai, United Arab Emirates",2015.02.23,32,Outdoor,Hard,"$2,503,810",dubai//2015.02.23
-/en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2015.02.23,32,Outdoor,Hard,"$1,548,755",acapulco//2015.02.23
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2015.03.12,96,Outdoor,Hard,"$7,107,445",indian wells//2015.03.12
 /en/tournaments/miami/403/overview,"Miami, United States",2015.03.25,96,Outdoor,Hard,"$6,267,755",miami//2015.03.25
 /en/tournaments/houston/717/overview,"Houston, United States",2015.04.06,28,Outdoor,Clay,"$549,230",houston//2015.04.06
 /en/tournaments/casablanca/360/overview,"Casablanca, Morocco",2015.04.06,28,Outdoor,Clay,"€494,310",casablanca//2015.04.06
 /en/tournaments/monte-carlo/410/overview,"Monte-Carlo, Monaco",2015.04.12,56,Outdoor,Clay,"€3,624,045",monte carlo//2015.04.12
-/en/tournaments/barcelona/425/overview,"Barcelona, Spain",2015.04.20,48,Outdoor,Clay,"€2,265,235",barcelona//2015.04.20
 /en/tournaments/bucharest/773/overview,"Bucharest, Romania",2015.04.20,28,Outdoor,Clay,"€494,310",bucharest//2015.04.20
-/en/tournaments/estoril/7290/overview,"Estoril, Portugal",2015.04.27,28,Outdoor,Clay,"€494,310",estoril//2015.04.27
+/en/tournaments/barcelona/425/overview,"Barcelona, Spain",2015.04.20,48,Outdoor,Clay,"€2,265,235",barcelona//2015.04.20
 /en/tournaments/istanbul/7163/overview,"Istanbul, Turkiye",2015.04.27,28,Outdoor,Clay,"€494,310",istanbul//2015.04.27
 /en/tournaments/munich/308/overview,"Munich, Germany",2015.04.27,28,Outdoor,Clay,"€494,310",munich//2015.04.27
+/en/tournaments/estoril/7290/overview,"Estoril, Portugal",2015.04.27,28,Outdoor,Clay,"€494,310",estoril//2015.04.27
 /en/tournaments/madrid/1536/overview,"Madrid, Spain",2015.05.03,56,Outdoor,Clay,"€5,113,730",madrid//2015.05.03
 /en/tournaments/rome/416/overview,"Rome, Italy",2015.05.10,56,Outdoor,Clay,"€3,830,295",rome//2015.05.10
 /en/tournaments/geneva/322/overview,"Geneva, Switzerland",2015.05.17,28,Outdoor,Clay,"€494,310",geneva//2015.05.17
 /en/tournaments/nice/6120/overview,"Nice, France",2015.05.17,28,Outdoor,Clay,"€494,310",nice//2015.05.17
 /en/tournaments/roland-garros/520/overview,"Paris, France",2015.05.24,128,Outdoor,Clay,"€13,008,000",paris//2015.05.24
-/en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2015.06.08,28,Outdoor,Grass,"€604,155",s hertogenbosch//2015.06.08
 /en/tournaments/stuttgart/321/overview,"Stuttgart, Germany",2015.06.08,28,Outdoor,Grass,"€642,070",stuttgart//2015.06.08
+/en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2015.06.08,28,Outdoor,Grass,"€604,155",s hertogenbosch//2015.06.08
 /en/tournaments/halle/500/overview,"Halle, Germany",2015.06.15,32,Outdoor,Grass,"€1,696,645",halle//2015.06.15
 /en/tournaments/london/311/overview,"London, Great Britain",2015.06.15,32,Outdoor,Grass,"€1,696,645",london//2015.06.15
 /en/tournaments/nottingham/741/overview,"Nottingham, Great Britain",2015.06.21,48,Outdoor,Grass,"€644,065",nottingham//2015.06.21
@@ -1795,9 +1795,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/bastad/316/overview,"Bastad, Sweden",2015.07.20,28,Outdoor,Clay,"€494,310",bastad//2015.07.20
 /en/tournaments/bogota/6718/overview,"Bogota, Colombia",2015.07.20,28,Outdoor,Hard,"$768,915",bogota//2015.07.20
 /en/tournaments/umag/439/overview,"Umag, Croatia",2015.07.20,28,Outdoor,Clay,"€494,310",umag//2015.07.20
+/en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2015.07.27,28,Outdoor,Clay,"€494,310",gstaad//2015.07.27
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2015.07.27,32,Outdoor,Clay,"€1,407,960",hamburg//2015.07.27
 /en/tournaments/atlanta/6116/overview,"Atlanta, United States",2015.07.27,28,Outdoor,Hard,"$659,070",atlanta//2015.07.27
-/en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2015.07.27,28,Outdoor,Clay,"€494,310",gstaad//2015.07.27
 /en/tournaments/washington/418/overview,"Washington, United States",2015.08.03,48,Outdoor,Hard,"$1,753,020",washington//2015.08.03
 /en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2015.08.03,28,Outdoor,Clay,"€494,310",kitzbuhel//2015.08.03
 /en/tournaments/montreal/421/overview,"Montreal, Canada",2015.08.10,56,Outdoor,Hard,"$4,178,500",montreal//2015.08.10
@@ -1806,10 +1806,10 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/us-open/560/overview,"New York, United States",2015.08.31,128,Outdoor,Hard,"$19,852,700",new york//2015.08.31
 /en/tournaments/st-petersburg/568/overview,"St. Petersburg, Russia",2015.09.21,28,Indoor,Hard,"$1,091,000",st. petersburg//2015.09.21
 /en/tournaments/metz/341/overview,"Metz, France",2015.09.21,28,Indoor,Hard,"€494,310",metz//2015.09.21
-/en/tournaments/shenzhen/6967/overview,"Shenzhen, China",2015.09.28,28,Outdoor,Hard,"$668,945",shenzhen//2015.09.28
 /en/tournaments/kuala-lumpur/6003/overview,"Kuala Lumpur, Malaysia",2015.09.28,28,Indoor,Hard,"$1,041,540",kuala lumpur//2015.09.28
-/en/tournaments/beijing/747/overview,"Beijing, China",2015.10.05,32,Outdoor,Hard,"$3,944,715",beijing//2015.10.05
+/en/tournaments/shenzhen/6967/overview,"Shenzhen, China",2015.09.28,28,Outdoor,Hard,"$668,945",shenzhen//2015.09.28
 /en/tournaments/tokyo/329/overview,"Tokyo, Japan",2015.10.05,32,Outdoor,Hard,"$1,397,250",tokyo//2015.10.05
+/en/tournaments/beijing/747/overview,"Beijing, China",2015.10.05,32,Outdoor,Hard,"$3,944,715",beijing//2015.10.05
 /en/tournaments/shanghai/5014/overview,"Shanghai, China",2015.10.11,56,Outdoor,Hard,"$7,021,335",shanghai//2015.10.11
 /en/tournaments/vienna/337/overview,"Vienna, Austria",2015.10.19,32,Indoor,Hard,"€2,324,045",vienna//2015.10.19
 /en/tournaments/moscow/438/overview,"Moscow, Russia",2015.10.19,28,Indoor,Hard,"$771,525",moscow//2015.10.19
@@ -1819,8 +1819,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/paris/352/overview,"Paris, France",2015.11.02,48,Indoor,Hard,"€3,830,295",paris//2015.11.02
 /en/tournaments/atp-finals/605/overview,"London, Great Britain",2015.11.15,8,Indoor,Hard,"$7,000,000",london//2015.11.15
 /en/tournaments/brisbane/339/overview,"Brisbane, Australia",2016.01.04,28,Outdoor,Hard,"$461,330",brisbane//2016.01.04
-/en/tournaments/chennai/891/overview,"Chennai, India",2016.01.04,28,Outdoor,Hard,"$482,085",chennai//2016.01.04
 /en/tournaments/doha/451/overview,"Doha, Qatar",2016.01.04,32,Outdoor,Hard,"$1,283,855",doha//2016.01.04
+/en/tournaments/chennai/891/overview,"Chennai, India",2016.01.04,28,Outdoor,Hard,"$482,085",chennai//2016.01.04
 /en/tournaments/auckland/301/overview,"Auckland, New Zealand",2016.01.11,28,Outdoor,Hard,"$520,070",auckland//2016.01.11
 /en/tournaments/sydney/338/overview,"Sydney, Australia",2016.01.11,28,Outdoor,Hard,"$461,330",sydney//2016.01.11
 /en/tournaments/australian-open/580/overview,"Melbourne, Australia",2016.01.18,128,Outdoor,Hard,"A$19,703,000",melbourne//2016.01.18
@@ -1834,8 +1834,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/marseille/496/overview,"Marseille, France",2016.02.15,28,Indoor,Hard,"€665,910",marseille//2016.02.15
 /en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2016.02.15,32,Outdoor,Hard,"$576,900",delray beach//2016.02.15
 /en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2016.02.22,28,Outdoor,Clay,"$499,055",sao paulo//2016.02.22
-/en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2016.02.22,32,Outdoor,Hard,"$1,551,830",acapulco//2016.02.22
 /en/tournaments/dubai/495/overview,"Dubai, United Arab Emirates",2016.02.22,32,Outdoor,Hard,"$2,674,445",dubai//2016.02.22
+/en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2016.02.22,32,Outdoor,Hard,"$1,551,830",acapulco//2016.02.22
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2016.03.10,96,Outdoor,Hard,"$7,037,595",indian wells//2016.03.10
 /en/tournaments/miami/403/overview,"Miami, United States",2016.03.23,96,Outdoor,Hard,"$7,037,595",miami//2016.03.23
 /en/tournaments/houston/717/overview,"Houston, United States",2016.04.04,28,Outdoor,Clay,"$577,860",houston//2016.04.04
@@ -1848,11 +1848,11 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/istanbul/7163/overview,"Istanbul, Turkiye",2016.04.25,28,Outdoor,Clay,"€483,080",istanbul//2016.04.25
 /en/tournaments/madrid/1536/overview,"Madrid, Spain",2016.05.01,56,Outdoor,Clay,"€5,719,660",madrid//2016.05.01
 /en/tournaments/rome/416/overview,"Rome, Italy",2016.05.08,56,Outdoor,Clay,"€4,300,755",rome//2016.05.08
-/en/tournaments/geneva/322/overview,"Geneva, Switzerland",2016.05.15,28,Outdoor,Clay,"€556,195",geneva//2016.05.15
 /en/tournaments/nice/6120/overview,"Nice, France",2016.05.15,28,Outdoor,Clay,"€520,070",nice//2016.05.15
+/en/tournaments/geneva/322/overview,"Geneva, Switzerland",2016.05.15,28,Outdoor,Clay,"€556,195",geneva//2016.05.15
 /en/tournaments/roland-garros/520/overview,"Paris, France",2016.05.22,128,Outdoor,Clay,"€16,008,750",paris//2016.05.22
-/en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2016.06.06,28,Outdoor,Grass,"€635,645",s hertogenbosch//2016.06.06
 /en/tournaments/stuttgart/321/overview,"Stuttgart, Germany",2016.06.06,28,Outdoor,Grass,"€675,645",stuttgart//2016.06.06
+/en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2016.06.06,28,Outdoor,Grass,"€635,645",s hertogenbosch//2016.06.06
 /en/tournaments/london/311/overview,"London, Great Britain",2016.06.13,32,Outdoor,Grass,"€1,928,610",london//2016.06.13
 /en/tournaments/halle/500/overview,"Halle, Germany",2016.06.13,32,Outdoor,Grass,"€1,826,275",halle//2016.06.13
 /en/tournaments/nottingham/741/overview,"Nottingham, Great Britain",2016.06.19,48,Outdoor,Grass,"€704,805",nottingham//2016.06.19
@@ -1860,10 +1860,10 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2016.07.11,32,Outdoor,Clay,"€1,514,495",hamburg//2016.07.11
 /en/tournaments/newport/315/overview,"Newport, United States",2016.07.11,28,Outdoor,Grass,"$577,860",newport//2016.07.11
 /en/tournaments/bastad/316/overview,"Bastad, Sweden",2016.07.11,28,Outdoor,Clay,"€520,070",bastad//2016.07.11
+/en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2016.07.18,28,Outdoor,Clay,"€520,070",kitzbuhel//2016.07.18
 /en/tournaments/umag/439/overview,"Umag, Croatia",2016.07.18,28,Outdoor,Clay,"€520,070",umag//2016.07.18
 /en/tournaments/washington/418/overview,"Washington, United States",2016.07.18,48,Outdoor,Hard,"$1,877,705",washington//2016.07.18
 /en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2016.07.18,28,Outdoor,Clay,"€520,070",gstaad//2016.07.18
-/en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2016.07.18,28,Outdoor,Clay,"€520,070",kitzbuhel//2016.07.18
 /en/tournaments/toronto/421/overview,"Toronto, Canada",2016.07.25,56,Outdoor,Hard,"$4,691,730",toronto//2016.07.25
 /en/tournaments/atlanta/6116/overview,"Atlanta, United States",2016.08.01,28,Outdoor,Hard,"$693,425",atlanta//2016.08.01
 /en/tournaments/rio-de-janeiro/96/overview,"Rio de Janeiro, Brazil",2016.08.04,64,Outdoor,Hard,,rio de janeiro//2016.08.04
@@ -1905,14 +1905,14 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2017.02.27,28,Outdoor,Clay,"$520,285",sao paulo//2017.02.27
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2017.03.09,96,Outdoor,Hard,"$7,913,405",indian wells//2017.03.09
 /en/tournaments/miami/403/overview,"Miami, United States",2017.03.22,96,Outdoor,Hard,"$7,913,405",miami//2017.03.22
-/en/tournaments/houston/717/overview,"Houston, United States",2017.04.10,28,Outdoor,Clay,"$600,345",houston//2017.04.10
 /en/tournaments/marrakech/360/overview,"Marrakech, Morocco",2017.04.10,28,Outdoor,Clay,"€540,310",marrakech//2017.04.10
+/en/tournaments/houston/717/overview,"Houston, United States",2017.04.10,28,Outdoor,Clay,"$600,345",houston//2017.04.10
 /en/tournaments/monte-carlo/410/overview,"Monte Carlo, Monaco",2017.04.16,56,Outdoor,Clay,"€4,629,725",monte carlo//2017.04.16
-/en/tournaments/budapest/7648/overview,"Budapest, Hungary",2017.04.24,28,Outdoor,Clay,"€540,310",budapest//2017.04.24
 /en/tournaments/barcelona/425/overview,"Barcelona, Spain",2017.04.24,48,Outdoor,Clay,"€2,604,340",barcelona//2017.04.24
-/en/tournaments/munich/308/overview,"Munich, Germany",2017.05.01,28,Outdoor,Clay,"€540,310",munich//2017.05.01
+/en/tournaments/budapest/7648/overview,"Budapest, Hungary",2017.04.24,28,Outdoor,Clay,"€540,310",budapest//2017.04.24
 /en/tournaments/istanbul/7163/overview,"Istanbul, Turkiye",2017.05.01,28,Outdoor,Clay,"€497,255",istanbul//2017.05.01
 /en/tournaments/estoril/7290/overview,"Estoril, Portugal",2017.05.01,28,Outdoor,Clay,"€540,310",estoril//2017.05.01
+/en/tournaments/munich/308/overview,"Munich, Germany",2017.05.01,28,Outdoor,Clay,"€540,310",munich//2017.05.01
 /en/tournaments/madrid/1536/overview,"Madrid, Spain",2017.05.07,56,Outdoor,Clay,"€6,408,230",madrid//2017.05.07
 /en/tournaments/rome/416/overview,"Rome, Italy",2017.05.14,56,Outdoor,Clay,"€4,835,975",rome//2017.05.14
 /en/tournaments/geneva/322/overview,"Geneva, Switzerland",2017.05.21,28,Outdoor,Clay,"€540,310",geneva//2017.05.21
@@ -1920,8 +1920,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/roland-garros/520/overview,"Paris, France",2017.05.28,128,Outdoor,Clay,"€16,790,000",paris//2017.05.28
 /en/tournaments/stuttgart/321/overview,"Stuttgart, Germany",2017.06.12,28,Outdoor,Grass,"€701,975",stuttgart//2017.06.12
 /en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2017.06.12,28,Outdoor,Grass,"€660,375",s hertogenbosch//2017.06.12
-/en/tournaments/london/311/overview,"London, Great Britain",2017.06.19,32,Outdoor,Grass,"€1,966,095",london//2017.06.19
 /en/tournaments/halle/500/overview,"Halle, Germany",2017.06.19,32,Outdoor,Grass,"€1,966,095",halle//2017.06.19
+/en/tournaments/london/311/overview,"London, Great Britain",2017.06.19,32,Outdoor,Grass,"€1,966,095",london//2017.06.19
 /en/tournaments/antalya/7650/overview,"Antalya, Turkiye",2017.06.25,28,Outdoor,Grass,"€497,255",antalya//2017.06.25
 /en/tournaments/eastbourne/741/overview,"Eastbourne, Great Britain",2017.06.26,28,Outdoor,Grass,"€693,910",eastbourne//2017.06.26
 /en/tournaments/wimbledon/540/overview,"London, Great Britain",2017.07.03,128,Outdoor,Grass,"£14,840,000",london//2017.07.03
@@ -1931,9 +1931,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2017.07.24,32,Outdoor,Clay,"€1,629,375",hamburg//2017.07.24
 /en/tournaments/atlanta/6116/overview,"Atlanta, United States",2017.07.24,28,Outdoor,Hard,"$720,410",atlanta//2017.07.24
 /en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2017.07.24,28,Outdoor,Clay,"€540,310",gstaad//2017.07.24
-/en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2017.07.31,28,Outdoor,Clay,"€540,310",kitzbuhel//2017.07.31
 /en/tournaments/washington/418/overview,"Washington, United States",2017.07.31,48,Outdoor,Hard,"$2,002,460",washington//2017.07.31
 /en/tournaments/los-cabos/7480/overview,"Los Cabos, Mexico",2017.07.31,28,Outdoor,Hard,"$727,995",los cabos//2017.07.31
+/en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2017.07.31,28,Outdoor,Clay,"€540,310",kitzbuhel//2017.07.31
 /en/tournaments/montreal/421/overview,"Montreal, Canada",2017.08.07,56,Outdoor,Hard,"$5,275,595",montreal//2017.08.07
 /en/tournaments/cincinnati/422/overview,"Cincinnati, United States",2017.08.13,56,Outdoor,Hard,"$5,627,305",cincinnati//2017.08.13
 /en/tournaments/winston-salem/6242/overview,"Winston-Salem, United States",2017.08.20,48,Outdoor,Hard,"$748,960",winston salem//2017.08.20
@@ -1946,9 +1946,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/beijing/747/overview,"Beijing, China",2017.10.02,32,Outdoor,Hard,"$4,280,460",beijing//2017.10.02
 /en/tournaments/tokyo/329/overview,"Tokyo, Japan",2017.10.02,32,Outdoor,Hard,"$1,706,175",tokyo//2017.10.02
 /en/tournaments/shanghai/5014/overview,"Shanghai, China",2017.10.08,56,Outdoor,Hard,"$8,092,625",shanghai//2017.10.08
-/en/tournaments/stockholm/429/overview,"Stockholm, Sweden",2017.10.16,28,Indoor,Hard,"€660,375",stockholm//2017.10.16
 /en/tournaments/moscow/438/overview,"Moscow, Russia",2017.10.16,28,Indoor,Hard,"$823,600",moscow//2017.10.16
 /en/tournaments/antwerp/7485/overview,"Antwerp, Belgium",2017.10.16,28,Indoor,Hard,"€660,375",antwerp//2017.10.16
+/en/tournaments/stockholm/429/overview,"Stockholm, Sweden",2017.10.16,28,Indoor,Hard,"€660,375",stockholm//2017.10.16
 /en/tournaments/vienna/337/overview,"Vienna, Austria",2017.10.23,32,Indoor,Hard,"€2,621,850",vienna//2017.10.23
 /en/tournaments/basel/328/overview,"Basel, Switzerland",2017.10.23,32,Indoor,Hard,"€2,291,860",basel//2017.10.23
 /en/tournaments/paris/352/overview,"Paris, France",2017.10.30,48,Indoor,Hard,"€4,835,975",paris//2017.10.30
@@ -1960,18 +1960,18 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/sydney/338/overview,"Sydney, Australia",2018.01.07,28,Outdoor,Hard,"$528,910",sydney//2018.01.07
 /en/tournaments/auckland/301/overview,"Auckland, New Zealand",2018.01.08,28,Outdoor,Hard,"$561,345",auckland//2018.01.08
 /en/tournaments/australian-open/580/overview,"Melbourne, Australia",2018.01.15,128,Outdoor,Hard,"A$25,096,000",melbourne//2018.01.15
-/en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2018.02.05,28,Indoor,Hard,"€561,345",sofia//2018.02.05
-/en/tournaments/quito/7161/overview,"Quito, Ecuador",2018.02.05,28,Outdoor,Clay,"$561,345",quito//2018.02.05
 /en/tournaments/montpellier/375/overview,"Montpellier, France",2018.02.05,28,Indoor,Hard,"€561,345",montpellier//2018.02.05
+/en/tournaments/quito/7161/overview,"Quito, Ecuador",2018.02.05,28,Outdoor,Clay,"$561,345",quito//2018.02.05
+/en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2018.02.05,28,Indoor,Hard,"€561,345",sofia//2018.02.05
 /en/tournaments/buenos-aires/506/overview,"Buenos Aires, Argentina",2018.02.12,28,Outdoor,Clay,"$648,180",buenos aires//2018.02.12
-/en/tournaments/rotterdam/407/overview,"Rotterdam, Netherlands",2018.02.12,32,Indoor,Hard,"€1,996,245",rotterdam//2018.02.12
 /en/tournaments/new-york/424/overview,"New York, United States",2018.02.12,28,Indoor,Hard,"$748,450",new york//2018.02.12
+/en/tournaments/rotterdam/407/overview,"Rotterdam, Netherlands",2018.02.12,32,Indoor,Hard,"€1,996,245",rotterdam//2018.02.12
+/en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2018.02.19,32,Outdoor,Hard,"$622,675",delray beach//2018.02.19
 /en/tournaments/rio-de-janeiro/6932/overview,"Rio de Janeiro, Brazil",2018.02.19,32,Outdoor,Clay,"$1,842,475",rio de janeiro//2018.02.19
 /en/tournaments/marseille/496/overview,"Marseille, France",2018.02.19,28,Indoor,Hard,"€718,810",marseille//2018.02.19
-/en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2018.02.19,32,Outdoor,Hard,"$622,675",delray beach//2018.02.19
+/en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2018.02.26,28,Indoor,Clay,"$582,870",sao paulo//2018.02.26
 /en/tournaments/dubai/495/overview,"Dubai, United Arab Emirates",2018.02.26,32,Outdoor,Hard,"$3,057,135",dubai//2018.02.26
 /en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2018.02.26,32,Outdoor,Hard,"$1,789,445",acapulco//2018.02.26
-/en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2018.02.26,28,Indoor,Clay,"$582,870",sao paulo//2018.02.26
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2018.03.08,96,Outdoor,Hard,"$8,909,960",indian wells//2018.03.08
 /en/tournaments/miami/403/overview,"Miami, United States",2018.03.21,96,Outdoor,Hard,"$8,909,960",miami//2018.03.21
 /en/tournaments/houston/717/overview,"Houston, United States",2018.04.09,28,Outdoor,Clay,"$623,710",houston//2018.04.09
@@ -1979,9 +1979,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/monte-carlo/410/overview,"Monte Carlo, Monaco",2018.04.15,56,Outdoor,Clay,"€5,238,735",monte carlo//2018.04.15
 /en/tournaments/barcelona/425/overview,"Barcelona, Spain",2018.04.23,48,Outdoor,Clay,"€2,794,220",barcelona//2018.04.23
 /en/tournaments/budapest/7648/overview,"Budapest, Hungary",2018.04.23,28,Outdoor,Clay,"€561,345",budapest//2018.04.23
+/en/tournaments/istanbul/7163/overview,"Istanbul, Turkiye",2018.04.30,28,Outdoor,Clay,"€486,145",istanbul//2018.04.30
 /en/tournaments/estoril/7290/overview,"Estoril, Portugal",2018.04.30,28,Outdoor,Clay,"€561,345",estoril//2018.04.30
 /en/tournaments/munich/308/overview,"Munich, Germany",2018.04.30,28,Outdoor,Clay,"€561,345",munich//2018.04.30
-/en/tournaments/istanbul/7163/overview,"Istanbul, Turkiye",2018.04.30,28,Outdoor,Clay,"€486,145",istanbul//2018.04.30
 /en/tournaments/madrid/1536/overview,"Madrid, Spain",2018.05.06,56,Outdoor,Clay,"€7,190,930",madrid//2018.05.06
 /en/tournaments/rome/416/overview,"Rome, Italy",2018.05.13,56,Outdoor,Clay,"€5,444,985",rome//2018.05.13
 /en/tournaments/lyon/7694/overview,"Lyon, France",2018.05.20,28,Outdoor,Clay,"€561,345",lyon//2018.05.20
@@ -1989,13 +1989,13 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/roland-garros/520/overview,"Paris, France",2018.05.27,128,Outdoor,Clay,"€18,232,000",paris//2018.05.27
 /en/tournaments/stuttgart/321/overview,"Stuttgart, Germany",2018.06.11,28,Outdoor,Grass,"€729,340",stuttgart//2018.06.11
 /en/tournaments/s-hertogenbosch/440/overview,"'s-Hertogenbosch, Netherlands",2018.06.11,28,Outdoor,Grass,"€686,080",s hertogenbosch//2018.06.11
-/en/tournaments/london/311/overview,"London, Great Britain",2018.06.18,32,Outdoor,Grass,"€2,116,915",london//2018.06.18
 /en/tournaments/halle/500/overview,"Halle, Germany",2018.06.18,32,Outdoor,Grass,"€2,116,915",halle//2018.06.18
+/en/tournaments/london/311/overview,"London, Great Britain",2018.06.18,32,Outdoor,Grass,"€2,116,915",london//2018.06.18
 /en/tournaments/antalya/7650/overview,"Antalya, Turkiye",2018.06.24,28,Outdoor,Grass,"€486,145",antalya//2018.06.24
 /en/tournaments/eastbourne/741/overview,"Eastbourne, Great Britain",2018.06.25,28,Outdoor,Grass,"€721,085",eastbourne//2018.06.25
 /en/tournaments/wimbledon/540/overview,"London, Great Britain",2018.07.02,128,Outdoor,Grass,"£15,982,000",london//2018.07.02
-/en/tournaments/newport/315/overview,"Newport, United States",2018.07.16,28,Outdoor,Grass,"$623,710",newport//2018.07.16
 /en/tournaments/bastad/316/overview,"Bastad, Sweden",2018.07.16,28,Outdoor,Clay,"€561,345",bastad//2018.07.16
+/en/tournaments/newport/315/overview,"Newport, United States",2018.07.16,28,Outdoor,Grass,"$623,710",newport//2018.07.16
 /en/tournaments/umag/439/overview,"Umag, Croatia",2018.07.16,28,Outdoor,Clay,"€561,345",umag//2018.07.16
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2018.07.23,32,Outdoor,Clay,"€1,753,255",hamburg//2018.07.23
 /en/tournaments/atlanta/6116/overview,"Atlanta, United States",2018.07.23,28,Outdoor,Hard,"$748,450",atlanta//2018.07.23
@@ -2029,27 +2029,27 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/sydney/338/overview,"Sydney, Australia",2019.01.06,28,Outdoor,Hard,"$589,680",sydney//2019.01.06
 /en/tournaments/auckland/301/overview,"Auckland, New Zealand",2019.01.07,28,Outdoor,Hard,"$589,680",auckland//2019.01.07
 /en/tournaments/australian-open/580/overview,"Melbourne, Australia",2019.01.14,128,Outdoor,Hard,"A$29,687,000",melbourne//2019.01.14
-/en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2019.02.04,28,Indoor,Hard,"€586,140",sofia//2019.02.04
 /en/tournaments/cordoba/9158/overview,"Cordoba, Argentina",2019.02.04,28,Outdoor,Clay,"$589,680",cordoba//2019.02.04
 /en/tournaments/montpellier/375/overview,"Montpellier, France",2019.02.04,28,Indoor,Hard,"€586,140",montpellier//2019.02.04
-/en/tournaments/new-york/424/overview,"New York, United States",2019.02.11,28,Indoor,Hard,"$777,385",new york//2019.02.11
+/en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2019.02.04,28,Indoor,Hard,"€586,140",sofia//2019.02.04
 /en/tournaments/buenos-aires/506/overview,"Buenos Aires, Argentina",2019.02.11,28,Outdoor,Clay,"$673,135",buenos aires//2019.02.11
+/en/tournaments/new-york/424/overview,"New York, United States",2019.02.11,28,Indoor,Hard,"$777,385",new york//2019.02.11
 /en/tournaments/rotterdam/407/overview,"Rotterdam, Netherlands",2019.02.11,32,Indoor,Hard,"€2,098,480",rotterdam//2019.02.11
 /en/tournaments/rio-de-janeiro/6932/overview,"Rio de Janeiro, Brazil",2019.02.18,32,Outdoor,Clay,"$1,937,740",rio de janeiro//2019.02.18
 /en/tournaments/marseille/496/overview,"Marseille, France",2019.02.18,28,Indoor,Hard,"€744,010",marseille//2019.02.18
 /en/tournaments/delray-beach/499/overview,"Delray Beach, United States",2019.02.18,32,Outdoor,Hard,"$651,215",delray beach//2019.02.18
-/en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2019.02.25,28,Indoor,Clay,"$618,810",sao paulo//2019.02.25
 /en/tournaments/dubai/495/overview,"Dubai, United Arab Emirates",2019.02.25,32,Outdoor,Hard,"$2,887,895",dubai//2019.02.25
 /en/tournaments/acapulco/807/overview,"Acapulco, Mexico",2019.02.25,32,Outdoor,Hard,"$1,931,110",acapulco//2019.02.25
+/en/tournaments/sao-paulo/533/overview,"Sao Paulo, Brazil",2019.02.25,28,Indoor,Clay,"$618,810",sao paulo//2019.02.25
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2019.03.07,96,Outdoor,Hard,"$9,314,875",indian wells//2019.03.07
 /en/tournaments/miami/403/overview,"Miami, United States",2019.03.20,96,Outdoor,Hard,"$9,314,875",miami//2019.03.20
-/en/tournaments/houston/717/overview,"Houston, United States",2019.04.08,28,Outdoor,Clay,"$652,245",houston//2019.04.08
 /en/tournaments/marrakech/360/overview,"Marrakech, Morocco",2019.04.08,32,Outdoor,Clay,"€586,140",marrakech//2019.04.08
+/en/tournaments/houston/717/overview,"Houston, United States",2019.04.08,28,Outdoor,Clay,"$652,245",houston//2019.04.08
 /en/tournaments/monte-carlo/410/overview,"Monte Carlo, Monaco",2019.04.14,56,Outdoor,Clay,"€5,585,030",monte carlo//2019.04.14
-/en/tournaments/budapest/7648/overview,"Budapest, Hungary",2019.04.22,28,Outdoor,Clay,"€586,140",budapest//2019.04.22
 /en/tournaments/barcelona/425/overview,"Barcelona, Spain",2019.04.22,48,Outdoor,Clay,"€2,746,455",barcelona//2019.04.22
-/en/tournaments/munich/308/overview,"Munich, Germany",2019.04.29,28,Outdoor,Clay,"€586,140",munich//2019.04.29
+/en/tournaments/budapest/7648/overview,"Budapest, Hungary",2019.04.22,28,Outdoor,Clay,"€586,140",budapest//2019.04.22
 /en/tournaments/estoril/7290/overview,"Estoril, Portugal",2019.04.29,28,Outdoor,Clay,"€586,140",estoril//2019.04.29
+/en/tournaments/munich/308/overview,"Munich, Germany",2019.04.29,28,Outdoor,Clay,"€586,140",munich//2019.04.29
 /en/tournaments/madrid/1536/overview,"Madrid, Spain",2019.05.05,56,Outdoor,Clay,"€7,279,270",madrid//2019.05.05
 /en/tournaments/rome/416/overview,"Rome, Italy",2019.05.12,56,Outdoor,Clay,"€5,791,280",rome//2019.05.12
 /en/tournaments/geneva/322/overview,"Geneva, Switzerland",2019.05.19,28,Outdoor,Clay,"€586,140",geneva//2019.05.19
@@ -2170,8 +2170,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/melbourne/8998/overview,"Melbourne, Australia",2021.02.01,56,Outdoor,Hard,"$382,575",melbourne//2021.02.01
 /en/tournaments/pune/891/overview,"Pune, India",2021.02.01,28,Outdoor,Hard,,pune//2021.02.01
 /en/tournaments/atp-cup/8888/overview,"Melbourne, Australia",2021.02.02,12,Outdoor,Hard,"$4,666,665",melbourne//2021.02.02
-/en/tournaments/new-york/424/overview,"New York, United States",2021.02.08,28,Indoor,Hard,,new york//2021.02.08
 /en/tournaments/australian-open/580/overview,"Melbourne, Australia",2021.02.08,128,Outdoor,Hard,"A$32,790,000",melbourne//2021.02.08
+/en/tournaments/new-york/424/overview,"New York, United States",2021.02.08,28,Indoor,Hard,,new york//2021.02.08
 /en/tournaments/rio-de-janeiro/6932/overview,"Rio de Janeiro, Brazil",2021.02.15,32,Outdoor,Clay,,rio de janeiro//2021.02.15
 /en/tournaments/montpellier/375/overview,"Montpellier, France",2021.02.22,28,Indoor,Hard,"€481,270",montpellier//2021.02.22
 /en/tournaments/singapore/9460/overview,"Singapore, Singapore",2021.02.22,28,Indoor,Hard,"$541,800",singapore//2021.02.22
@@ -2355,9 +2355,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/bastad/316/overview,"Bastad, Sweden",2023.07.17,28,Outdoor,Clay,"€630,705",bastad//2023.07.17
 /en/tournaments/newport/315/overview,"Newport, United States",2023.07.17,28,Outdoor,Grass,"$718,245",newport//2023.07.17
 /en/tournaments/gstaad/314/overview,"Gstaad, Switzerland",2023.07.17,28,Outdoor,Clay,"€630,705",gstaad//2023.07.17
-/en/tournaments/atlanta/6116/overview,"Atlanta, United States",2023.07.24,28,Outdoor,Hard,"$822,175",atlanta//2023.07.24
-/en/tournaments/umag/439/overview,"Umag, Croatia",2023.07.24,28,Outdoor,Clay,"€630,705",umag//2023.07.24
 /en/tournaments/hamburg/414/overview,"Hamburg, Germany",2023.07.24,32,Outdoor,Clay,"€1,981,470",hamburg//2023.07.24
+/en/tournaments/umag/439/overview,"Umag, Croatia",2023.07.24,28,Outdoor,Clay,"€630,705",umag//2023.07.24
+/en/tournaments/atlanta/6116/overview,"Atlanta, United States",2023.07.24,28,Outdoor,Hard,"$822,175",atlanta//2023.07.24
 /en/tournaments/washington/418/overview,"Washington, United States",2023.07.31,48,Outdoor,Hard,"$2,178,980",washington//2023.07.31
 /en/tournaments/los-cabos/7480/overview,"Los Cabos, Mexico",2023.07.31,28,Outdoor,Hard,"$946,975",los cabos//2023.07.31
 /en/tournaments/kitzbuhel/319/overview,"Kitzbuhel, Austria",2023.07.31,28,Outdoor,Clay,"€630,705",kitzbuhel//2023.07.31
@@ -2365,9 +2365,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/cincinnati/422/overview,"Cincinnati, United States",2023.08.13,56,Outdoor,Hard,"$7,665,215",cincinnati//2023.08.13
 /en/tournaments/winston-salem/6242/overview,"Winston-Salem, United States",2023.08.20,48,Outdoor,Hard,"$850,680",winston salem//2023.08.20
 /en/tournaments/us-open/560/overview,"New York, United States",2023.08.28,128,Outdoor,Hard,"$29,148,800",new york//2023.08.28
-/en/tournaments/zhuhai/9164/overview,"Zhuhai, China",2023.09.20,28,Outdoor,Hard,"$1,057,295",zhuhai//2023.09.20
-/en/tournaments/chengdu/7581/overview,"Chengdu, China",2023.09.20,28,Outdoor,Hard,"$1,261,555",chengdu//2023.09.20
 /en/tournaments/nur-sultan/9410/overview,"Nur-Sultan, Kazakhstan",2023.09.20,28,Indoor,Hard,"$541,800",nur sultan//2023.09.20
+/en/tournaments/chengdu/7581/overview,"Chengdu, China",2023.09.20,28,Outdoor,Hard,"$1,261,555",chengdu//2023.09.20
+/en/tournaments/zhuhai/9164/overview,"Zhuhai, China",2023.09.20,28,Outdoor,Hard,"$1,057,295",zhuhai//2023.09.20
 /en/tournaments/laver-cup/9210/overview,"Vancouver, Canada",2023.09.22,12,Indoor,Hard,,vancouver//2023.09.22
 /en/tournaments/astana/9410/overview,"Astana, Kazakhstan",2023.09.27,28,Indoor,Hard,"$1,093,360",astana//2023.09.27
 /en/tournaments/beijing/747/overview,"Beijing, China",2023.09.28,32,Outdoor,Hard,"$3,798,915",beijing//2023.09.28
@@ -2375,10 +2375,11 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/tokyo/329/overview,"Tokyo, Japan",2023.10.16,32,Outdoor,Hard,"$2,022,700",tokyo//2023.10.16
 /en/tournaments/stockholm/429/overview,"Stockholm, Sweden",2023.10.16,28,Indoor,Hard,"€750,950",stockholm//2023.10.16
 /en/tournaments/antwerp/7485/overview,"Antwerp, Belgium",2023.10.16,28,Indoor,Hard,"€750,950",antwerp//2023.10.16
-/en/tournaments/basel/328/overview,"Basel, Switzerland",2023.10.23,32,Indoor,Hard,"€2,345,955",basel//2023.10.23
 /en/tournaments/vienna/337/overview,"Vienna, Austria",2023.10.23,32,Indoor,Hard,"€2,559,790",vienna//2023.10.23
+/en/tournaments/basel/328/overview,"Basel, Switzerland",2023.10.23,32,Indoor,Hard,"€2,345,955",basel//2023.10.23
 /en/tournaments/paris/352/overview,"Paris, France",2023.10.30,56,Indoor,Hard,"€6,748,815",paris//2023.10.30
 /en/tournaments/metz/341/overview,"Metz, France",2023.11.05,28,Indoor,Hard,"€630,705",metz//2023.11.05
 /en/tournaments/sofia/7434/overview,"Sofia, Bulgaria",2023.11.05,28,Indoor,Hard,"€630,705",sofia//2023.11.05
 /en/tournaments/nitto-atp-finals/605/overview,"Turin, Italy",2023.11.12,8,Indoor,Hard,,turin//2023.11.12
 /en/tournaments/next-gen-atp-finals/7696/overview,"Jeddah, Saudi Arabia",2023.11.28,8,Indoor,Hard,"$2,000,000",jeddah//2023.11.28
+/en/tournaments/perth-sydney/9900/overview,"Mallorca, Australia",2023.12.29,18,Outdoor,Hard,,mallorca//2023.12.29
