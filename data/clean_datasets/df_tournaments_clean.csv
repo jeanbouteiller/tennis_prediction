@@ -1806,8 +1806,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/us-open/560/overview,"New York, United States",2015.08.31,128,Outdoor,Hard,"$19,852,700",new york//2015.08.31
 /en/tournaments/st-petersburg/568/overview,"St. Petersburg, Russia",2015.09.21,28,Indoor,Hard,"$1,091,000",st. petersburg//2015.09.21
 /en/tournaments/metz/341/overview,"Metz, France",2015.09.21,28,Indoor,Hard,"€494,310",metz//2015.09.21
-/en/tournaments/kuala-lumpur/6003/overview,"Kuala Lumpur, Malaysia",2015.09.28,28,Indoor,Hard,"$1,041,540",kuala lumpur//2015.09.28
 /en/tournaments/shenzhen/6967/overview,"Shenzhen, China",2015.09.28,28,Outdoor,Hard,"$668,945",shenzhen//2015.09.28
+/en/tournaments/kuala-lumpur/6003/overview,"Kuala Lumpur, Malaysia",2015.09.28,28,Indoor,Hard,"$1,041,540",kuala lumpur//2015.09.28
 /en/tournaments/beijing/747/overview,"Beijing, China",2015.10.05,32,Outdoor,Hard,"$3,944,715",beijing//2015.10.05
 /en/tournaments/tokyo/329/overview,"Tokyo, Japan",2015.10.05,32,Outdoor,Hard,"$1,397,250",tokyo//2015.10.05
 /en/tournaments/shanghai/5014/overview,"Shanghai, China",2015.10.11,56,Outdoor,Hard,"$7,021,335",shanghai//2015.10.11
@@ -2333,8 +2333,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/santiago/8996/overview,"Santiago, Chile",2023.02.27,28,Outdoor,Clay,"$718,245",santiago//2023.02.27
 /en/tournaments/indian-wells/404/overview,"Indian Wells, United States",2023.03.08,96,Outdoor,Hard,"$10,143,750",indian wells//2023.03.08
 /en/tournaments/miami/403/overview,"Miami, United States",2023.03.22,96,Outdoor,Hard,"$10,155,105",miami//2023.03.22
-/en/tournaments/marrakech/360/overview,"Marrakech, Morocco",2023.04.03,28,Outdoor,Clay,"€630,705",marrakech//2023.04.03
 /en/tournaments/estoril/7290/overview,"Estoril, Portugal",2023.04.03,28,Outdoor,Clay,"€630,705",estoril//2023.04.03
+/en/tournaments/marrakech/360/overview,"Marrakech, Morocco",2023.04.03,28,Outdoor,Clay,"€630,705",marrakech//2023.04.03
 /en/tournaments/houston/717/overview,"Houston, United States",2023.04.03,28,Outdoor,Clay,"$718,245",houston//2023.04.03
 /en/tournaments/monte-carlo/410/overview,"Monte-Carlo, Monaco",2023.04.09,56,Outdoor,Clay,"€6,228,295",monte carlo//2023.04.09
 /en/tournaments/banja-luka/2841/overview,"Banja Luka, Bosnia-Herzegovina",2023.04.17,28,Outdoor,Clay,"€630,705",banja luka//2023.04.17
@@ -2372,9 +2372,9 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/astana/9410/overview,"Astana, Kazakhstan",2023.09.27,28,Indoor,Hard,"$1,093,360",astana//2023.09.27
 /en/tournaments/beijing/747/overview,"Beijing, China",2023.09.28,32,Outdoor,Hard,"$3,798,915",beijing//2023.09.28
 /en/tournaments/shanghai/5014/overview,"Shanghai, China",2023.10.04,96,Outdoor,Hard,"$10,046,270",shanghai//2023.10.04
-/en/tournaments/stockholm/429/overview,"Stockholm, Sweden",2023.10.16,28,Indoor,Hard,"€750,950",stockholm//2023.10.16
-/en/tournaments/tokyo/329/overview,"Tokyo, Japan",2023.10.16,32,Outdoor,Hard,"$2,022,700",tokyo//2023.10.16
 /en/tournaments/antwerp/7485/overview,"Antwerp, Belgium",2023.10.16,28,Indoor,Hard,"€750,950",antwerp//2023.10.16
+/en/tournaments/tokyo/329/overview,"Tokyo, Japan",2023.10.16,32,Outdoor,Hard,"$2,022,700",tokyo//2023.10.16
+/en/tournaments/stockholm/429/overview,"Stockholm, Sweden",2023.10.16,28,Indoor,Hard,"€750,950",stockholm//2023.10.16
 /en/tournaments/basel/328/overview,"Basel, Switzerland",2023.10.23,32,Indoor,Hard,"€2,345,955",basel//2023.10.23
 /en/tournaments/vienna/337/overview,"Vienna, Austria",2023.10.23,32,Indoor,Hard,"€2,559,790",vienna//2023.10.23
 /en/tournaments/paris/352/overview,"Paris, France",2023.10.30,56,Indoor,Hard,"€6,748,815",paris//2023.10.30
@@ -2388,8 +2388,8 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/adelaide/8998/overview,"Adelaide, Australia",2024.01.08,28,Outdoor,Hard,,adelaide//2024.01.08
 /en/tournaments/auckland/301/overview,"Auckland, New Zealand",2024.01.08,28,Outdoor,Hard,,auckland//2024.01.08
 /en/tournaments/montpellier/375/overview,"Montpellier, France",2024.01.29,28,Indoor,Hard,,montpellier//2024.01.29
-/en/tournaments/dallas/424/overview,"Dallas, United States",2024.02.05,28,Indoor,Hard,,dallas//2024.02.05
 /en/tournaments/marseille/496/overview,"Marseille, France",2024.02.05,28,Indoor,Hard,,marseille//2024.02.05
+/en/tournaments/dallas/424/overview,"Dallas, United States",2024.02.05,28,Indoor,Hard,,dallas//2024.02.05
 /en/tournaments/cordoba/9158/overview,"Cordoba, Argentina",2024.02.05,28,Outdoor,Clay,,cordoba//2024.02.05
 /en/tournaments/buenos-aires/506/overview,"Buenos Aires, Argentina",2024.02.12,28,Outdoor,Clay,,buenos aires//2024.02.12
 /en/tournaments/rotterdam/407/overview,"Rotterdam, Netherlands",2024.02.12,32,Indoor,Hard,,rotterdam//2024.02.12
@@ -2408,3 +2408,4 @@ url,tournament_name,tournament_date,number_players,indoor_outdoor,surface,prize_
 /en/tournaments/monte-carlo/410/overview,"Monte-Carlo, Monaco",2024.04.07,56,Outdoor,Clay,,monte carlo//2024.04.07
 /en/tournaments/barcelona/425/overview,"Barcelona, Spain",2024.04.15,48,Outdoor,Clay,,barcelona//2024.04.15
 /en/tournaments/munich/308/overview,"Munich, Germany",2024.04.15,28,Outdoor,Clay,,munich//2024.04.15
+/en/tournaments/madrid/1536/overview,"Madrid, Spain",2024.04.24,96,Outdoor,Clay,,madrid//2024.04.24
